@@ -1,0 +1,1829 @@
+,Municipio,UF,NomeEstacao,CodEstacao,Latitude,Longitude,Altitude,StatusEstacao
+0,São Félix Do Xingú,PA,UHE Belo Monte Joari,652002,-6.5603,-52.0764,0.0,Ativo
+1,Caruaru,PE,Caruaru,835106,-8.3028,-36.0108,545.0,Ativo
+2,Rio Do Prado,MG,PCH Machado Mineiro Passagem Das Éguas,1542030,-15.6092,-42.5417,0.0,Ativo
+3,Jaíba,MG,PZ_Faz Santa Helena,1543028,-15.3736,-43.6842,0.0,Ativo
+4,Jaíba,MG,PZ_Linha II,1543029,-15.3847,-43.7292,0.0,Ativo
+5,Jaíba,MG,PZ_Proj Jaíba,1543030,-15.2608,-43.775,0.0,Ativo
+6,Barro Alto,GO,UHE Serra Da Mesa Barro Alto,1548050,-15.1175,-48.9242,584.0,Ativo
+7,São João Da Ponte,MG,PZ_Bom Jardim,1643045,-16.1108,-43.8531,0.0,Ativo
+8,Montes Claros,MG,PZ_Barra Do Rio Verde,1643046,-16.1761,-43.7742,0.0,Ativo
+9,Montes Claros,MG,PZ_Pelg,1643047,-16.7056,-43.7672,0.0,Ativo
+10,Montes Claros,MG,PZ_Ete Vieira,1643048,-16.6872,-43.8544,0.0,Ativo
+11,Cristalina,GO,UHE Batalha Cristalina,1647002,-16.7881,-47.6033,1173.0,Ativo
+12,Cristalina,GO,UHE Batalha Fazenda Buriti,1647023,-16.9683,-47.3419,881.0,Ativo
+13,Unaí,MG,UHE Batalha Sítio Olho D' Água,1647024,-16.3892,-47.1508,974.0,Ativo
+14,Lassance,MG,Lassance,1744010,-17.89,-44.5767,536.0,Ativo
+15,Piracanjuba,GO,UHE Itumbiara Piracanjuba,1749015,-17.3106,-49.0219,730.0,Ativo
+16,Água Limpa,GO,UHE Itumbiara Água Limpa,1848059,-18.0747,-48.7564,711.0,Ativo
+17,Anhanguera,GO,UHE Itumbiara Fazenda Rosas,1848060,-18.3233,-48.2264,0.0,Ativo
+18,Antônio Dias,MG,UHE Sá Carvalho Jusante,1942049,-19.6347,-42.8061,0.0,Ativo
+19,Serra Do Salitre,MG,CGH Santa Luzia Se Serra Do Salitre,1946024,-19.1183,-46.6817,0.0,Ativo
+20,Rio Casca,MG,CGH Nova Ponte Queimada II Barramento,2042436,-20.2769,-42.6517,350.0,Ativo
+21,Pedregulho,SP,UHE Luiz Carlos Barreto De Carvalho Met,2047115,-20.1583,-47.2781,725.0,Ativo
+22,Juiz De Fora,MG,PCH Marmelos Chapéu D'uvas,2143162,-21.5853,-43.5272,746.0,Ativo
+23,Cravinhos,SP,Fazenda Das Flores,2147012,-21.3333,-47.7833,720.0,Ativo
+24,Ribeirão Preto,SP,Fazenda Resfriado,2147013,-21.3,-47.9333,590.0,Ativo
+25,Cravinhos,SP,Cravinhos,2147014,-21.3667,-47.7167,700.0,Ativo
+26,Valença,RJ,UHE Simplício Fazenda Santa Mônica,2243507,-22.3608,-43.6978,0.0,Ativo
+27,Sapucaia,RJ,UHE Simplício Meteorológica,2243508,-22.0389,-43.0006,414.0,Ativo
+28,Resende,RJ,UHE Funil Resende Aeroporto,2244161,-22.4756,-44.4736,0.0,Ativo
+29,Guaratinguetá,SP,UHE Funil Guaratinguetá,2245032,-22.8089,-45.2008,558.0,Ativo
+30,Tibagi,PR,Bom Jardim Montante,2450009,-24.6778,-50.4844,750.0,Ativo
+31,Santa Maria Do Oeste,PR,UHE Itaipu Santa Maria,2451059,-24.9333,-51.8833,550.0,Ativo
+32,Piraquara,PR,Entremar,2549113,-25.4892,-49.0408,900.0,Ativo
+33,Guarapuava,PR,UHE Fundão Guarapuava,2551070,-25.3847,-51.4939,0.0,Ativo
+34,Pinhão,PR,UHE Fundão Pinhão,2551071,-25.6492,-51.9625,0.0,Ativo
+35,Guarapuava,PR,UHE Santa Clara Entre Rios,2551072,-25.5458,-51.4883,0.0,Ativo
+36,Sananduva,RS,Cooperativa Tritícola Sananduva,2751063,-27.9589,-51.7956,0.0,Ativo
+37,Pinhal Da Serra,RS,Parque De Eventos Pinhal Da Serra,2751066,-27.8792,-51.1769,0.0,Ativo
+38,Constantina,RS,COOPAC Constantina,2752060,-27.7253,-52.9781,0.0,Ativo
+39,Sarandi,RS,Agrop. Papagaio Charõa Sarandi,2752061,-27.9253,-52.82,0.0,Ativo
+40,Barra Do Rio Azul,RS,Prefeitura Barra Do Rio Azul,2752062,-27.41,-52.4156,0.0,Ativo
+41,Cerro Grande,RS,Prefeitura Cerro Grande,2753053,-27.6103,-53.1667,0.0,Ativo
+42,Erval Seco,RS,CGH Rio Fortaleza Barramento,2753057,-27.4736,-53.4578,341.0,Ativo
+43,Taquaruçu Do Sul,RS,CGH Linha Granja Velha Barramento,2753058,-27.4267,-53.54,277.0,Ativo
+44,Seberi,RS,CGH Carlos Bevilácqua Barramento,2753059,-27.6028,-53.3917,468.0,Ativo
+45,Crissiumal,RS,CGH Caa Yari Barramento,2754026,-27.4286,-54.1217,184.0,Ativo
+46,São José Dos Ausentes,RS,Pousada Aparados Da Serra S.J. Ausentes,2849066,-28.6064,-49.8206,0.0,Ativo
+47,Bom Jesus,RS,Brigada Militar Bom Jesus,2850048,-28.6717,-50.4336,0.0,Ativo
+48,Guaporé,RS,Guaporé,2851044,-28.8444,-51.8792,520.0,Ativo
+49,Esmeralda,RS,Parque De Rodeios Esmeralda,2851079,-28.0653,-51.17,0.0,Ativo
+50,Vista Alegre Do Prata,RS,CGH São Domingos Do Prata Barramento,2851080,-28.8092,-51.7364,411.0,Ativo
+51,Soledade,RS,CGH Taipinha Barramento,2851085,-28.9364,-51.5058,555.0,Ativo
+52,Carazinho,RS,Aeroclube Carazinho,2852074,-28.3225,-52.8164,0.0,Ativo
+53,Tapejara,RS,Polo UAB Tapejara,2852075,-28.0892,-52.0061,0.0,Ativo
+54,Fontoura Xavier,RS,CGH Soledade Barramento,2852077,-28.9378,-52.4856,533.0,Ativo
+55,Panambi,RS,Instituto Federal Panambi,2853052,-28.2817,-53.5158,0.0,Ativo
+56,Santa Barbara Do Sul,RS,Fazenda Roos Santa Bárbara Do Sul,2853053,-28.1833,-53.2242,0.0,Ativo
+57,Boa Vista Do Cadeado,RS,CGH Igrejinha Barramento,2853054,-28.7953,-53.9714,0.0,Ativo
+58,Boa Vista Do Cadeado,RS,CGH Formigueiro Barramento,2853055,-28.5369,-53.8603,0.0,Ativo
+59,Condor,RS,CGH João Do Passo Barramento,2853056,-28.245,-53.4156,439.0,Ativo
+60,Capão Do Cipó,RS,Escola Capão Do Cipó,2854031,-28.9417,-54.5578,0.0,Ativo
+61,Bossoroca,RS,Coopatrigo Bossoroca,2854032,-28.7325,-54.9117,0.0,Ativo
+62,Tupancireta,RS,Santa Tecla Tupanciretã,2854036,-28.9003,-54.1589,0.0,Ativo
+63,Guarani Das Missões,RS,CGH Coopermil Jusante,2854039,-28.1389,-54.5464,245.0,Ativo
+64,Garibaldi,RS,CRAS Garruchos,2855017,-28.1925,-55.6378,0.0,Ativo
+65,Santo Antônio Das Missões,RS,Brigada Militar Sto. Antônio Missões,2855018,-28.5128,-55.2286,0.0,Ativo
+66,Torres,RS,Aeroporto Torres,2949025,-29.4142,-49.8047,0.0,Ativo
+67,Morrinhos Do Sul,RS,Prefeitura Morrinhos Do Sul,2949027,-29.3686,-49.9331,0.0,Ativo
+68,Jacinto Machado,SC,Barragem Do Rio Leão,2949029,-29.0922,-49.8808,0.0,Ativo
+69,Cambará Do Sul,RS,Cânion Fortaleza Cambará Do Sul,2949030,-29.0842,-49.9986,0.0,Ativo
+70,Morrinhos Do Sul,RS,Morro Do Forno Morrinhos Do Sul,2949031,-29.3167,-49.9825,0.0,Ativo
+71,São Francisco De Paula,RS,Capão Dos Coxos,2950045,-29.4083,-50.5842,890.0,Ativo
+72,Santo Antônio Da Patrulha,RS,Brigada Militar Sto. Antônio Da Patrulha,2950103,-29.8264,-50.5181,0.0,Ativo
+73,Capão Da Canoa,RS,Aeroporto Capáo Da Canoa,2950104,-29.7661,-50.0383,0.0,Ativo
+74,Osório,RS,Eta Corsan Osório,2950106,-29.8889,-50.2581,0.0,Ativo
+75,Rolante,RS,Boa Esperança Rolante,2950107,-29.5586,-50.5025,0.0,Ativo
+76,São Francisco De Paula,RS,Fazenda Taipas - S.F. De Paula,2950108,-29.4686,-50.4519,0.0,Ativo
+77,Cambará Do Sul,RS,Pq. Aparados Da Serra Cambará Do Sul,2950109,-29.1586,-50.0789,0.0,Ativo
+78,Maquiné,RS,Prop. Barra Do Ouro,2950110,-29.5681,-50.285,0.0,Ativo
+79,São Francisco De Paula,RS,Rincão Dos Kroeff S.F. De Paula,2950111,-29.4864,-50.3536,0.0,Ativo
+80,Morro Reuter,RS,Morro Reuter,2951142,-29.5289,-51.0369,492.0,Ativo
+81,Carlos Barbosa,RS,ASCLA Santa Clara Carlos Barbosa,2951144,-29.315,-51.4883,0.0,Ativo
+82,Caxias Do Sul,RS,CGH Santo Anjo Jusante,2951145,-29.205,-51.09,245.0,Ativo
+83,Estrela,RS,CGH Boa Vista Barramento,2951146,-29.4728,-51.8681,33.0,Ativo
+84,Barros Cassal,RS,Clube Barros Cassal,2952060,-29.0961,-52.5886,0.0,Ativo
+85,Herveiras,RS,Igreja Herveiras,2952061,-29.4536,-52.6486,0.0,Ativo
+86,Sinimbu,RS,Faz. São José Linha Carvalho,2952065,-29.3822,-52.7158,0.0,Ativo
+87,Sinimbu,RS,Linha Almeida,2952066,-29.37,-52.5072,0.0,Ativo
+88,Novo Cabrais,RS,Propriedade Novo Cabrais,2953068,-29.7558,-53.055,0.0,Ativo
+89,São Martinho Da Serra,RS,Secr. Agri. São Martinho,2953071,-29.5367,-53.8539,0.0,Ativo
+90,Cerro Branco,RS,Rincão Do Herval Cerro Branco,2953073,-29.6292,-53.0289,0.0,Ativo
+91,Agudo,RS,Linha Pomeranos Agudo,2953074,-29.5844,-53.1492,0.0,Ativo
+92,Tupancireta,RS,Cereais Centro Sul Tupanciretã,2953075,-29.1503,-53.7786,0.0,Ativo
+93,São Gabriel,RS,Coxilha Do Pau Finado São Gabriel,2954040,-29.9511,-54.3317,0.0,Ativo
+94,Dilermando De Aguiar,RS,Secr. Agr. M. Amb. Dilermano Guiar,2954041,-29.7075,-54.2056,0.0,Ativo
+95,São Francisco De Assis,RS,Fazenda Santa Tereza S.F. De Assis,2954044,-29.3278,-54.9475,0.0,Ativo
+96,Jarí,RS,Agrp. Santo Antônio Jari,2954045,-29.2258,-54.1925,0.0,Ativo
+97,Unistalda,RS,Cooperativa Agrosolo Unistalda,2955022,-29.0461,-55.1561,0.0,Ativo
+98,Maçambara,RS,Escolatécnica Encruzilhada Maçambará,2955023,-29.0058,-55.5089,0.0,Ativo
+99,São Francisco De Assis,RS,Fazenda Cordilheira S.F. De Assis,2955024,-29.4264,-55.1583,0.0,Ativo
+100,Maçambara,RS,Câmara De Vereadores Maçambará,2956011,-29.1478,-56.065,0.0,Ativo
+101,Uruguaiana,RS,Sanchuri (Escola) Uruguaiana,2956012,-29.5431,-56.8122,0.0,Ativo
+102,Uruguaiana,RS,Agrop. Cerro Do Coqueiro Uruguaiana,2956013,-29.7786,-56.5206,0.0,Ativo
+103,Uruguaiana,RS,Estânia Fortunatouruguaiana,2956014,-29.8744,-56.7975,0.0,Ativo
+104,Alegrete,RS,Fazenda São Leontino Alegrete,2956016,-29.7592,-56.1486,0.0,Ativo
+105,Viamão,RS,Eta Viamão,3050011,-30.0958,-50.9825,0.0,Ativo
+106,Mostardas,RS,Fazenda Cavalhada Palmares,3050014,-30.5011,-50.5775,0.0,Ativo
+107,Mostardas,RS,Escola Mario Quintana Mostadas,3050015,-30.6944,-50.5686,0.0,Ativo
+108,Sertão Santana,RS,Estacionameneto Prefeitura Sertão Santana,3051071,-30.4608,-51.6031,0.0,Ativo
+109,Mariana Pimentel,RS,Prefeitura Mariana Pimentel,3051072,-30.3542,-51.5844,0.0,Ativo
+110,Barão Do Triunfo,RS,Propriedade Barão Do Triunfo,3051074,-30.5053,-51.9003,0.0,Ativo
+111,Pantano Grande,RS,Cotribá Pantano Grande,3052025,-30.2042,-52.3703,0.0,Ativo
+112,Dom Feliciano,RS,Cheche Dom Feliciano,3052026,-30.7017,-52.1122,0.0,Ativo
+113,Vila Nova Do Sul,RS,Cotrisel Vila Nova Do Sul,3053032,-30.3353,-53.8925,0.0,Ativo
+114,Lavras Do Sul,RS,Marco Das Águas Lavras Do Sul,3054028,-30.7478,-54.1375,0.0,Ativo
+115,São Gabriel,RS,Azevedo Sodré São Gabriel,3054029,-30.0972,-54.6439,0.0,Ativo
+116,São Gabriel,RS,Fazenda São Gabriel,3054030,-30.4811,-54.5533,0.0,Ativo
+117,São Gabriel,RS,Tiaraju São Gabriel,3054031,-30.2447,-54.3697,0.0,Ativo
+118,Santana Do Livramento,RS,Usina Eólica Cerro Chato,3055016,-30.7919,-55.6617,0.0,Ativo
+119,Santana Do Livramento,RS,Estância Sarandi S. Livramento,3055017,-30.665,-55.9531,0.0,Ativo
+120,Rosário Do Sul,RS,Cabeceira Saicã Rosário Do Sul,3055018,-30.2269,-55.1553,0.0,Ativo
+121,Santana Do Livramento,RS,Cerro Do Combate S. Livramento,3055019,-30.5469,-55.3197,0.0,Ativo
+122,Santana Do Livramento,RS,Estância Santa Hilma S. Livramento,3055021,-30.9453,-55.6664,0.0,Ativo
+123,Quaraí,RS,Estância Caty Quaraí,3056029,-30.4247,-56.0206,0.0,Ativo
+124,Quaraí,RS,Granja Santa Luíza Quaraí,3056030,-30.1028,-56.1183,0.0,Ativo
+125,São José Do Norte,RS,CTG Estância Real De Bojuru,3151074,-31.655,-51.4375,0.0,Ativo
+126,Arroio Do Padre,RS,Pq. De Máquinas Arroio Do Padre,3152046,-31.4458,-52.4206,0.0,Ativo
+127,Morro Redondo,RS,Secretaria Agric. Morro Redondo,3152047,-31.6069,-52.6264,0.0,Ativo
+128,Pelotas,RS,Estância Da Graça Pelotas,3152051,-31.6258,-52.23,0.0,Ativo
+129,São Lourenço Do Sul,RS,São Lourenço Do Sul - Coopar,3152052,-31.2597,-52.2036,0.0,Ativo
+130,Pedras Altas,RS,CPRM Pedras Altas,3153031,-31.7336,-53.5886,0.0,Ativo
+131,Pinheiro Machado,RS,Corsanpinheiro Machado,3153033,-31.5778,-53.3772,0.0,Ativo
+132,Piratini,RS,Piratini Brigada Militar,3153034,-31.4386,-53.0983,0.0,Ativo
+133,Piratini,RS,Usina Termoelétrica Piratini,3153035,-31.2419,-53.1808,0.0,Ativo
+134,Aceguá,RS,Aduana Aceguá,3154011,-31.8661,-54.1672,0.0,Ativo
+135,Bagé,RS,Aeroporto Bagé,3154012,-31.3889,-54.1131,0.0,Ativo
+136,Dom Pedrito,RS,Bento Rengo Dom Pedrito,3154013,-31.27,-54.5311,0.0,Ativo
+137,Bagé,RS,José Otívio Bagé,3154014,-31.1792,-54.1569,0.0,Ativo
+138,Bagé,RS,Passo São Luis Bagé,3154015,-31.5119,-54.5114,0.0,Ativo
+139,Dom Pedrito,RS,Torquato Severo Dom Pedrito,3154016,-31.0222,-54.1847,0.0,Ativo
+140,Dom Pedrito,RS,Vila Serrilhada Dom Pedrito,3154017,-31.4378,-54.7122,0.0,Ativo
+141,Santana Do Livramento,RS,Marco Itaquatiá S. Livramento,3155004,-31.005,-55.3408,0.0,Ativo
+142,Santana Do Livramento,RS,Agropecuária Pozzobon S. Livramento,3155005,-31.2397,-55.0944,0.0,Ativo
+143,Arroio Grande,RS,Barragem Do Chasqueiro Arroio Grande,3253029,-32.1619,-53.0078,0.0,Ativo
+144,Herval,RS,Corsan Herval,3253030,-32.0289,-53.3978,0.0,Ativo
+145,Herval,RS,Passo Do Centurião Herval,3253031,-32.1194,-53.735,0.0,Ativo
+146,Santa Vitória Do Palmar,RS,Agroriza S. Vitória Palmar,3353020,-33.2381,-53.0619,0.0,Ativo
+147,Chuí,RS,Receita Federal Chuí,3353021,-33.6772,-53.4461,0.0,Ativo
+148,Atalaia Do Norte,AM,Estirão Do Repouso,10500000,-4.3408,-70.9056,89.0,Ativo
+149,Atalaia Do Norte,AM,Estirão Do Repouso,10500000,-4.3408,-70.9056,89.0,Ativo
+150,Atalaia Do Norte,AM,Ladário - Jusante,10910000,-4.5836,-70.2644,91.0,Ativo
+151,São Paulo De Olivença,AM,São Paulo De Olivença,11400000,-3.4569,-68.9119,71.0,Ativo
+152,Jutaí,AM,Colocação Caxias Novo,12100000,-4.6514,-68.3244,0.0,Ativo
+153,Jutaí,AM,Novo Cujubim,12160000,-4.6514,-68.3244,0.0,Ativo
+154,Jutaí,AM,Porto Seguro,12240000,-3.3372,-67.4917,0.0,Ativo
+155,Ipixuna,AM,Ipixuna,12520000,-7.0556,-71.6892,0.0,Ativo
+156,Eirunepé,AM,Seringal Santo Amaro,12540000,-7.2667,-70.9833,0.0,Ativo
+157,Eirunepé,AM,Eirunepé - Montante,12550000,-6.6844,-69.8811,0.0,Ativo
+158,Jordão,AC,Jordão,12557000,-9.1883,-71.9525,239.0,Ativo
+159,Envira,AM,Envira,12680000,-7.4281,-70.0225,0.0,Ativo
+160,Itamarati,AM,Santos Dumont,12700000,-6.4403,-68.2461,0.0,Ativo
+161,Carauari,AM,Gavião,12840000,-4.8392,-66.8506,0.0,Ativo
+162,Juruá,AM,Forte Das Graças,12842000,-3.6414,-66.1031,0.0,Ativo
+163,Japurá,AM,Vila Bittencourt,12845000,-1.3947,-69.4283,0.0,Ativo
+164,Japurá,AM,Acanaui,12850000,-1.8211,-66.6092,0.0,Ativo
+165,Tefé,AM,Estirão Da Santa Cruz,12880000,-4.2922,-65.2017,0.0,Ativo
+166,Coari,AM,Seringal Moreira,13100000,-5.1092,-63.9847,0.0,Ativo
+167,Santa Rosa Do Purus,AC,Santa Rosa Do Purus - Sede,13169900,-9.4342,-70.4942,0.0,Ativo
+168,Boca Do Acre,AM,Seringal Da Caridade,13410000,-9.0439,-68.5772,0.0,Ativo
+169,Assis Brasil,AC,Aldeia Dos Patos,13439000,-10.9261,-69.9233,256.0,Ativo
+170,Xapuri,AC,Xapuri,13550000,-10.6511,-68.5075,0.0,Ativo
+171,Porto Acre,AC,Porto Acre,13610001,-9.5819,-67.5281,134.0,Ativo
+172,Boca Do Acre,AM,Floriano Peixoto,13650000,-9.0667,-67.3969,0.0,Ativo
+173,Boca Do Acre,AM,Valparaíso - Montante,13710001,-8.6533,-67.375,0.0,Ativo
+174,Lábrea,AM,Lábrea,13870000,-7.2581,-64.7975,60.0,Ativo
+175,Lábrea,AM,Cristo,13885000,-7.4644,-64.2433,0.0,Ativo
+176,Boa Vista,RR,Fazenda Recreio,14235200,2.8642,-60.7517,0.0,Ativo
+177,Santa Izabel Do Rio Negro,AM,Serrinha,14420000,-0.4819,-64.8289,0.0,Ativo
+178,Uiramuta,RR,Rio Maú,14526400,4.5761,-60.1397,0.0,Ativo
+179,Bonfim,RR,Fazenda Paraíso,14558000,3.3178,-60.3447,0.0,Ativo
+180,Caracaraí,RR,Fazenda Anauá,14740000,1.1292,-60.2236,0.0,Ativo
+181,Manaus,AM,Jatuarana,15030000,-3.0633,-59.6478,0.0,Ativo
+182,Careiro Da Várzea,AM,Careiro,15040000,-3.1961,-59.8336,0.0,Ativo
+183,Careiro Da Várzea,AM,Careiro,15040000,-3.1961,-59.8336,0.0,Ativo
+184,Pontes E Lacerda,MT,PCH Nova Guaporé Barramento,15045950,-15.2072,-59.0142,307.0,Ativo
+185,Pontes E Lacerda,MT,PCH Nova Guaporé Jusante,15046000,-15.2108,-59.0119,270.0,Ativo
+186,Vale De São Domingos,MT,UHE Guaporé Córrego Palmital,15046050,-15.2206,-59.0028,830.0,Ativo
+187,Cabixi,RO,Cabixi,15124009,-13.5125,-60.53,0.0,Ativo
+188,Corumbiara,RO,Corumbiara,15135000,-12.9517,-60.8203,0.0,Ativo
+189,Alta Floresta D''Oeste,RO,PCH Alta Floresta Montante 2,15150800,-11.9689,-61.9908,331.0,Ativo
+190,Alta Floresta D''Oeste,RO,PCH Alta Floresta Montante 1,15151000,-11.9531,-62.0125,316.0,Ativo
+191,Alta Floresta D''Oeste,RO,PCH Alta Floresta Barramento,15151500,-11.9383,-62.0403,316.0,Ativo
+192,Alta Floresta D''Oeste,RO,Cachoeira Do Cachimbo,15170000,-11.9306,-62.1528,0.0,Ativo
+193,Alta Floresta D''Oeste,RO,PCH Figueira Jusante,15171050,-11.9875,-62.1764,372.0,Ativo
+194,Guajará-Mirim,RO,Boca Do Pompeu - Jusante,15248010,-10.9175,-65.0433,0.0,Ativo
+195,Guajará-Mirim,RO,UHE Jirau Guajará-Mirim,15250001,-10.7261,-65.3478,147.0,Ativo
+196,Plácido De Castro,AC,Plácido De Castro,15324000,-10.3378,-67.1831,0.0,Ativo
+197,Porto Velho,RO,Morada Nova - Jusante,15326000,-9.7847,-65.5275,0.0,Ativo
+198,Porto Velho,RO,Morada Nova - Jusante,15326000,-9.7847,-65.5275,0.0,Ativo
+199,Porto Velho,RO,UHE Jirau Morada Nova Jusante,15326010,-9.7847,-65.5275,110.0,Ativo
+200,Porto Velho,RO,UHE Santo Antônio Reservatório,15350500,-8.8419,-63.995,0.0,Ativo
+201,Monte Negro,RO,PCH Santa Cruz De Monte Negro Barramento,15408600,-10.2303,-63.2311,128.0,Ativo
+202,Monte Negro,RO,PCH Santa Cruz De Monte Negro Jusante,15408700,-10.2056,-63.1114,117.0,Ativo
+203,Ariquemes,RO,PCH Jamari Rio Canaã,15413100,-10.205,-63.1111,114.0,Ativo
+204,Ariquemes,RO,PCH Canaã Barramento,15417980,-10.0194,-63.0606,115.0,Ativo
+205,Ariquemes,RO,PCH Jamari Barramento,15423980,-9.9381,-63.0772,112.0,Ativo
+206,Ariquemes,RO,UHE Samuel Rio Branco,15430900,-9.8867,-62.9847,0.0,Ativo
+207,Alto Paraíso,RO,UHE Samuel Rio Massangana,15431900,-9.7603,-63.2881,0.0,Ativo
+208,Alto Paraíso,RO,PCH Jamari Jusante 2,15444000,-9.6653,-63.1361,96.0,Ativo
+209,Rio Crespo,RO,UHE Samuel Rio Preto Do Crespo,15444900,-9.5564,-62.9506,0.0,Ativo
+210,Porto Velho,RO,São Carlos,15490200,-8.4258,-63.4836,38.0,Ativo
+211,Porto Velho,RO,Porto Velho,15490600,-8.5844,-63.7331,41.0,Ativo
+212,Pimenta Bueno,RO,Pimenta Bueno,15558000,-11.6836,-61.1922,0.0,Ativo
+213,Ji-Paraná,RO,Fazenda Apurú,15558500,-11.0017,-62.1172,0.0,Ativo
+214,Porto Velho,RO,Espírito Santo,15627300,-8.1925,-63.1333,33.0,Ativo
+215,Porto Velho,RO,Calama,15627400,-8.0806,-62.8781,31.0,Ativo
+216,Humaitá,AM,Maici-Mirim,15660000,-7.6303,-62.6553,0.0,Ativo
+217,Aripuanã,MT,UHE Dardanelos Barramento,15750550,-10.1611,-59.4606,218.0,Ativo
+218,Aripuanã,MT,PCH Faxinal II Montante,15753900,-10.1986,-59.4686,218.0,Ativo
+219,Borba,AM,Borba,15900000,-4.3892,-59.5986,0.0,Ativo
+220,Apuí,AM,Santarém Sucunduri,15910000,-6.7956,-59.0422,49.0,Ativo
+221,Nova Olinda Do Norte,AM,Nova Olinda Do Norte,15940000,-3.8847,-59.0897,0.0,Ativo
+222,Presidente Figueiredo,AM,UHE Balbina Rio Pitinga,16020200,-0.9911,-59.4797,58.0,Ativo
+223,Presidente Figueiredo,AM,UHE Balbina Rio Pitinguinha,16024900,-1.0781,-59.6739,52.0,Ativo
+224,Presidente Figueiredo,AM,UHE Balbina Rio Tucumari,16070900,-1.5475,-59.415,51.0,Ativo
+225,Presidente Figueiredo,AM,UHE Balbina Barramento Canal De Fuga,16070990,-1.9161,-59.4744,0.0,Ativo
+226,Oriximiná,PA,Garganta,16430000,-0.9978,-57.0431,0.0,Ativo
+227,Oriximiná,PA,Estirão Da Angélica,16500000,-1.1006,-57.0569,11.83,Ativo
+228,Oriximiná,PA,Tabuleiro - Rebio Trombetas,16661000,-1.3706,-56.8519,0.0,Ativo
+229,Sapezal,MT,PCH Buriti Montante 2,17091180,-13.6317,-58.6642,509.0,Ativo
+230,Campos De Júlio,MT,PCH Juí 117 Montante 2,17091210,-13.4572,-59.3903,429.0,Ativo
+231,Sapezal,MT,PCH Buriti Barramento,17091300,-13.4056,-58.5972,464.0,Ativo
+232,Campos De Júlio,MT,PCH Juí 117 Montante 1,17091310,-13.3856,-59.3922,418.0,Ativo
+233,Campos De Júlio,MT,PCH Juí 117 Jusante,17091410,-13.3617,-59.395,382.0,Ativo
+234,Brasnorte,MT,PCH Sacre 2 Rio Verde,17091550,-13.6431,-58.0181,215.0,Ativo
+235,Nova Maringá,MT,PCH Inxu Barramento,17093750,-13.3556,-57.6136,363.3,Ativo
+236,Campo Novo Do Parecis,MT,PCH Baruito Barramento,17094000,-13.3197,-57.5978,330.0,Ativo
+237,Nova Maringá,MT,PCH Inxu Jusante,17094050,-13.205,-57.505,291.17,Ativo
+238,Diamantino,MT,PCH Rio Claro Ribeirão Água Verde,17099200,-13.9619,-56.8944,393.0,Ativo
+239,Diamantino,MT,PCH Rio Claro Montante,17099300,-13.9589,-56.7422,351.0,Ativo
+240,Diamantino,MT,PCH Rio Claro Jusante,17099400,-13.7925,-56.7039,304.0,Ativo
+241,Apiacás,MT,Foz Do Juruena,17130000,-7.7311,-58.2808,123.0,Ativo
+242,Diamantino,MT,CGH Buritizal Montante,17224000,-13.7028,-56.7861,333.0,Ativo
+243,Nova Mutum,MT,PCH Nova Mutum Montante,17240900,-13.7583,-56.0536,395.0,Ativo
+244,Nova Mutum,MT,PCH Nova Mutum Barrramento,17250500,-13.6036,-56.2006,340.0,Ativo
+245,Nova Mutum,MT,PCH Nova Mutum Jusante,17250550,-13.5914,-56.2164,337.0,Ativo
+246,Sorriso,MT,PCH Foz Do Cedro Jusante,17278500,-12.7494,-56.0336,323.0,Ativo
+247,Sinop,MT,UHE Sinop Reservatório 2,17280970,-11.4017,-55.5108,284.0,Ativo
+248,Itauba,MT,UHE Colíder Rio Renato,17291000,-11.0628,-55.2783,0.0,Ativo
+249,Nova Canaã Do Norte,MT,UHE Colíder Reservatório,17304000,-10.9822,-55.7003,272.0,Ativo
+250,Nova Canaã Do Norte,MT,UHE Colíder Barramento,17305000,-10.975,-55.7683,274.0,Ativo
+251,Colider,MT,UHE Colíder Pesqueiro Do Gil,17307000,-10.9831,-55.8389,0.0,Ativo
+252,Carlinda,MT,UHE Teles Pires Montante 2,17340200,-9.9506,-55.5764,237.0,Ativo
+253,Peixoto De Azevedo,MT,Estrada Cuiabá - Santarém,17343000,-10.2194,-54.9708,255.0,Ativo
+254,Paranaita,MT,UHE Teles Pires Reservatório 18,17382100,-9.5483,-56.3133,220.0,Ativo
+255,Paranaita,MT,UHE Teles Pires Reservatório 17,17382110,-9.4736,-56.4158,220.0,Ativo
+256,Paranaita,MT,UHE Teles Pires Reservatório 16,17382120,-9.3914,-56.5706,220.0,Ativo
+257,Paranaita,MT,UHE Teles Pires Rio Paranaita,17382125,-9.9256,-56.6353,244.0,Ativo
+258,Paranaita,MT,UHE Teles Pires Reservatório 15,17382130,-9.3864,-56.6406,220.0,Ativo
+259,Paranaita,MT,UHE Teles Pires Reservatório 14,17382140,-9.3533,-56.6936,220.0,Ativo
+260,Paranaita,MT,UHE Teles Pires Reservatório 13,17382150,-9.3739,-56.6972,220.0,Ativo
+261,Paranaita,MT,UHE Teles Pires Reservatório 12,17382160,-9.3753,-56.7119,220.0,Ativo
+262,Paranaita,MT,UHE Teles Pires Reservatório 19,17383100,-9.7108,-56.6283,220.0,Ativo
+263,Paranaita,MT,UHE Teles Pires Reservatório 11,17383300,-9.6097,-56.6483,220.0,Ativo
+264,Paranaita,MT,UHE Teles Pires Reservatório 10,17383350,-9.4936,-56.7044,220.0,Ativo
+265,Paranaita,MT,UHE Teles Pires Reservatório 9,17383400,-9.4114,-56.7331,220.0,Ativo
+266,Paranaita,MT,UHE Teles Pires Reservatório 8,17383450,-9.4181,-56.7517,220.0,Ativo
+267,Paranaita,MT,UHE Teles Pires Reservatório 7,17383600,-9.3889,-56.7911,220.0,Ativo
+268,Paranaita,MT,UHE Teles Pires Reservatório 6,17383650,-9.3844,-56.7714,220.0,Ativo
+269,Paranaita,MT,UHE Teles Pires Reservatório 5,17383700,-9.3739,-56.7789,220.0,Ativo
+270,Paranaita,MT,UHE Teles Pires Reservatório 4,17383750,-9.3692,-56.7769,220.0,Ativo
+271,Paranaita,MT,UHE Teles Pires Reservatório 3,17383800,-9.3611,-56.7889,220.0,Ativo
+272,Paranaita,MT,UHE Teles Pires Reservatório 2,17383900,-9.3558,-56.7789,220.0,Ativo
+273,Paranaita,MT,UHE Teles Pires Reservatório 1,17384300,-9.3306,-56.7769,164.0,Ativo
+274,Alta Floresta,MT,PCH Cabeça De Boi Barramento,17389500,-10.3553,-56.9811,271.0,Ativo
+275,Apiacás,MT,UHE São Manoel Jusante 1,17390100,-9.1653,-57.0608,151.0,Ativo
+276,Alta Floresta,MT,UHE Salto Apiacás Barramento,17393500,-10.3394,-56.9822,247.0,Ativo
+277,Alta Floresta,MT,PCH Da Fazenda Barramento,17394000,-10.3303,-56.9828,221.0,Ativo
+278,Apiacás,MT,UHE São Manoel Rio Apiacás,17395900,-9.1922,-57.0686,153.0,Ativo
+279,Jacareacanga,PA,UHE São Manoel Barramento,17396080,-9.1875,-57.0428,156.0,Ativo
+280,Apiacás,MT,UHE São Manoel Jusante 2,17410100,-8.8594,-57.4192,137.0,Ativo
+281,Aripuanã,MT,Três Marias,17420000,-7.6147,-57.9503,129.0,Ativo
+282,Borba,AM,Barra Do São Manuel,17430000,-7.3397,-58.1553,0.0,Ativo
+283,Itaituba,PA,Jamanxim,17680000,-5.4556,-55.87,0.0,Ativo
+284,Aveiro,PA,Aveiro,17835400,-3.6042,-55.3322,0.0,Ativo
+285,Aveiro,PA,Fordlândia,17835600,-3.8314,-55.5003,0.0,Ativo
+286,Santarém,PA,UHE Curuá-Una Rio Mojú,18090100,-3.1569,-54.7867,0.0,Ativo
+287,Santarém,PA,UHE Curuá-Una Rio Mojuí,18114000,-2.8839,-54.755,0.0,Ativo
+288,Santarém,PA,UHE Curuá-Una Barramento,18116900,-2.8156,-54.2997,0.0,Ativo
+289,Feliz Natal,MT,Foz Ronuro,18421000,-12.3692,-54.1383,0.0,Ativo
+290,Marcelândia,MT,Riacho De Deus,18422000,-11.1272,-54.4767,280.0,Ativo
+291,Nova Ubiratã,MT,PCH Ars Barramento,18422480,-13.0983,-54.8181,331.5,Ativo
+292,Nova Ubiratã,MT,PCH Ars Jusante 2,18422600,-12.7847,-54.6806,400.0,Ativo
+293,Cumaru Do Norte,PA,Fazenda Rio Dourado,18480000,-8.3269,-51.4603,0.0,Ativo
+294,São Félix Do Xingú,PA,Boa Esperança,18500000,-6.7453,-51.7736,0.0,Ativo
+295,São Félix Do Xingú,PA,Boa Esperança,18500000,-6.7453,-51.7736,0.0,Ativo
+296,Altamira,PA,Laranjeiras,18600000,-5.6967,-54.2456,0.0,Ativo
+297,Altamira,PA,Pedra Do Ó,18700000,-4.5278,-54.0125,0.0,Ativo
+298,Vitória Do Xingu,PA,UHE Belo Monte Barramento Intermediário,18820900,-3.1311,-51.7719,100.0,Ativo
+299,Vitória Do Xingu,PA,UHE Belo Monte Barramento,18864000,-3.4228,-51.9653,98.51,Ativo
+300,Anapu,PA,Fazenda Cipaúba,18880000,-3.7314,-51.5675,0.0,Ativo
+301,Vitória Do Xingu,PA,Vitória Do Xingu,18936000,-2.8819,-52.0114,0.0,Ativo
+302,Vitória Do Xingu,PA,Vitória Do Xingu,18936000,-2.8819,-52.0114,0.0,Ativo
+303,Senador José Porfirio,PA,Souzel,18938001,-2.6219,-51.9544,0.0,Ativo
+304,Senador José Porfirio,PA,Souzel,18938001,-2.6219,-51.9544,0.0,Ativo
+305,Laranjal Do Jarí,AP,Laranjal Do Jari,19152500,-0.8569,-52.525,0.0,Ativo
+306,Pacajá,PA,Pacajás,19985000,-3.8511,-50.6397,0.0,Ativo
+307,Planaltina,GO,Rio Maranhão,20000900,-15.49,-47.6858,0.0,Ativo
+308,Brasília,DF,Ribeirão Palmeiras,20000950,-15.5281,-47.7419,0.0,Ativo
+309,Brasília,DF,Sonhem,20001050,-15.5231,-47.8158,0.0,Ativo
+310,Planaltina,GO,Palma,20001400,-15.4875,-48.0458,0.0,Ativo
+311,Padre Bernardo,GO,Rio Do Sal,20008000,-15.4981,-48.1406,0.0,Ativo
+312,Niquelândia,GO,UHE Serra Da Mesa Rio Maranhão,20050050,-14.9794,-48.6669,0.0,Ativo
+313,Jaraguá,GO,Jaraguá,20100000,-15.7242,-49.3219,598.0,Ativo
+314,Rianápolis,GO,PCH Cachoeira Do Lavrinha Montante,20110900,-15.5239,-49.4703,0.0,Ativo
+315,Rianápolis,GO,PCH Cachoeira Do Lavrinha Barramento,20120000,-15.5175,-49.4856,562.0,Ativo
+316,Uruana,GO,Uruana,20200000,-15.4961,-49.6908,600.0,Ativo
+317,Minaçu,GO,UHE Serra Da Mesa Reservatório,20919000,-13.8444,-48.3164,0.0,Ativo
+318,São João D''Aliança,GO,Projeto Flores De Goiás Montante,21210200,-14.8061,-47.3667,485.0,Manutenção
+319,São João D''Aliança,GO,Projeto Flores De Goiás Barramento,21210250,-14.6867,-47.2792,470.85,Ativo
+320,Novo Jardim,TO,PCH Piarucum Montante,21273000,-11.9381,-46.595,669.0,Ativo
+321,Ponte Alta Do Bom Jesus,TO,CGH Sirivera Montante,21273100,-11.9244,-46.255,590.0,Ativo
+322,Ponte Alta Do Bom Jesus,TO,CGH Sirivera Barramento,21273300,-11.925,-46.2772,546.0,Ativo
+323,Ponte Alta Do Tocantins,TO,CGH Palmeiras Barramento,21273500,-11.9308,-46.3289,492.0,Ativo
+324,Ponte Alta Do Tocantins,TO,CGH Sucuri Jusante,21273550,-11.9283,-46.3144,486.0,Ativo
+325,Ponte Alta Do Tocantins,TO,CGH Palmeiras Jusante,21273600,-11.9311,-46.3322,486.0,Ativo
+326,Novo Jardim,TO,PCH Piarucum Barramento,21274000,-11.9808,-46.6425,402.0,Ativo
+327,Buritinópolis,GO,PCH Santa Edwiges II Barramento,21291000,-14.3575,-46.1978,700.0,Ativo
+328,Buritinópolis,GO,PCH Santa Edwiges II Jusante,21291100,-14.3653,-46.2556,0.0,Ativo
+329,Buritinópolis,GO,PCH Santa Edwiges III Barramento,21291500,-14.3708,-46.3194,566.0,Ativo
+330,Buritinópolis,GO,PCH Santa Edwiges III Jusante,21292000,-14.3722,-46.3242,534.0,Ativo
+331,Nova Roma,GO,Nova Roma (Faz.Sucuri),21500000,-13.7625,-46.8375,0.0,Ativo
+332,Dianópolis,TO,PCH Doido Barramento,21780260,-11.71,-46.7506,477.0,Ativo
+333,Dianópolis,TO,PCH Doido Jusante,21780265,-11.71,-46.7514,464.0,Ativo
+334,Taipas Do Tocantins,TO,Rio Palmeiras - Taipas,21844900,-12.3233,-46.9439,0.0,Ativo
+335,São Salvador Do Tocantins,TO,UHE Peixe Angical Fazenda Barreiro,22042315,-12.785,-48.2403,270.0,Ativo
+336,Peixe,TO,Peixe,22050001,-12.0231,-48.5328,235.0,Ativo
+337,Peixe,TO,Colonha,22100000,-12.3922,-48.7117,234.0,Ativo
+338,Brejinho De Nazaré,TO,Rio Crixás,22170000,-11.1306,-48.8003,0.0,Ativo
+339,Dianópolis,TO,PCH Manuel Alves Montante,22184100,-11.4556,-46.9189,411.0,Ativo
+340,Dianópolis,TO,PCH Manuel Alves Barramento,22184200,-11.5469,-46.9881,393.0,Ativo
+341,Dianópolis,TO,PCH Manuel Alves Jusante,22184210,-11.5467,-46.9947,359.0,Ativo
+342,Porto Alegre Do Tocantins,TO,Rio Manuel Alves - Porto Alegre Do To,22186000,-11.8253,-47.1864,0.0,Ativo
+343,Almas,TO,Rio Do Peixe - Almas - To,22241000,-11.6667,-47.4392,333.0,Ativo
+344,São Valério Da Natividade,TO,Fazenda Lobeira,22250000,-11.5328,-48.2886,230.0,Ativo
+345,Miranorte,TO,Rio Providência,22511000,-9.5292,-48.6069,370.0,Ativo
+346,Aparecida Do Rio Negro,TO,UHE Estreito Rio Das Balsas,22738000,-10.0017,-47.8272,190.0,Ativo
+347,Nova Santa Rosa,PR,Nova Santa Rosa,23453080,-24.4681,-53.9506,0.0,Ativo
+348,Imperatriz,MA,UHE Tucuruí Montante 2,23790000,-5.5581,-47.4831,0.0,Ativo
+349,Mineiros,GO,CGH Diamantino Jusante,24210100,-17.3306,-52.8025,637.0,Ativo
+350,Arenópolis,GO,PCH Rênic Barramento,24735080,-16.475,-51.4167,484.0,Ativo
+351,Arenópolis,GO,PCH Rênic Jusante,24735100,-16.475,-51.4133,456.0,Ativo
+352,Ivolândia,GO,PCH Santo Antônio Do Caiapó Montante 2,24743000,-16.6847,-51.2325,469.15,Ativo
+353,Ivolândia,GO,PCH Santo Antônio Do Caiapó Montante 1,24744000,-16.555,-51.2928,460.0,Ativo
+354,Ivolândia,GO,PCH Santo Antônio Do Caiapó Barramento,24744900,-16.4414,-51.3969,454.33,Ativo
+355,Arenópolis,GO,PCH Santo Antônio Do Caiapó Jusante,24744920,-16.4353,-51.3958,431.0,Ativo
+356,Aragarças,GO,Peres,24800000,-15.8897,-51.8528,0.0,Ativo
+357,Araguaiana,MT,Araguaiana,24850000,-15.7381,-51.8281,278.0,Ativo
+358,Montes Claros De Goiás,GO,Montes Claros De Goiás,24950000,-15.9397,-51.3575,0.0,Ativo
+359,Goiás,GO,Balneário Cachoeira Grande,25100000,-15.9222,-50.1717,474.0,Ativo
+360,Jussara,GO,Estação Maria Helena Montante (Pivô 07),25131000,-15.4733,-51.4761,275.5,Ativo
+361,Jussara,GO,Estação Maria Helena Jusante (Pivô 10),25131100,-15.4428,-51.4872,278.0,Ativo
+362,Nova Xavantina,MT,Rio Pindaíba,26150000,-14.5997,-51.7197,281.0,Ativo
+363,Formoso Do Araguaia,TO,Fazenda Dois Rios,26713000,-10.8014,-49.9539,0.0,Ativo
+364,Sandolândia,TO,Dorilândia,26721000,-12.2125,-49.6628,0.0,Ativo
+365,Formoso Do Araguaia,TO,Jusante Projeto Rio Formoso,26751000,-11.655,-49.6228,0.0,Ativo
+366,Aliança Do Tocantins,TO,Ponte Rio Dueré,26790000,-11.3231,-49.2592,211.0,Ativo
+367,Lagoa Da Confusão,TO,Foz Rio Dueré,26792000,-11.1222,-49.6303,0.0,Ativo
+368,Lagoa Da Confusão,TO,Rio Urubu Fazenda São Bento,26795100,-10.7825,-49.4253,180.0,Ativo
+369,Lagoa Da Confusão,TO,Rio Urubu Fazenda Fortaleza,26795700,-10.8636,-49.6756,370.0,Ativo
+370,Dueré,TO,Foz Rio Xavante,26796000,-11.4011,-49.6556,0.0,Ativo
+371,Dueré,TO,Rio Formoso,26798000,-11.3811,-49.6819,0.0,Ativo
+372,Dueré,TO,Rio Formoso Loroti,26798100,-11.2033,-49.7572,0.0,Ativo
+373,Lagoa Da Confusão,TO,Foz Rio Urubu,26798500,-10.8278,-49.7956,0.0,Ativo
+374,Lagoa Da Confusão,TO,Foz Rio Formoso,26799000,-10.5856,-49.9264,0.0,Ativo
+375,Caseara,TO,Rio Caiapó - Faz Grupo Agropaulo,27300900,-9.1261,-49.7431,370.0,Ativo
+376,Conceição Do Araguaia,PA,UHE Tucuruí Rio Araguaia  2,27490000,-8.3611,-49.2775,0.0,Ativo
+377,Arapoema,TO,Arapoema,27550000,-7.6136,-49.0453,167.0,Ativo
+378,Xambioá,TO,UHE Tucuruí Rio Araguaia  1,28300100,-6.3997,-48.5281,0.0,Ativo
+379,Riachinho,TO,Rio Corda Riachinho,28318000,-6.5178,-48.1514,0.0,Ativo
+380,Marabá,PA,UHE Tucuruí Rio Itacaiúnas,29110000,-5.4886,-49.2233,0.0,Ativo
+381,Itupiranga,PA,Itupiranga,29200000,-5.1281,-49.3242,65.6,Ativo
+382,Calçoene,AP,Cunani,30070000,2.6978,-51.3611,0.0,Ativo
+383,Porto Grande,AP,UHE Cachoeira Caldeirão Montante 3,30189000,-0.9089,-51.6039,70.0,Ativo
+384,Porto Grande,AP,UHE Cachoeira Caldeirão Montante 1,30400040,0.7144,-51.4217,54.0,Ativo
+385,Ferreira Gomes,AP,UHE Coaracy Nunes Reservatório 2,30400074,0.8647,-51.2878,0.0,Ativo
+386,Ferreira Gomes,AP,UHE Coaracy Nunes Reservatório 1,30400076,0.8794,-51.2817,0.0,Ativo
+387,Ferreira Gomes,AP,UHE Ferreira Gomes Reservatório 2,30498000,0.9122,-51.2442,23.0,Ativo
+388,Tomé-Açu,PA,Fazenda Maringa,31680000,-3.1372,-48.0847,0.0,Ativo
+389,São Domingos Do Capim,PA,Badajós,31700000,-2.5128,-47.7681,0.0,Ativo
+390,Paragominas,PA,Fazenda Rural Zebu,32540000,-3.3197,-46.8456,0.0,Ativo
+391,Paragominas,PA,Cafezal,32550000,-2.7717,-46.8028,0.0,Ativo
+392,São Luís Gonzaga Do Maranhão,MA,São Luiz Gonzaga,33286000,-4.37,-44.6758,18.0,Ativo
+393,Colinas,MA,Colinas,33480000,-6.0208,-44.2486,122.0,Ativo
+394,Governador Eugenio Barros,MA,Montevidéu,33530000,-5.3372,-43.8844,93.0,Ativo
+395,Coroata,MA,Coroatá,33630000,-4.1258,-44.1297,34.0,Ativo
+396,Cantanhede,MA,Cantanhede,33680000,-3.6278,-44.3792,15.0,Ativo
+397,Itapecuru Mirim,MA,Itapecuru-Mirim,33690100,-3.3922,-44.3619,15.0,Ativo
+398,Alto Parnaíba,MA,UHE Boa Esperança (Castelo Branco) Montante 2,34020980,-9.1131,-45.9264,220.0,Ativo
+399,Ribeiro Gonçalves,PI,UHE Boa Esperança (Castelo Branco) Montante 1,34059900,-7.5558,-45.2436,0.0,Ativo
+400,Ribeiro Gonçalves,PI,Ribeiro Gonçalves,34060000,-7.5667,-45.2544,197.0,Ativo
+401,Uruçuí,PI,UHE Boa Esperança (Castelo Branco)Rio Uruçuí Preto,34089980,-7.3903,-44.6136,0.0,Ativo
+402,Balsas,MA,UHE Boa Esperança (Castelo Branco) Balsas 2,34129980,-7.5342,-46.0344,224.0,Ativo
+403,São Félix De Balsas,MA,UHE Boa Esperança (Castelo Branco) Balsas 1,34160900,-7.0817,-44.8117,0.0,Ativo
+404,Guadalupe,PI,UHE Boa Esperança (Castelo Branco) Reservatório,34219060,-6.7567,-43.5858,0.0,Ativo
+405,Guadalupe,PI,Guadalupe,34219100,-6.7722,-43.5469,113.0,Ativo
+406,Fronteiras,PI,Açude Barreiras,34345000,-7.095,-40.5883,0.0,Ativo
+407,Campinas Do Piauí,PI,Açude Cacimba,34419000,-7.7256,-41.8378,0.0,Ativo
+408,Francisco Macedo,PI,Açude Estreito,34440000,-7.3347,-40.8447,0.0,Ativo
+409,Patos Do Piauí,PI,Açude Poço Do Marruá,34445000,-7.7031,-41.2353,0.0,Ativo
+410,Bocaina,PI,Bocaina - Jusante,34464100,-6.9172,-41.3056,231.0,Ativo
+411,Campo Maior,PI,Açude Corredores,34700000,-5.1028,-42.0397,0.0,Ativo
+412,Campo Maior,PI,Açude Emparedado,34701000,-5.0808,-42.0556,0.0,Ativo
+413,Valença Do Piauí,PI,Açude Mesa De Pedra,34710000,-6.1936,-41.9928,0.0,Ativo
+414,Croatá,CE,Croatá,34730000,-4.4156,-40.9108,580.0,Ativo
+415,Juazeiro Do Piauí,PI,Castelo - Montante,34745010,-5.0667,-41.5833,0.0,Ativo
+416,Juazeiro Do Piauí,PI,Castelo - Montante,34745010,-5.0667,-41.5833,0.0,Ativo
+417,São Miguel Do Tapuio,PI,Açude São Vicente,34750100,-5.51,-41.3456,0.0,Ativo
+418,José De Freitas,PI,Açude Bezerros,34912000,-4.7689,-42.6078,0.0,Ativo
+419,Esperantina,PI,Esperantina,34940000,-3.9028,-42.2297,56.0,Ativo
+420,Piracuruca,PI,Açude Piracuruca,34977000,-3.9608,-41.6703,0.0,Ativo
+421,Piracuruca,PI,Piracuruca - Jusante,34977005,-3.9594,-41.6739,64.0,Ativo
+422,Piracuruca,PI,Piracuruca - Jusante,34977005,-3.9594,-41.6739,64.0,Ativo
+423,Ubajara,CE,Reservatório Granjeiro,34978500,-3.9,-40.9539,0.0,Ativo
+424,Chaval,CE,Chaval Retiro,35050000,-3.0786,-41.255,0.0,Ativo
+425,Luís Correia,PI,Senador Freitas Neto,35110100,-3.0039,-41.4489,95.0,Ativo
+426,Luís Correia,PI,Senador Freitas Neto,35110100,-3.0039,-41.4489,95.0,Ativo
+427,Moraujo,CE,Moraújo,35125000,-3.4647,-40.6853,74.0,Ativo
+428,Santa Quitéria,CE,Várzea Do Grosso,35235000,-4.1442,-40.43,180.0,Ativo
+429,Santa Quitéria,CE,Trapiá,35240000,-4.195,-40.3178,90.0,Ativo
+430,Groairas,CE,Siarão,35255000,-3.9039,-40.4053,0.0,Ativo
+431,Groairas,CE,Groairas,35260000,-3.9092,-40.3797,80.0,Ativo
+432,Sobral,CE,Açude Taquara,35262000,-3.8986,-40.6122,0.0,Ativo
+433,Sobral,CE,Sobral,35275000,-3.6883,-40.3389,75.0,Ativo
+434,Itarema,CE,Vila Nova,35301000,-3.0247,-39.8706,0.0,Ativo
+435,Itapipoca,CE,Betânia,35370600,-3.2844,-39.6528,0.0,Ativo
+436,Caucaia,CE,Campo Grande,35669100,-3.7619,-38.6844,0.0,Ativo
+437,Saboeiro,CE,Malhada,36045000,-6.6461,-39.9617,320.0,Ativo
+438,Jucás,CE,Sítio Patos,36070000,-6.5206,-39.6386,0.0,Ativo
+439,Cariús,CE,Sítio Poço Dantas,36125000,-6.5578,-39.5086,230.0,Ativo
+440,Cariús,CE,Cariús,36130000,-6.5344,-39.4997,230.0,Ativo
+441,Missão Velha,CE,Sítio Lapinha,36210000,-7.2222,-39.1439,350.0,Ativo
+442,Lavras Da Mangabeira,CE,Lavras Da Mangabeira,36270000,-6.75,-38.9667,247.0,Ativo
+443,Senador Pompeu,CE,Senador Pompeu,36470000,-5.5958,-39.3811,173.0,Ativo
+444,Quixeramobim,CE,Quixeramobim,36520000,-5.2014,-39.2922,187.0,Ativo
+445,Russas,CE,Passagem Russas,36628000,-4.9344,-37.8878,0.0,Ativo
+446,José Da Penha,RN,Açude Arapuã,37010000,-6.355,-38.2764,310.0,Ativo
+447,Antônio Martins,RN,Açude Corredor,37020000,-6.1886,-37.9531,270.97,Ativo
+448,Paraná,RN,Açude Antas,37024000,-6.4283,-35.6511,0.0,Ativo
+449,Marcelino Vieira,RN,Açude Marcelino Vieira Montante,37025900,-6.3633,-38.2081,235.0,Ativo
+450,Marcelino Vieira,RN,Açude Marcelino Vieira,37026000,-6.3286,-38.1781,237.0,Ativo
+451,Francisco Dantas,RN,Açude Tesoura,37029000,-6.0844,-38.1256,217.7,Ativo
+452,Pau Dos Ferros,RN,Açude 25 De Março,37031500,-6.1114,-38.215,203.2,Ativo
+453,Encanto,RN,Açude Encanto Montante,37031900,-6.1472,-38.3347,219.89,Ativo
+454,Encanto,RN,Açude Encanto,37032000,-6.1239,-38.3156,0.0,Ativo
+455,São Miguel,RN,Açude Bonito II,37041000,-6.2153,-38.4314,518.0,Ativo
+456,José Da Penha,RN,Açude Flechas,37045000,-6.3056,-38.2486,251.0,Ativo
+457,Luís Gomes,RN,Açude Lulu Pinto,37045500,-6.3958,-38.3894,0.0,Ativo
+458,Rafael Fernandes,RN,Açude Santana De Pau Dos Ferros(Gangorra),37047000,-6.2211,-38.2572,233.72,Ativo
+459,Pilões,RN,Açude Pilões - Rn,37049000,-6.2708,-38.0367,250.66,Ativo
+460,Rodolfo Fernandes,RN,Açude Riachão,37049700,-5.8289,-38.0636,173.78,Ativo
+461,Riacho Da Cruz,RN,Açude Riacho Da Cruz,37051000,-5.9361,-37.9403,170.88,Ativo
+462,São Francisco Do Oeste,RN,Açude São Gonçalo,37052000,-5.9778,-38.18,184.28,Ativo
+463,Umarizal,RN,Açude Rodeador,37053000,-6.0525,-37.7814,178.41,Ativo
+464,Severiano Melo,RN,Açude Malhada Vermelha,37062000,-5.7842,-37.9161,0.0,Ativo
+465,Riacho Da Cruz,RN,Açude Santa Cruz Do Apodi Montante,37062700,-5.8739,-37.9606,113.34,Ativo
+466,Rodolfo Fernandes,RN,Açude Sossego,37064000,-5.795,-38.0708,183.01,Ativo
+467,Itaú,RN,Açude Passagem,37065000,-5.8519,-38.01,154.05,Ativo
+468,Itaú,RN,Açude Currais,37067000,-5.83,-37.9803,140.7,Ativo
+469,Umarizal,RN,Açude Umarizal (Inspetoria),37075000,-6.01,-37.8158,285.0,Ativo
+470,Caraubas,RN,Açude Apanha Peixe,37075100,-5.6539,-37.6925,41.57,Ativo
+471,Olho D''Água Do Borges,RN,Açude Brejo,37141000,-5.9572,-37.7217,143.36,Ativo
+472,Augusto Severo,RN,Açude Morcego,37142000,-5.8817,-37.3456,103.82,Ativo
+473,Patú,RN,Açude Tourão,37144000,-6.0181,-37.6464,194.46,Ativo
+474,Caraubas,RN,Açude Santo Antonio De Caraúbas,37145000,-5.9058,-37.5078,138.73,Ativo
+475,São João Do Sabugi,RN,Açude Carnaúba - Jusante,37145910,-6.6269,-37.1489,177.0,Ativo
+476,São João Do Sabugi,RN,Açude Carnaúba - Jusante,37145910,-6.6269,-37.1489,177.0,Ativo
+477,São João Do Sabugi,RN,Açude Carnaúba,37146000,-6.6297,-37.1497,185.97,Ativo
+478,Upanema,RN,Açude Umari Montante,37146900,-5.8278,-37.2767,76.46,Ativo
+479,Upanema,RN,Açude Umari,37147000,-5.6956,-37.2536,74.91,Ativo
+480,Cachoeira Dos Índios,PB,Açude Cachoeira Da Vaca,37212000,-6.9547,-38.6789,0.0,Ativo
+481,Cajazeiras,PB,Açude Engenheiro Ávidos,37217000,-6.9861,-38.4528,316.0,Ativo
+482,Cajazeiras,PB,Açude Engenheiro Ávidos Jusante,37217100,-6.9825,-38.4533,0.0,Ativo
+483,Aguiar,PB,Açude Lancha I,37226100,-7.0853,-38.2831,0.0,Ativo
+484,Sousa,PB,Açude São Gonçalo,37230000,-6.8456,-38.3103,250.0,Ativo
+485,Sousa,PB,Açude São Gonçalo Jusante,37230100,-6.8381,-38.3047,0.0,Ativo
+486,Tenente Ananias,RN,Açude Jesus Maria José,37235100,-6.4764,-38.1753,343.0,Ativo
+487,Uirauna,PB,Açude Arrojado,37236500,-6.5097,-38.4108,0.0,Ativo
+488,Cajazeiras,PB,Lagoa Do Arroz - Jusante,37238050,-6.7969,-38.5703,281.0,Ativo
+489,Cajazeiras,PB,Lagoa Do Arroz - Jusante,37238050,-6.7969,-38.5703,281.0,Ativo
+490,Bom Jesus,PB,Açude Bom Jesus,37238200,-6.82,-38.6431,0.0,Ativo
+491,Triunfo,PB,Açude Gamela,37249500,-6.5744,-38.6075,0.0,Ativo
+492,Uirauna,PB,Açude Capivara,37253000,-6.5439,-38.4694,0.0,Ativo
+493,São João Do Rio Do Peixe,PB,Açude Chupadouro I,37257000,-6.7039,-38.4728,0.0,Ativo
+494,São João Do Rio Do Peixe,PB,Açude Chupadouro I,37257000,-6.69333,-38.47166,0.0,Manutenção
+495,São Francisco,PB,Açude Paraiso (Luiz Oliveira),37295000,-6.5958,-38.0625,0.0,Ativo
+496,Pombal,PB,São Domingos Do Pombal,37297000,-6.8022,-37.9347,0.0,Ativo
+497,Manaira,PB,Açude Catolé I,37301000,-7.68611,-38.17527,0.0,Ativo
+498,Manaira,PB,Açude Catolé II,37301000,-7.6858,-38.1756,0.0,Ativo
+499,Santana De Mangueira,PB,Açude Poço Redondo,37310000,-7.5861,-38.3025,0.0,Ativo
+500,Curral Velho,PB,Açude Bruscas,37310600,-7.545,-38.1617,0.0,Ativo
+501,Conceição,PB,Açude Condado,37310900,-7.5606,-38.5492,0.0,Ativo
+502,Conceição,PB,Açude Serra Vermelha,37311000,-7.545,-38.5208,0.0,Ativo
+503,Ibiara,PB,Açude Piranhas,37312000,-7.5031,-38.4417,0.0,Ativo
+504,Conceição,PB,Santa Inês - Jusante,37312150,-7.63,-38.5947,421.0,Ativo
+505,Conceição,PB,Santa Inês - Jusante,37312150,-7.63,-38.5947,421.0,Ativo
+506,Diamante,PB,Pombinho,37320000,-7.4364,-38.3189,0.0,Ativo
+507,Nova Olinda,PB,Açude Saco,37320500,-7.5139,-38.0461,0.0,Ativo
+508,Juru,PB,Açude Glória,37320700,-7.54,-37.7892,0.0,Ativo
+509,Juru,PB,Açude Timbaúba,37321000,-7.5606,-37.8267,0.0,Ativo
+510,Água Branca,PB,Açude Bom Jesus II,37322000,-7.4561,-37.6408,0.0,Ativo
+511,Tavares,PB,Açude Tavares II,37322100,-7.5933,-37.9119,0.0,Ativo
+512,Tavares,PB,Açude Novo,37322300,-7.6436,-37.8764,0.0,Ativo
+513,Santana Dos Garrotes,PB,Açude Queimadas,37323000,-7.3931,-37.9689,0.0,Ativo
+514,Imaculada,PB,Açude Albino,37324000,-7.3747,-37.5197,0.0,Ativo
+515,Ibiara,PB,Açude Vazante,37325000,-7.4214,-38.365,0.0,Ativo
+516,Conceição,PB,Açude Video,37326000,-7.3717,-38.41,0.0,Ativo
+517,Itaporanga,PB,Açude Cachoeira Do Alves,37326300,-7.3214,-38.2294,0.0,Ativo
+518,São José De Caiana,PB,Açude Pimenta,37326500,-7.2233,-38.3033,0.0,Ativo
+519,São José De Piranhas,PB,Açude São José 1,37327000,-7.1264,-38.4992,0.0,Ativo
+520,Igaracy,PB,Açude Cochos,37328000,-7.1786,-38.16,0.0,Ativo
+521,Serra Grande,PB,Açude Cafundó,37329000,-7.2056,-38.3756,0.0,Ativo
+522,Piancó,PB,Piancó,37340000,-7.2044,-37.9281,249.0,Ativo
+523,Olho D''Água,PB,Açude Jenipapeiro (Buiu),37354000,-7.3253,-37.7583,0.0,Ativo
+524,Emas,PB,Açude Emas,37362000,-7.0744,-37.7317,0.0,Ativo
+525,Catingueira,PB,Açude Cachoeira Dos Cegos,37362200,-7.0875,-37.6547,0.0,Ativo
+526,Coremas,PB,UHE Curemas Reservatório 2 (Mãe D'água),37362900,-7.055,-38.005,0.0,Ativo
+527,Aguiar,PB,Açude Frutuoso II,37364000,-7.1158,-38.1917,0.0,Ativo
+528,Coremas,PB,UHE Curemas Reservatório 2 (Estevão Marinho),37367900,-7.0467,-37.9456,0.0,Ativo
+529,Coremas,PB,Açude Mãe D´Água - Canal Da Redenção,37369060,-7.0233,-37.9856,0.0,Ativo
+530,Coremas,PB,UHE Curemas Reservatório 1 (Estevão Marinho),37369120,-7.0269,-37.9414,0.0,Ativo
+531,Coremas,PB,Corema - Jusante,37369151,-7.0222,-37.9481,216.0,Ativo
+532,Coremas,PB,Corema - Jusante,37369151,-7.0222,-37.9481,216.0,Ativo
+533,Coremas,PB,UHE Curemas Barramento 1 (Estevão Marinho),37369152,-7.0242,-37.9481,250.0,Ativo
+534,São José Da Lagoa Tapada,PB,Açude Jenipapeiro,37372000,-6.9625,-38.1647,0.0,Ativo
+535,Pombal,PB,UHE Curemas Jusante 1,37381000,-6.9636,-37.9247,206.0,Ativo
+536,Pombal,PB,UHE Curemas Jusante 2,37381500,-6.7256,-37.7975,175.0,Ativo
+537,Riacho Dos Cavalos,PB,Açude Riacho Dos Cavalos,37411500,-6.4319,-37.6517,0.0,Ativo
+538,Condado,PB,Açude Engenheiro Arcoverde,37411700,-6.9094,-37.5944,0.0,Ativo
+539,Jericó,PB,Açude Carneiro,37412050,-6.5231,-37.8469,0.0,Ativo
+540,Frutuoso Gomes (Ex-Mineiro),RN,Açude Lucrécia Montante,37412090,-6.1733,-37.8481,231.46,Ativo
+541,Lucrécia,RN,Açude Lucrécia,37412100,-6.1272,-37.8142,220.68,Ativo
+542,Bonito De Santa Fé,PB,Açude Bartolomeu I,37417000,-7.3111,-38.4811,0.0,Ativo
+543,Teixeira,PB,Açude Sabonete,37419000,-7.2581,-37.2908,0.0,Ativo
+544,Teixeira,PB,Açude Bastiana,37419300,-7.2492,-37.2811,0.0,Ativo
+545,Teixeira,PB,Açude São Francisco II,37420000,-7.2383,-37.2264,0.0,Ativo
+546,Teixeira,PB,Açude Riacho Das Moças,37422000,-7.2383,-37.3108,0.0,Ativo
+547,Patos,PB,Açude Farinha,37428000,-7.0786,-37.2469,0.0,Ativo
+548,Patos,PB,Açude Jatobá I,37429000,-7.0614,-37.2694,0.0,Ativo
+549,São Mamede,PB,Açude São Mamede,37435000,-6.9317,-37.0719,0.0,Ativo
+550,Serra Negra Do Norte,RN,Açude Dinamarca,37439000,-6.6719,-37.3886,171.75,Ativo
+551,Brejo Do Cruz,PB,Açude Santa Rosa,37471000,-6.3219,-37.5106,0.0,Ativo
+552,Belém Do Brejo Do Cruz,PB,Açude Escondido I,37481000,-6.1956,-37.5433,0.0,Ativo
+553,Belém Do Brejo Do Cruz,PB,Açude Tapera,37482000,-6.2444,-37.4839,0.0,Ativo
+554,São José De Brejo Do Cruz,PB,Açude Baião,37489500,-6.1794,-37.3342,0.0,Ativo
+555,São João Do Sabugi,RN,Açude Sabugi,37500000,-6.6467,-37.1978,0.0,Ativo
+556,Cruzeta,RN,Açude Cruzeta,37517000,-6.41,-36.7925,223.49,Ativo
+557,Currais Novos,RN,Francisco Cardoso (Mulungu),37517400,-6.2369,-36.2969,0.0,Ativo
+558,Currais Novos,RN,Açude Dourado,37517800,-6.2464,-36.5097,338.6,Ativo
+559,Currais Novos,RN,Açude Currais Novos,37517850,-6.2683,-36.5258,334.05,Ativo
+560,Seridó,PB,Açude Felismina De Queiroz,37518200,-6.8572,-36.4081,0.0,Ativo
+561,Parelhas,RN,Açude Caldeirão De Parelhas,37519000,-6.7042,-36.6883,285.97,Ativo
+562,Currais Novos,RN,Açude Marechal Dutra Montante,37519700,-6.3442,-36.5364,300.86,Ativo
+563,Acari,RN,Açude Marechal Dutra,37519800,-6.4256,-36.6028,303.83,Ativo
+564,Picui,PB,Açude Várzea Grande,37521500,-6.4292,-36.3533,0.0,Ativo
+565,Picui,PB,Açude Caraibeiras,37521700,-6.5567,-36.3789,0.0,Ativo
+566,Ouro Branco,RN,Açude Esguicho,37522000,-6.7328,-36.9517,237.32,Ativo
+567,Caicó,RN,Açude Mundo Novo,37557000,-6.4011,-37.0694,168.85,Ativo
+568,São João Do Sabugi,RN,Santo Antônio (Sabugi) - Jusante,37560920,-6.6456,-37.1972,181.0,Ativo
+569,São João Do Sabugi,RN,Santo Antônio (Sabugi) - Jusante,37560920,-6.6456,-37.1972,181.0,Ativo
+570,São José Do Sabugi,PB,Açude São José IV,37561500,-6.7869,-36.7881,0.0,Ativo
+571,Santa Luzia,PB,Açude Santa Luzia,37561700,-6.8733,-36.9206,0.0,Ativo
+572,Várzea,PB,Açude Varzea,37562200,-6.7539,-37.0092,0.0,Ativo
+573,Olivedos,PB,Açude Olivedos,37562700,-6.9675,-36.2442,0.0,Ativo
+574,Caicó,RN,Açude Itans Montante,37562800,-6.5431,-36.9917,176.79,Ativo
+575,Caicó,RN,Açude Itans,37563000,-6.4942,-37.0686,0.0,Ativo
+576,Jardim Do Seridó,RN,Açude Passagem Das Trairas,37564000,-6.5153,-36.9417,201.25,Ativo
+577,Jardim Do Seridó,RN,Passagem Das Traíras - Jusante,37564110,-6.515,-36.9436,188.0,Ativo
+578,Jardim Do Seridó,RN,Passagem Das Traíras - Jusante,37564110,-6.515,-36.9436,188.0,Ativo
+579,Jucurutu,RN,PCH Armando Ribeiro Montante,37603000,-6.0044,-37.0047,55.0,Ativo
+580,Santana Do Matos,RN,Açude Rio Da Pedra,37605000,-5.9767,-36.7022,120.23,Ativo
+581,Santana Do Matos,RN,Açude Alecrim,37607000,-5.9678,-36.66,133.98,Ativo
+582,Paraú,RN,Açude Beldroega,37608000,-5.7689,-37.0725,74.76,Ativo
+583,São Rafael,RN,PCH Armando Ribeiro Rio Santana,37609050,-5.7564,-36.8028,54.0,Ativo
+584,Jucurutu,RN,PCH Armando Ribeiro Reservatório 1,37609100,-5.8728,-36.9311,0.0,Ativo
+585,Açu,RN,Canal Do Pataxó,37610050,-5.6647,-36.8786,43.0,Ativo
+586,Açu,RN,Canal Do Pataxó,37610050,-5.6647,-36.8786,43.0,Ativo
+587,Itajá,RN,ARG-CGH,37610100,-5.6675,-36.8789,0.0,Ativo
+588,Açu,RN,ARG - Jusante,37610110,-5.6667,-36.8789,43.0,Ativo
+589,Açu,RN,ARG - Jusante,37610110,-5.6667,-36.8789,43.0,Ativo
+590,Itajá,RN,PCH Armando Ribeiro Barramento,37690200,-5.6689,-36.8853,48.0,Ativo
+591,Açu,RN,PCH Armando Ribeiro Jusante,37690300,-5.6022,-36.8981,25.0,Ativo
+592,Açu,RN,Mendobim,37694900,-5.6483,-36.9283,33.0,Ativo
+593,Açu,RN,Mendobim,37694900,-5.6483,-36.9283,33.0,Ativo
+594,Açu,RN,Açude Mendubim,37696000,-5.6431,-36.9331,50.73,Ativo
+595,Ipanguaçu,RN,Açude Pataxó,37714700,-5.615,-36.8286,35.77,Ativo
+596,Ipanguaçu,RN,Ipanguaçu,37714910,-5.5031,-36.8881,0.0,Ativo
+597,Afonso Bezerra,RN,Açude Boqueirão De Angicos,37715100,-5.5778,-36.4756,95.18,Ativo
+598,Angicos,RN,Açude Novo Angicos,37721000,-5.665,-36.5964,107.42,Ativo
+599,Poço Branco,RN,Açude Poço Branco,38155000,-5.6333,-35.6547,0.0,Ativo
+600,Poço Branco,RN,Açude Poço Branco Jusante,38155010,-5.6347,-35.6533,0.0,Ativo
+601,Poço Branco,RN,Açude Poço Branco Jusante,38155010,-5.6347,-35.6533,0.0,Ativo
+602,Parnamirim (Ex-Eduardo Gomes),RN,Lagoa Do Jiqui (Ponto Captação De Águas),38248000,-5.9186,-35.1883,6.76,Ativo
+603,Nísia Floresta,RN,Lagoa Pium (Lagoa Azul),38249300,-5.9744,-35.1981,21.84,Ativo
+604,Extremoz,RN,Lagoa De Extremoz,38272000,-5.7222,-35.2836,10.3,Ativo
+605,Touros,RN,Lagoa Do Boqueirão,38320000,-5.2433,-35.5436,0.0,Ativo
+606,Touros,RN,Lagoa Do Boqueirão,38330000,-5.6317,-35.6567,0.0,Ativo
+607,Cerro Corá,RN,Açude Pinga,38341000,-6.0167,-36.2806,332.24,Ativo
+608,Monteiro,PB,Açude Poçinhos,38352800,-7.9392,-37.2194,0.0,Ativo
+609,Monteiro,PB,PISF Açude São José II,38353000,-7.8844,-37.0675,0.0,Ativo
+610,Monteiro,PB,Açude Serrote,38353500,-7.9203,-37.1025,0.0,Ativo
+611,Monteiro,PB,Açude Poções,38354000,-7.8897,-36.9978,0.0,Ativo
+612,São Sebastião Do Umbuzeiro,PB,Açude Santo Antônio,38384600,-8.0969,-36.9878,0.0,Ativo
+613,Macaíba,RN,Açude Tabatinga,38397000,-5.9381,-35.4119,53.76,Ativo
+614,Santa Cruz,RN,Açude Inharé,38441000,-6.1947,-36.0192,251.79,Ativo
+615,Santa Cruz,RN,Açude Santa Cruz Do Trairi,38442000,-6.2242,-36.03,239.43,Ativo
+616,Tangará,RN,Açude Trairí,38450000,-6.2547,-35.8244,169.37,Ativo
+617,São José Do Campestre,RN,Açude Japi II,38465000,-6.3456,-35.7953,184.99,Ativo
+618,Nísia Floresta,RN,Lagoa Do Bonfim,38486000,-6.0417,-35.2258,0.0,Ativo
+619,Cuité,PB,Reservatório Retiro,38497100,-6.4917,-35.9667,632.0,Ativo
+620,São Paulo Do Potengi,RN,Campo Grande,38551000,-5.8903,-35.7731,0.0,Ativo
+621,Cuité,PB,Açude Boqueirão Do Cais,38593000,-6.5269,-36.11,0.0,Ativo
+622,Barra De Santa Rosa,PB,Açude Poleiros,38594000,-6.73,-36.0886,0.0,Ativo
+623,Barra De Santa Rosa,PB,Açude Curimataú,38595000,-6.715,-36.0353,0.0,Ativo
+624,Algodão De Jandaira,PB,Açude Algodão De Jandaira,38596000,-6.905,-36.0033,0.0,Ativo
+625,Montadas,PB,Açude Emídio,38599000,-7.0919,-35.925,0.0,Ativo
+626,São Sebastião De Lagoa De Roca,PB,Açude Manguape,38599500,-7.0883,-35.8714,0.0,Ativo
+627,São Sebastião De Lagoa De Roca,PB,Açude São Sebastião,38600000,-7.0958,-35.8622,0.0,Ativo
+628,Puxinana,PB,Açude Milhã (E. Gonçalves),38605000,-7.1425,-35.9542,0.0,Ativo
+629,Areia,PB,Açude Vaca Brava,38610000,-6.9917,-35.7519,0.0,Ativo
+630,Areia,PB,Açude Saulo Maia,38615000,-6.9419,-35.6783,0.0,Ativo
+631,Cuitegi,PB,Açude Tauá,38620000,-6.9075,-35.5383,0.0,Ativo
+632,Borborema,PB,Açude Canafístula II,38625000,-6.7908,-35.6186,0.0,Ativo
+633,Pirpirituba,PB,Açude Pirpirituba,38630000,-6.8111,-35.5703,0.0,Ativo
+634,Serra Da Raiz,PB,Açude Suspiro,38640000,-6.7264,-35.4789,0.0,Ativo
+635,Bananeiras,PB,Açude Lagoa Do Matias,38648000,-6.7372,-35.5794,0.0,Ativo
+636,Serra Da Raiz,PB,Açude Duas Estradas,38653000,-6.7056,-35.4433,0.0,Ativo
+637,Areial,PB,Açude Covão,38710000,-7.0272,-35.9181,0.0,Ativo
+638,Alagoa Nova,PB,Açude Camará,38720000,-7.0333,-35.7608,471.19,Ativo
+639,Massaranduba,PB,Açude Sindô Ribeiro,38734000,-7.1539,-35.7283,0.0,Ativo
+640,Massaranduba,PB,Açude Massaranduba,38735000,-7.1619,-35.7164,0.0,Ativo
+641,Serra Redonda,PB,Açude Chupadouro II,38737000,-7.1667,-35.6922,0.0,Ativo
+642,Serra Redonda,PB,Açude Chupadouro II,38737000,-7.1661,-35.6944,0.0,Manutenção
+643,Ingá,PB,Açude Chã Dos Pereiras,38742000,-7.2058,-35.6344,0.0,Ativo
+644,Campina Grande,PB,Açude José Rodrigues,38748000,-7.3189,-35.7783,0.0,Ativo
+645,Campina Grande,PB,Açude José Rodrigues,38748000,-7.3192,-35.7781,0.0,Manutenção
+646,Itapororoca,PB,Açude Araçagi,38775000,-6.8528,-35.2956,0.0,Ativo
+647,Bananeiras,PB,Açude Jandaia,38793000,-6.6592,-35.6783,0.0,Ativo
+648,Mamanguape,PB,Açude Jangada,38794000,-6.8186,-35.1194,0.0,Ativo
+649,Monteiro,PB,PISF Monteiro,38811000,-7.8872,-37.1086,540.4,Ativo
+650,Camalau,PB,PISF Sítio Queimação,38811500,-7.8772,-36.9278,0.0,Ativo
+651,Sumé,PB,Sítio Conceição,38812000,-7.7872,-36.7342,0.0,Ativo
+652,Sumé,PB,Sumé - Jusante,38820100,-7.6711,-36.8975,517.0,Ativo
+653,Sumé,PB,Sumé - Jusante,38820100,-7.6711,-36.8975,517.0,Ativo
+654,Caraubas,PB,Caraúbas,38830000,-7.7211,-36.5053,493.0,Ativo
+655,São Domingos Do Cariri,PB,PISF Sítio Porteiras,38831000,-7.6781,-36.4442,0.0,Ativo
+656,Taperoá,PB,Açude Taperoá II (Manoel Marcionilo),38839000,-7.2122,-36.8389,0.0,Ativo
+657,Livramento,PB,Açude Livramento (Russos),38842000,-7.3706,-36.9019,0.0,Ativo
+658,São José Dos Cordeiros,PB,Açude São José III,38843000,-7.3836,-36.8053,0.0,Ativo
+659,Serra Branca,PB,Açude Serra Branca II,38843900,-7.4803,-36.6844,0.0,Ativo
+660,Serra Branca,PB,Açude Serra Branca I,38844000,-7.4739,-36.6606,0.0,Ativo
+661,Desterro,PB,Açude Jeremias,38844500,-7.2856,-37.0978,0.0,Ativo
+662,Desterro,PB,Açude Jeremias,38844500,-7.2869,-37.1008,0.0,Manutenção
+663,Taperoá,PB,Açude Lagoa Do Meio,38845000,-7.165,-36.7594,0.0,Ativo
+664,Gurjão,PB,Açude Gurjão,38847000,-7.2497,-36.4958,0.0,Ativo
+665,São João Do Cariri,PB,Açude Namorado,38848000,-7.3864,-36.5328,0.0,Ativo
+666,Ouro Velho,PB,Açude Ouro Velho,38851000,-7.6067,-37.1544,0.0,Ativo
+667,Prata,PB,Açude Prata II,38851400,-7.6936,-37.0881,0.0,Ativo
+668,Prata,PB,Açude São Paulo,38851500,-7.6489,-37.0772,0.0,Ativo
+669,Sumé,PB,Açude Sumé,38851800,-7.6706,-36.9006,0.0,Ativo
+670,São Domingos Do Cariri,PB,Açude São Domingos,38851900,-7.6281,-36.4444,0.0,Ativo
+671,Soledade,PB,Açude Soledade,38852000,-7.0675,-36.3478,465.0,Ativo
+672,Cabaceiras,PB,PISF Sítio Riacho Fundo,38855020,-7.5944,-36.3011,382.0,Ativo
+673,Cabaceiras,PB,Açude Epitácio Pessoa Montante,38855050,-7.6033,-36.335,0.0,Ativo
+674,Boqueirão,PB,Açude Epitácio Pessoa Jusante,38855150,-7.4881,-36.1378,348.0,Ativo
+675,Boqueirão,PB,Açude Epitácio Pessoa - Ultrassom,38855160,-7.4889,-36.1397,383.0,Ativo
+676,Barra De São Miguel,PB,Açude Riacho Santo Antônio,38861000,-7.7025,-36.1619,0.0,Ativo
+677,Fagundes,PB,Açude Gavião,38876000,-7.3553,-35.7411,0.0,Manutenção
+678,Fagundes,PB,Açude Gavião,38876000,-7.3572,-35.7406,0.0,Ativo
+679,Camalau,PB,Açude Camalaú,38880500,-7.8875,-36.8342,0.0,Ativo
+680,Congo,PB,Açude Cordeiro,38881000,-7.8183,-36.6792,0.0,Ativo
+681,Caraubas,PB,Açude Campos,38882000,-7.7647,-36.5503,0.0,Ativo
+682,Barra De São Miguel,PB,Açude Bichinho,38883000,-7.7494,-36.3133,0.0,Ativo
+683,Mari,PB,Açude Olho D''Água,38885500,-7.0592,-35.2761,0.0,Ativo
+684,Sapé,PB,Açude São Salvador,38886000,-7.085,-35.1903,0.0,Ativo
+685,Timbauba,PE,Açude Tiúma,39081230,-7.5128,-35.345,0.0,Ativo
+686,João Pessoa,PB,Açude Marés,39084050,-7.1544,-34.9103,0.0,Ativo
+687,Alhandra,PB,Açude Gramame/Mamuaba,39084080,-7.29,-34.9589,0.0,Ativo
+688,Santa Cruz Do Capibaribe,PE,Açude Poço Fundo,39105000,-7.9619,-36.3497,0.0,Ativo
+689,Brejo Da Madre De Deus,PE,Açude Machado,39112000,-8.0003,-36.2692,0.0,Ativo
+690,Brejo Da Madre De Deus,PE,Açude Oitis,39113000,-8.0911,-36.3814,0.0,Ativo
+691,Brejo Da Madre De Deus,PE,Açude Santana II,39113500,-8.1811,-36.3717,0.0,Ativo
+692,Belo Jardim,PE,Açude Taboca-Piaca,39114000,-8.2475,-36.3761,0.0,Ativo
+693,Pedra,PE,Açude Riacho Do Pau (Arcoverde),39114500,-8.5594,-36.9853,0.0,Ativo
+694,Brejo Da Madre De Deus,PE,Açude Eng. Gercino Pontes (Tabocas),39125000,-8.0228,-36.1425,0.0,Ativo
+695,Bezerros,PE,Açude Manuino,39131500,-8.1933,-35.7367,0.0,Ativo
+696,Taquaritinga Do Norte,PE,Açude Mateus Vieira,39135000,-7.9525,-36.0758,460.0,Ativo
+697,Cumaru,PE,Açude Jucazinho,39136000,-7.9656,-35.7431,0.0,Ativo
+698,Lagoa Do Carro,PE,Açude Carpina,39145550,-7.8969,-35.3339,0.0,Ativo
+699,Paudalho,PE,Açude Cursai,39146000,-7.8786,-35.1756,0.0,Ativo
+700,Paudalho,PE,Açude Goitá,39151000,-7.9694,-35.1156,0.0,Ativo
+701,Vitória De Santo Antão,PE,Vitória De Santo Antão Montante,39167000,-8.12,-35.3211,0.0,Ativo
+702,São Lourenço Da Mata,PE,Açude Tapacurá,39175000,-8.0369,-35.1625,0.0,Ativo
+703,Surubim,PE,Jucazinho - Jusante,39185100,-7.9669,-35.7408,255.0,Ativo
+704,São Lourenço Da Mata,PE,São Lourenço Da Mata II,39187800,-7.9986,-35.0392,32.0,Ativo
+705,São Lourenço Da Mata,PE,Açude Matriz Da Luz,39187900,-8.0236,-35.0803,0.0,Ativo
+706,Jaboatão Dos Guararapes,PE,Açude Duas Unas,39189800,-8.0919,-35.0383,0.0,Ativo
+707,Cabo De Santo Agostinho,PE,Açude Pirapama,39200550,-8.2881,-35.0717,0.0,Ativo
+708,Cabo De Santo Agostinho,PE,Açude Gurjaú,39200800,-8.2364,-35.0497,0.0,Ativo
+709,Belo Jardim,PE,Açude Eng. Severino Guerra,39339950,-8.3103,-36.4258,0.0,Ativo
+710,Belo Jardim,PE,Açude Belo Jardim,39340200,-8.3458,-36.3747,0.0,Ativo
+711,Caruaru,PE,Açude Cipó,39340300,-8.3072,-36.0003,0.0,Ativo
+712,Caruaru,PE,Açude Taquara,39340350,-8.3036,-36.0444,0.0,Ativo
+713,Caruaru,PE,Açude Taquara,39340350,-8.3036,-36.0444,0.0,Ativo
+714,Caruaru,PE,Açude Guilherme Azevedo,39340380,-8.36,-36.0314,0.0,Ativo
+715,Caruaru,PE,Açude Serra Dos Cavalos,39340390,-8.3597,-36.0408,0.0,Ativo
+716,Rio Formoso,PE,PCH Luiz Dias Lins Barramento,39480100,-8.6497,-35.215,52.0,Ativo
+717,Rio Formoso,PE,PCH Luiz Dias Lins Jusante,39480300,-8.6478,-35.2097,45.0,Ativo
+718,Capoeiras,PE,Açude Gurjão,39490530,-8.6428,-36.5803,0.0,Ativo
+719,Bonito,PE,Açude Bonitinho,39540500,-8.4703,-35.6947,394.0,Ativo
+720,Altinho,PE,Açude Brejo Do Buraco,39540620,-8.3953,-36.0653,0.0,Ativo
+721,Bezerros,PE,Açude Poço De Areia,39540630,-8.3544,-35.805,0.0,Ativo
+722,Capoeiras,PE,Açude Cajarana,39540635,-8.7842,-36.5247,0.0,Ativo
+723,São Joaquim Do Monte,PE,Açude Caianinha,39540640,-8.4417,-35.8075,0.0,Ativo
+724,São Joaquim Do Monte,PE,Açude Do Prata,39540650,-8.5242,-35.8367,0.0,Ativo
+725,Canhotinho,PE,Açude São Jackes,39540670,-8.8017,-36.1578,0.0,Ativo
+726,Quipapa,PE,Açude Pau Ferro,39540680,-8.8383,-36.12,0.0,Ativo
+727,Garanhuns,PE,Açude Mundaú,39570300,-8.9453,-36.4908,0.0,Ativo
+728,Garanhuns,PE,Açude Inhumas,39570800,-8.9903,-36.3828,0.0,Ativo
+729,Garanhuns,PE,Açude Mundau II (Cajueiro),39570900,-8.9906,-36.4717,0.0,Ativo
+730,Correntes,PE,Correntes,39690000,-9.1322,-36.3231,0.0,Ativo
+731,Santana Do Mundau,AL,Santana Do Mundaú,39700000,-9.1678,-36.2175,0.0,Ativo
+732,União Dos Palmares,AL,União Dos Palmares,39740000,-9.1544,-36.0358,0.0,Ativo
+733,União Dos Palmares,AL,União Dos Palmares,39740000,-9.1544,-36.0358,0.0,Ativo
+734,Murici,AL,Murici - Ponte,39760000,-9.3136,-35.9497,82.0,Ativo
+735,Quebrangulo,AL,Açude Caçamba,39810000,-9.275,-36.3911,0.0,Ativo
+736,Quebrangulo,AL,Açude Carangueja,39830000,-9.3036,-36.4769,0.0,Ativo
+737,Canhotinho,PE,CGH Oriental Montante,39863500,-8.9831,-36.1561,394.0,Ativo
+738,Canhotinho,PE,CGH Oriental Barramento,39863600,-8.9956,-36.1244,380.0,Ativo
+739,Bom Conselho,PE,Açude Bálsamo,39964000,-9.3167,-36.6431,0.0,Ativo
+740,Palmeira Dos Índios,AL,Açude Bálsamo - Jusante,39964005,-9.3186,-36.6419,496.0,Ativo
+741,Palmeira Dos Índios,AL,Açude Bálsamo - Jusante,39964005,-9.3186,-36.6419,496.0,Ativo
+742,Teotônio Vilela,AL,Açude Coruripe,39971000,-10.0303,-36.3053,0.0,Ativo
+743,Carmópolis De Minas,MG,UHE Cajuru Montante,40127000,-20.5072,-44.5422,0.0,Ativo
+744,Carmo Do Cajuru,MG,UHE Cajuru Jusante,40152000,-20.1811,-44.7939,0.0,Ativo
+745,Conceição Do Pará,MG,Velho Da Taipa,40330000,-19.6939,-44.9308,575.0,Ativo
+746,Belo Vale,MG,Belo Vale,40710000,-20.4083,-44.0217,787.0,Ativo
+747,Bonfim,MG,CGH Caquende Barramento,40711980,-20.3881,-44.1872,903.0,Ativo
+748,Brumadinho,MG,Alberto Flores,40740000,-20.1667,-44.1606,725.0,Ativo
+749,Pompéu,MG,UHE Retiro Baixo Ribeirão Pedro Moreira,40865445,-19.0183,-44.7961,0.0,Ativo
+750,São Gonçalo Do Abaeté,MG,Porto Do Passarinho,41075001,-18.4031,-45.7369,0.0,Ativo
+751,Rio Acima,MG,Rio Acima,41195050,-20.0919,-43.7919,748.0,Ativo
+752,Raposos,MG,Raposos,41200430,-19.9631,-43.8067,0.0,Ativo
+753,Sabará,MG,CGH Marzagão Barramento,41237580,-19.8997,-43.8742,191.8,Ativo
+754,Jaboticatubas,MG,Ponte Preta,41380000,-19.4619,-43.9036,752.0,Ativo
+755,Presidente Juscelino,MG,Ponte Do Licínio - Jusante,41650002,-18.6728,-44.1939,560.0,Ativo
+756,Presidente Juscelino,MG,Presidente Juscelino - Jusante,41780002,-18.645,-44.0506,560.0,Ativo
+757,Diamantina,MG,PCH Serra Das Agulhas Barramento,41781900,-18.3628,-43.9597,953.0,Ativo
+758,Monjolos,MG,PCH Serra Das Agulhas Jusante,41781950,-18.3489,-44.0283,549.0,Ativo
+759,Corinto,MG,Ponte Do Bicudo,41940000,-18.1908,-44.5556,569.0,Ativo
+760,Coração De Jesus,MG,Açude Canabrava,42169000,-16.6875,-44.3417,0.0,Ativo
+761,Buritizeiro,MG,Cachoeira Da Manteiga,42210000,-16.6572,-45.0808,461.0,Ativo
+762,Buritizeiro,MG,Cachoeira Da Manteiga,42210000,-16.6572,-45.0808,461.0,Ativo
+763,Guarda-Mor,MG,Fazenda Córrego Do Ouro,42251000,-17.6133,-46.8592,546.0,Ativo
+764,Paracatu,MG,Santa Izabel,42255500,-17.2656,-46.9556,597.0,Ativo
+765,Lagoa Grande,MG,Ponte Da Br-040 - Paracatu,42290000,-17.5025,-46.5711,520.0,Ativo
+766,Lagoa Grande,MG,Ponte Da Br-040 - Prata,42365000,-17.6619,-46.355,560.0,Ativo
+767,Brasília,DF,Ribeirão Santa Rita,42450050,-15.5856,-47.3333,870.0,Ativo
+768,Brasília,DF,Rio Preto - Montante Extrema,42450360,-15.8372,-47.3689,0.0,Ativo
+769,Brasília,DF,Lagoinha - Df 105,42450370,-15.7725,-47.3989,0.0,Ativo
+770,Brasília,DF,Jardim - Df 260,42450740,-15.8597,-47.4756,0.0,Ativo
+771,Brasília,DF,Jardim - Montante Lamarão,42450770,-15.9475,-47.4458,0.0,Ativo
+772,Brasília,DF,Ribeirão Jardim Df-100,42450900,-15.9739,-47.3986,0.0,Ativo
+773,Unaí,MG,PCH Mata Velha Ribeirão Roncador,42458200,-16.2125,-47.2069,644.0,Ativo
+774,Unaí,MG,PCH Mata Velha Barramento,42458300,-16.1936,-47.175,630.0,Ativo
+775,Unaí,MG,UHE Queimado Jusante 2,42540010,-16.5303,-46.7217,0.0,Ativo
+776,Brasilândia De Minas,MG,Porto Da Extrema,42690001,-17.0303,-46.0136,484.0,Ativo
+777,Santa Fé De Minas,MG,Barra Do Rio,42980500,-16.5872,-45.1336,425.0,Ativo
+778,São Romão,MG,UHE Sobradinho Montante 5,43190900,-16.3725,-45.07,0.0,Ativo
+779,Arinos,MG,Arinos - Montante,43429998,-15.9178,-46.1192,497.0,Ativo
+780,São Romão,MG,Barra Do Escuro,43980002,-16.2681,-45.2369,445.0,Ativo
+781,São Francisco,MG,UHE Sobradinho Montante 4,44190900,-15.9494,-44.8681,0.0,Ativo
+782,Januária,MG,Usina Do Pandeiros Jusante,44252000,-15.5136,-44.7539,455.0,Manutenção
+783,Juramento,MG,Açude Juramento,44589000,-16.7719,-43.6664,0.0,Ativo
+784,Montes Claros,MG,Açude Rio Dos Porcos,44598000,-16.8106,-43.9133,0.0,Ativo
+785,Capitão Enéas,MG,Fazenda Reata,44634500,-16.065,-43.7306,494.0,Ativo
+786,São João Da Ponte,MG,Agreste,44637900,-15.9408,-43.6419,498.0,Ativo
+787,Janaúba,MG,Bico Da Pedra - ASSIEG,44730900,-15.7492,-43.3092,540.0,Ativo
+788,Janaúba,MG,Bico Da Pedra - ASSIEG,44730900,-15.7492,-43.3092,540.0,Ativo
+789,Monte Azul,MG,Açude Angical,44800000,-15.1564,-42.8247,0.0,Ativo
+790,Urandi,BA,Açude Cova De Mandioca Montante,44881900,-14.7331,-42.6939,0.0,Ativo
+791,Urandi,BA,Açude Cova Da Mandioca,44882000,-14.7664,-42.7944,0.0,Ativo
+792,Urandi,BA,Açude Estreito Montante,44882900,-14.8458,-42.7586,0.0,Ativo
+793,Urandi,BA,Açude De Estreito,44883000,-14.8253,-42.8069,0.0,Ativo
+794,Espinosa,MG,Açude Estreito Jusante,44883100,-14.8244,-42.8147,0.0,Ativo
+795,Janaúba,MG,Açude Bico Da Pedra,44907030,-15.8283,-43.2625,0.0,Ativo
+796,Nova Porteirinha,MG,Bico Da Pedra - Jusante,44907040,-15.83,-43.2644,545.0,Ativo
+797,Nova Porteirinha,MG,Bico Da Pedra - Jusante,44907040,-15.83,-43.2644,545.0,Ativo
+798,Gameleiras,MG,Gado Bravo (Ex. Boca Da Caatinga Nova),44940000,-14.9228,-43.5014,0.0,Ativo
+799,Cocos,BA,Ponte Do Fortunato,45154000,-14.2347,-44.6217,0.0,Ativo
+800,Guanambi,BA,Açude Ceraima Montante,45298900,-14.2953,-42.6453,0.0,Ativo
+801,Guanambi,BA,Açude Ceraima,45299000,-14.2856,-42.6808,0.0,Ativo
+802,Candiba,BA,Açude Poço Magro Montante,45299180,-14.3725,-42.8031,0.0,Ativo
+803,Guanambi,BA,Açude Poço Magro,45299200,-14.2556,-42.8139,0.0,Ativo
+804,Riacho De Santana,BA,Açude  Riacho De Santana Montante,45399000,-13.5919,-42.8622,0.0,Ativo
+805,Riacho De Santana,BA,Açude Riacho De Santana,45400000,-13.5983,-42.87,0.0,Ativo
+806,Bom Jesus Da Lapa,BA,UHE Sobradinho Montante 3,45470900,-13.2569,-43.4353,0.0,Ativo
+807,Correntina,BA,Fazenda Morete,45701000,-13.2211,-45.1525,0.0,Ativo
+808,Correntina,BA,Bebedouro,45760000,-13.7372,-45.4639,0.0,Ativo
+809,Correntina,BA,Fazenda Conquista (Rio Arrojado),45764900,-13.6547,-45.0697,608.0,Ativo
+810,Jaborandi,BA,Gatos,45840000,-13.7122,-44.6383,581.0,Ativo
+811,Jaborandi,BA,Fazenda Nova Esperança,45850000,-13.9875,-45.3881,0.0,Ativo
+812,Jaborandi,BA,Fazenda Lagoa Do Casamento,45863000,-14.3972,-45.5197,793.0,Ativo
+813,Coribe,BA,Colônia Do Formoso,45880000,-13.5586,-44.3031,441.0,Ativo
+814,Sítio Do Mato,BA,Gameleira,46035000,-12.8686,-43.3797,413.0,Ativo
+815,Macaúbas,BA,Açude Macaúbas Montante,46037900,-13.0408,-42.585,0.0,Ativo
+816,Macaúbas,BA,Açude Macaúbas,46038000,-13.0142,-42.5547,0.0,Ativo
+817,Ibotirama,BA,Ibotirama,46150000,-12.1825,-43.2231,408.0,Ativo
+818,Ibotirama,BA,UHE Sobradinho Montante 2,46150001,-12.1825,-43.2231,0.0,Ativo
+819,Muquem De São Francisco,BA,Fazenda Grande,46160120,-11.8808,-43.3278,415.0,Ativo
+820,Érico Cardoso ,BA,Fazenda Cachoeira,46220000,-13.4228,-42.1606,0.0,Ativo
+821,Érico Cardoso ,BA,Açude Zabumbão Montante,46220900,-13.4225,-42.1608,0.0,Ativo
+822,Paramirim,BA,Açude Zabumbão,46230000,-13.4356,-42.2106,0.0,Ativo
+823,Paramirim,BA,Açude Zabumbão Jusante,46230100,-13.44,-42.2219,0.0,Ativo
+824,Morpará,BA,Morpará,46360000,-11.5583,-43.2825,399.0,Ativo
+825,Morpará,BA,Morpará,46360000,-11.5583,-43.2825,399.0,Ativo
+826,Morpará,BA,UHE Sobradinho Montante 1,46360001,-11.5583,-43.2825,0.0,Ativo
+827,São Desidério,BA,PCH Santa Luzia Montante 2,46409990,-12.76,-45.1489,0.0,Ativo
+828,São Desidério,BA,PCH Santa Luzia Montante 1,46411000,-12.6422,-45.0836,0.0,Ativo
+829,São Desidério,BA,PCH Santa Luzia Jusante,46413000,-12.5169,-45.0967,0.0,Ativo
+830,São Desidério,BA,Sítio Grande,46415000,-12.4306,-45.0856,512.0,Ativo
+831,São Desidério,BA,Ponte Do Mosquito,46417000,-12.6897,-45.8508,0.0,Ativo
+832,São Desidério,BA,Derocal,46455000,-12.4106,-45.1222,510.0,Ativo
+833,Barreiras,BA,Rio De Pedras,46520000,-12.1944,-45.4897,0.0,Ativo
+834,São Desidério,BA,Fazenda Vereda Nova,46527000,-12.8317,-45.3061,0.0,Ativo
+835,Barreiras,BA,Barreiras,46550000,-12.1525,-45.0094,437.0,Ativo
+836,Luís Eduardo Magalhães,BA,Fazenda Vale Do Urso,46570500,-11.9033,-45.6967,0.0,Ativo
+837,Barreiras,BA,Nova Vida - Montante,46590000,-11.8561,-45.12,456.0,Ativo
+838,Formosa Do Rio Preto,BA,Buritizinho,46782000,-11.2114,-45.4108,0.0,Ativo
+839,Barra,BA,Barra,46998000,-11.0928,-43.1403,398.0,Ativo
+840,Barra,BA,Barra,46998000,-11.0928,-43.1403,398.0,Ativo
+841,Pilão Arcado,BA,Xique-Xique,47120100,-10.8314,-42.7347,401.0,Ativo
+842,Pilão Arcado,BA,Passagem,47143160,-10.0744,-42.4383,402.0,Ativo
+843,Pilão Arcado,BA,Queimadas,47160100,-10.3986,-42.4789,397.0,Ativo
+844,Gentio Do Ouro,BA,Fazenda Água Quente,47221000,-11.5483,-42.3361,0.0,Ativo
+845,Gentio Do Ouro,BA,Açude Mirorós Montante,47228900,-11.5508,-42.3364,0.0,Ativo
+846,Gentio Do Ouro,BA,Açude Mirorós,47229000,-11.4589,-42.3461,0.0,Ativo
+847,Gentio Do Ouro,BA,Açude Mirorós Jusante,47229100,-11.4583,-42.3414,0.0,Ativo
+848,Sobradinho,BA,UHE Sobradinho Reservatório 3,47750050,-9.6672,-42.0208,0.0,Ativo
+849,Sobradinho,BA,UHE Sobradinho Reservatório 2,47750060,-9.7297,-41.8317,0.0,Ativo
+850,Sobradinho,BA,UHE Sobradinho Reservatório 1,47750070,-9.31,-40.9739,0.0,Ativo
+851,Campo Formoso,BA,Abreus,47900000,-10.0103,-40.6953,0.0,Ativo
+852,Casa Nova,BA,Açude  Poço Da Pedra,48030000,-9.0411,-41.025,0.0,Ativo
+853,Juazeiro,BA,Açude Poções Montante,48049000,-9.7975,-40.13,0.0,Ativo
+854,Juazeiro,BA,Açude  Poções,48050000,-9.7492,-40.1714,0.0,Ativo
+855,Juazeiro,BA,Açude Poções Jusante,48055000,-9.7478,-40.1733,0.0,Ativo
+856,Terra Nova,PE,Açude Nilo Coelho (Terra Nova),48177000,-8.2275,-39.3728,0.0,Ativo
+857,Curaçá,BA,Açude Pinhões Montante,48257900,-9.6564,-39.8886,0.0,Ativo
+858,Juazeiro,BA,Açude Pinhões,48258000,-9.5825,-39.8847,0.0,Ativo
+859,Juazeiro,BA,Açude Pinhões Jusante,48258100,-9.5781,-39.885,0.0,Ativo
+860,Verdejante,PE,Salgueiro - Jusante,48321000,-8.0314,-39.0619,437.0,Ativo
+861,Verdejante,PE,Salgueiro - Jusante,48321000,-8.0314,-39.0619,437.0,Ativo
+862,Santa Maria Da Boa Vista,PE,Saco II - Jusante,48330040,-8.5439,-40.1661,391.0,Ativo
+863,Santa Maria Da Boa Vista,PE,Saco II - Jusante,48330040,-8.5439,-40.1661,391.0,Ativo
+864,Araripina,PE,Açude Rancharia,48376000,-7.7144,-40.5894,0.0,Ativo
+865,Araripina,PE,Açude Lagoa Do Barro,48380000,-7.7706,-40.3767,0.0,Ativo
+866,Orocó,PE,Orocó,48395000,-8.6225,-39.5969,331.0,Ativo
+867,Orocó,PE,Mata De São José,48395500,-8.5731,-39.4619,329.0,Ativo
+868,Cedro,PE,Açude Barrinha,48396000,-7.7258,-39.2664,0.0,Ativo
+869,Serrita,PE,Açude Poço Grande,48396500,-7.8661,-39.185,0.0,Ativo
+870,Parnamirim,PE,Açude Chapéu Jusante,48398100,-8.0161,-39.5778,0.0,Ativo
+871,Parnamirim,PE,Açude Parnamirim,48399000,-8.0911,-39.5692,0.0,Ativo
+872,Terra Nova,PE,Açude Abóboras,48407000,-8.0878,-39.4275,0.0,Ativo
+873,Parnamirim,PE,Açude Cachimbo,48408000,-7.9942,-39.7711,0.0,Ativo
+874,Bodocó,PE,Açude Lopes II,48410000,-7.8714,-39.9325,0.0,Ativo
+875,Ouricuri,PE,Açude Eng. Camacho (Tamboril),48439000,-7.8961,-40.1497,0.0,Ativo
+876,Moreilândia,PE,Açude Sitio Dos Moreiras,48439030,-7.6297,-39.5361,0.0,Ativo
+877,Araripina,PE,Açude Barriguda,48439050,-7.865,-40.4953,0.0,Ativo
+878,Araripina,PE,Açude Araripina,48439100,-7.5761,-40.4725,0.0,Ativo
+879,Santa Cruz,PE,Açude Cacimba,48439500,-8.1944,-40.4239,0.0,Ativo
+880,Afrânio,PE,Açude Pau Branco,48442000,-8.5208,-41.0139,0.0,Ativo
+881,Parnamirim,PE,Açude Entremontes,48450000,-8.2283,-39.8956,0.0,Ativo
+882,Parnamirim,PE,Entremontes - Jusante,48450020,-8.2314,-39.8972,374.0,Ativo
+883,Parnamirim,PE,Entremontes - Jusante,48450020,-8.2314,-39.8972,374.0,Ativo
+884,Parnamirim,PE,Açude Entremontes Jusante,48450100,-8.2361,-39.8936,0.0,Ativo
+885,Parnamirim,PE,Açude Caiçara,48455000,-8.3681,-39.8903,0.0,Ativo
+886,Cabrobó,PE,Açude Barra Do Chapéu,48550000,-8.3911,-39.0672,0.0,Ativo
+887,Juazeiro,BA,UHE Luiz Gonzaga (Itaparica) Montante 4,48570000,-9.4064,-40.5033,0.0,Ativo
+888,Verdejante,PE,Açude Boa Vista,48573000,-8.0581,-39.0522,0.0,Ativo
+889,Verdejante,PE,Açude Salgueiro,48575000,-8.0286,-39.0592,0.0,Ativo
+890,Santa Maria Da Boa Vista,PE,UHE Luiz Gonzaga (Itaparica) Montante 3,48580000,-8.8092,-39.8256,0.0,Ativo
+891,Belém De São Francisco,PE,Belém Do São Francisco,48699000,-8.7658,-38.9622,299.7,Ativo
+892,Itapetim,PE,Açude Boa Vista (Itapetim),48801500,-7.3694,-37.2186,0.0,Ativo
+893,São José Do Egito,PE,Açude São José II,48802500,-7.4761,-37.2944,0.0,Ativo
+894,Tuparetama,PE,Açude Bom Sucesso,48803000,-7.6394,-37.3567,0.0,Ativo
+895,Afogados Da Ingazeira,PE,Açude Brotas,48805000,-7.7444,-37.6222,0.0,Ativo
+896,Carnaiba,PE,Açude Chinelo,48807000,-7.7825,-37.7889,0.0,Ativo
+897,Afogados Da Ingazeira,PE,Açude Laje Do Gato,48815000,-7.6575,-37.6503,0.0,Ativo
+898,Ingazeira,PE,Açude Rosário,48822000,-7.7722,-37.4717,0.0,Ativo
+899,Serra Talhada,PE,Açude Jazigo,48839000,-8.0011,-38.2419,0.0,Ativo
+900,São José Do Belmonte,PE,Açude Serrote,48840900,-7.7811,-38.8819,0.0,Ativo
+901,Serra Talhada,PE,Açude Cachoeira II,48841500,-7.9739,-38.3233,0.0,Ativo
+902,São José Do Belmonte,PE,Açude Arrodeio,48849500,-7.8575,-38.7861,0.0,Ativo
+903,Brejinho,PE,Açude Serrinha (Serraria),48850001,-7.3189,-37.3044,375.0,Ativo
+904,Serra Talhada,PE,Açude Serrinha II,48851000,-8.2042,-38.5278,0.0,Ativo
+905,Floresta,PE,Açude Barra Do Juá,48853000,-8.4464,-38.0744,0.0,Ativo
+906,Floresta,PE,Açude Barra Do Juá - Jusante,48853002,-8.4494,-38.0744,394.0,Ativo
+907,Floresta,PE,Açude Barra Do Juá - Jusante,48853002,-8.4494,-38.0744,394.0,Ativo
+908,Floresta,PE,Açude Quebra Unha,48881000,-8.4686,-38.2236,0.0,Ativo
+909,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 12,49042460,-8.7917,-38.9617,0.0,Ativo
+910,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 11,49042470,-8.8361,-38.7272,0.0,Ativo
+911,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 10,49042480,-8.82,-38.6569,0.0,Ativo
+912,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 9,49042490,-8.9058,-38.6847,0.0,Ativo
+913,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 8,49042505,-8.9286,-38.6053,0.0,Ativo
+914,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 7,49042510,-8.8117,-38.5539,0.0,Ativo
+915,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 6,49042520,-8.82,-38.42,0.0,Ativo
+916,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 5,49042530,-8.9328,-38.5167,0.0,Ativo
+917,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 4,49042540,-9.0322,-38.4519,0.0,Ativo
+918,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 3,49042555,-8.9967,-38.2358,0.0,Ativo
+919,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 2,49042560,-9.0839,-38.3539,0.0,Ativo
+920,Jatobá,PE,UHE Luiz Gonzaga (Itaparica) Reservatório 1,49042570,-9.1283,-38.3092,0.0,Ativo
+921,Sertânia,PE,Açude Cachoeira I,49090000,-8.0672,-37.2214,0.0,Ativo
+922,Sertânia,PE,Açude Barra,49091000,-8.0811,-37.3133,0.0,Ativo
+923,Custódia,PE,Açude Custódia (Marrecos),49092000,-8.0769,-37.6019,0.0,Ativo
+924,Ibimirim,PE,Poço Da Cruz - Jusante,49135005,-8.5097,-37.7061,410.0,Ativo
+925,Ibimirim,PE,Poço Da Cruz - Jusante,49135005,-8.5097,-37.7061,410.0,Ativo
+926,Ibimirim,PE,Açude Eng. Francisco Saboia (Poço Da Cruz),49140000,-8.5089,-37.7031,430.0,Ativo
+927,Santana Do Ipanema,AL,Açude Riacho Do Bode,49141000,-9.37111,-37.20555,0.0,Manutenção
+928,Delmiro Gouvéia,AL,UHE Apolônio Sales (Moxotó) Reservatório 8,49208010,-9.1664,-38.2994,0.0,Ativo
+929,Delmiro Gouvéia,AL,UHE Apolônio Sales (Moxotó) Reservatório 7,49208020,-9.2347,-38.2347,0.0,Ativo
+930,Delmiro Gouvéia,AL,UHE Apolônio Sales (Moxotó) Reservatório 6,49208030,-9.2711,-38.1661,0.0,Ativo
+931,Delmiro Gouvéia,AL,UHE Apolônio Sales (Moxotó) Reservatório 5,49208040,-9.3125,-38.2208,0.0,Ativo
+932,Delmiro Gouvéia,AL,UHE Apolônio Sales (Moxotó) Reservatório 4,49208050,-9.3431,-38.2394,0.0,Ativo
+933,Delmiro Gouvéia,AL,UHE Apolônio Sales (Moxotó) Reservatório 3,49208060,-9.3489,-38.3489,0.0,Ativo
+934,Delmiro Gouvéia,AL,UHE Apolônio Sales (Moxotó) Reservatório 2,49208070,-9.3633,-38.2444,0.0,Ativo
+935,Delmiro Gouvéia,AL,UHE Apolônio Sales (Moxotó) Reservatório 1,49208090,-9.3767,-38.2339,0.0,Ativo
+936,Paulo Afonso,BA,UHE Paulo Afonso IV Reservatório 3,49210040,-9.4086,-38.23,0.0,Ativo
+937,Paulo Afonso,BA,UHE Paulo Afonso IV Reservatório 4,49210045,-9.4164,-38.2436,0.0,Ativo
+938,Paulo Afonso,BA,"UHEs Paulo Afonso I, II e III Reservatório 1",49210050,-9.3692,-38.2156,0.0,Ativo
+939,Paulo Afonso,BA,UHE Paulo Afonso IV Reservatório 1,49210060,-9.4139,-38.215,0.0,Ativo
+940,Paulo Afonso,BA,UHE Paulo Afonso IV Reservatório 2,49210075,-9.4267,-38.225,0.0,Ativo
+941,Paulo Afonso,BA,UHE Paulo Afonso IV Reservatório 5,49210085,-9.4314,-38.2458,0.0,Ativo
+942,Paulo Afonso,BA,"UHEs Paulo Afonso I, II E III Reservatório 2",49210090,-9.3922,-38.2053,0.0,Ativo
+943,Piranhas,AL,Piranhas,49330000,-9.6261,-37.7561,10.85,Ativo
+944,Canindé De São Francisco,SE,UHE Xingó Reservatório 11,49330970,-9.4406,-38.155,0.0,Ativo
+945,Canindé De São Francisco,SE,UHE Xingó Reservatório 10,49330980,-9.4369,-38.0975,0.0,Ativo
+946,Canindé De São Francisco,SE,UHE Xingó Reservatório 9,49330990,-9.4711,-38.0222,0.0,Ativo
+947,Canindé De São Francisco,SE,UHE Xingó Reservatório 8,49340000,-9.4992,-37.9994,0.0,Ativo
+948,Canindé De São Francisco,SE,UHE Xingó Reservatório 7,49340010,-9.5258,-37.9894,0.0,Ativo
+949,Canindé De São Francisco,SE,UHE Xingó Reservatório 6,49340020,-9.5456,-37.9192,0.0,Ativo
+950,Canindé De São Francisco,SE,UHE Xingó Reservatório 5,49340030,-9.5278,-37.8894,0.0,Ativo
+951,Canindé De São Francisco,SE,UHE Xingó Reservatório 4,49340040,-9.5683,-37.8619,0.0,Ativo
+952,Canindé De São Francisco,SE,UHE Xingó Reservatório 3,49340050,-9.6061,-37.88,0.0,Ativo
+953,Canindé De São Francisco,SE,UHE Xingó Reservatório 2,49340060,-9.6003,-37.8431,0.0,Ativo
+954,Canindé De São Francisco,SE,UHE Xingó Reservatório 1,49340070,-9.6183,-37.8003,0.0,Ativo
+955,Piranhas,AL,UHE Xingó Jusante 1,49340100,-9.6267,-37.7564,130.0,Ativo
+956,Traipu,AL,UHE Xingó Jusante 2,49340200,-9.9725,-37.0025,40.0,Ativo
+957,Pedra,PE,Açude Mororó,49369500,-8.4953,-36.9436,0.0,Ativo
+958,Buíque,PE,Açude Mulungú,49369800,-8.6314,-37.1319,0.0,Ativo
+959,São José Da Tapera,AL,Açude São José Da Tapera,49369900,-9.59416,-37.37861,0.0,Manutenção
+960,Venturosa,PE,Açude Ingazeira,49384000,-8.6122,-36.9122,0.0,Ativo
+961,Bom Conselho,PE,Açude Limeira II,49405000,-9.2847,-36.7014,0.0,Ativo
+962,Águas Belas,PE,Águas Belas Jusante,49480050,-9.135,-37.1597,0.0,Ativo
+963,Porto Da Folha,SE,Estação Ilha Do Ouro,49550000,-9.8961,-37.2425,10.8,Ativo
+964,Coruripe,AL,Coruripe - Rio Piauí,49590000,-10.1622,-36.3494,0.0,Ativo
+965,Igreja Nova,AL,Acude Boa Cica,49601000,-10.1147,-36.6131,0.0,Ativo
+966,Gracho Cardoso,SE,Açude Três Barras,49620000,-10.1939,-37.2272,0.0,Ativo
+967,Jaramataia,AL,Açude Jaramataia,49640000,-9.6794,-36.9772,0.0,Ativo
+968,Traipu,AL,Traipu,49660000,-9.9714,-37.0028,2.0,Ativo
+969,Penedo,AL,UHE Xingó Jusante 4,49706250,-10.2881,-36.5856,0.0,Ativo
+970,Itabaiana,SE,Açude Jacarecica I,50081000,-10.6756,-37.3606,0.0,Ativo
+971,Malhador,SE,Açude Jacarecica II,50082000,-10.7203,-37.2886,0.0,Ativo
+972,Uauá,BA,Açude Cocorobó Montante,50138900,-9.8553,-39.2278,0.0,Ativo
+973,Canudos,BA,Açude Cocorobó,50139500,-9.8814,-39.0394,0.0,Ativo
+974,Canudos,BA,Açude Cocorobó Jusante 1,50142100,-9.8833,-39.0378,0.0,Ativo
+975,Canudos,BA,Açude Cocorobó Jusante 2,50142200,-9.8831,-39.0378,0.0,Ativo
+976,Jeremoabo,BA,Cabeça De Boi,50142300,-9.8817,-38.8667,0.0,Ativo
+977,Sitio Do Quinto,BA,Açude Gasparino Montante 2,50142800,-10.2236,-38.1044,0.0,Ativo
+978,Coronel João Sá,BA,Açude Gasparino Montante 1,50142900,-10.2178,-38.0628,0.0,Ativo
+979,Coronel João Sá,BA,Açude Gasparino,50143000,-10.2769,-38.0544,0.0,Ativo
+980,Coronel João Sá,BA,Açude Gasparino Jusante,50143100,-10.2853,-38.0536,0.0,Ativo
+981,Adustina,BA,Açude De Adustina Montante,50151400,-10.5858,-38.1033,0.0,Ativo
+982,Adustina,BA,Açude De Adustina,50151500,-10.5706,-38.0706,0.0,Ativo
+983,Adustina,BA,Açude De Adustina Jusante,50151600,-10.5675,-38.0669,0.0,Ativo
+984,Campo Do Brito,SE,Açude Governador João Alves Filho,50181000,-10.7986,-37.4522,0.0,Ativo
+985,São Cristovão,SE,Açude Sind. Jaime Umbelino De Souza,50187200,-10.9172,-37.2053,0.0,Ativo
+986,Lagarto,SE,Açude Governador Dionisio Machado,50210000,-10.9589,-37.6678,0.0,Ativo
+987,Tobias Barreto,SE,Açude Jabiberi,50240000,-11.0553,-37.9108,0.0,Ativo
+988,Filadélfia,BA,Fazenda Alecrim,50300000,-10.7522,-40.2244,0.0,Ativo
+989,Senhor Do Bonfim,BA,Açude Sohem,50310000,-10.3686,-40.0975,0.0,Ativo
+990,Pindobaçu,BA,Fazenda Grutinha,50315000,-10.7589,-40.4367,0.0,Ativo
+991,Pindobaçu,BA,Açude Pindobaçu Montante,50360700,-10.7614,-40.4369,0.0,Ativo
+992,Pindobaçu,BA,Açude Pindobaçu Jusante,50360900,-10.8025,-40.3803,0.0,Ativo
+993,Antônio Gonçalves,BA,Açude Aipim Montante,50370000,-10.5933,-40.3997,0.0,Ativo
+994,Antônio Gonçalves,BA,Açude Aipim,50371000,-10.5969,-40.3428,0.0,Ativo
+995,Antônio Gonçalves,BA,Açude Aipim Jusante,50371100,-10.6003,-40.3403,0.0,Ativo
+996,Andorinha,BA,Açude Quicé Montante,50375000,-10.4544,-40.0203,0.0,Ativo
+997,Andorinha,BA,Açude Quicé,50376000,-10.4883,-40.01,0.0,Ativo
+998,Saúde,BA,Fazenda Porteira,50380400,-10.8489,-40.2681,0.0,Ativo
+999,Jacobina,BA,Açude Cachoeira Grande Montante,50418400,-11.3864,-40.4803,0.0,Ativo
+1000,Jacobina,BA,Açude Cachoeira Grande Jusante,50418600,-11.3511,-40.4275,0.0,Ativo
+1001,Jacobina,BA,Jacobina,50420001,-11.2114,-40.4703,0.0,Manutenção
+1002,Filadélfia,BA,Açude Ponto Novo Montante Mont.2,50424800,-10.7522,-40.2244,0.0,Ativo
+1003,Pindobaçu,BA,Açude Ponto Novo Montante Mont. 1,50424900,-10.8489,-40.2681,0.0,Ativo
+1004,Ponto Novo,BA,Açude Ponto Novo,50425000,-10.8539,-40.1742,0.0,Ativo
+1005,Ponto Novo,BA,Açude Ponto Novo,50425000,-10.8539,-40.1742,0.0,Ativo
+1006,Filadélfia,BA,Açude Ponto Novo Jusante,50425100,-10.8544,-40.1706,0.0,Ativo
+1007,Jacobina,BA,Açude Pedras Altas Montante,50428900,-11.1869,-40.1936,0.0,Ativo
+1008,Jacobina,BA,Açude Rio Do Peixe Montante I,50454800,-11.2225,-40.0283,0.0,Ativo
+1009,Capim Grosso,BA,Açude Rio Do Peixe Montante II,50454900,-11.2642,-39.9661,0.0,Ativo
+1010,Capim Grosso,BA,Açude Rio Do Peixe,50455000,-11.2303,-39.9656,347.0,Ativo
+1011,Queimadas,BA,Queimadas,50465000,-10.9733,-39.6328,265.0,Ativo
+1012,Queimadas,BA,Queimadas,50465002,-10.9733,-39.6328,0.0,Manutenção
+1013,Andorinha,BA,Açude Andorinha II Montante,50467900,-10.2556,-39.8211,0.0,Ativo
+1014,Andorinha,BA,Açude Andorinha II,50468000,-10.3003,-39.7847,0.0,Ativo
+1015,Itiúba,BA,Açude Jacurici,50475500,-10.6528,-39.7217,0.0,Ativo
+1016,Itiúba,BA,Açude Jacurici Jusante,50475600,-10.6544,-39.7264,0.0,Ativo
+1017,Araci,BA,Açude Araci Montante (Olaria Do Capistana),50496600,-11.2714,-39.1647,0.0,Ativo
+1018,Araci,BA,Açude Araci,50497000,-11.2525,-39.0983,0.0,Ativo
+1019,Tucano,BA,Ponte Euclides Da Cunha,50520000,-11.0603,-38.8372,140.0,Ativo
+1020,Cipó,BA,Cipó,50540000,-11.0975,-38.5125,131.0,Ativo
+1021,Cipó,BA,Cipó,50540001,-11.0975,-38.5125,0.0,Manutenção
+1022,Conde,BA,Usina Altamira,50595000,-11.7347,-37.8033,17.0,Ativo
+1023,Conde,BA,Usina Altamira,50595001,-11.7347,-37.8033,0.0,Manutenção
+1024,Esplanada,BA,Corte Grande,50660000,-12.0536,-37.755,6.0,Ativo
+1025,Mata De São João,BA,Pedra Do Salgado,50785000,-12.3761,-38.1331,34.0,Ativo
+1026,Camaçari,BA,Tiririca,50795000,-12.5119,-38.0667,22.0,Ativo
+1027,Mata De São João,BA,Açude Santa Helena Montante,50842900,-12.5256,-38.2928,0.0,Ativo
+1028,Dias D''Avila,BA,Açude Santa Helena,50843000,-12.5617,-38.1617,0.0,Ativo
+1029,Mata De São João,BA,Açude Santa Helena Jusante,50843100,-12.5628,-38.1606,0.0,Ativo
+1030,São Sebastião Do Passé,BA,Açude Joanes II Montante Mont.3,50903260,-12.6058,-38.4289,0.0,Ativo
+1031,Candéias,BA,Açude Joanes II Montante Mont.2,50903280,-12.6086,-38.4386,0.0,Ativo
+1032,Dias D''Avila,BA,Açude Joanes II,50905300,-12.6739,-38.3758,0.0,Ativo
+1033,Lauro De Freitas,BA,Açude Joanes I,50909000,-12.8358,-38.3242,0.0,Ativo
+1034,Simões Filho,BA,Açude Ipitanga II Montante Mont.2,50912030,-12.8122,-38.3861,0.0,Ativo
+1035,Simões Filho,BA,Açude Ipitanga II,50912100,-12.8592,-38.3972,0.0,Ativo
+1036,Salvador,BA,Açude Ipitanga I,50912200,-12.8978,-38.3833,0.0,Ativo
+1037,Salvador,BA,Açude Ipitanga I Jusante,50912250,-12.8978,-38.3828,0.0,Ativo
+1038,Ibicoara,BA,Açude Apertado Montante,51105400,-13.4361,-41.3361,0.0,Ativo
+1039,Mucugê,BA,Açude Apertado,51105500,-13.0758,-41.4397,0.0,Ativo
+1040,Mucugê,BA,Açude Apertado Jusante,51105600,-13.0194,-41.4322,0.0,Ativo
+1041,Ibicoara,BA,Ibicoara,51107000,-13.27,-41.3361,0.0,Ativo
+1042,Mucugê,BA,Usina Mucugê,51108000,-12.9986,-41.3906,870.0,Ativo
+1043,Andaraí,BA,Andaraí,51120000,-12.8406,-41.3222,328.0,Ativo
+1044,Itaeté,BA,Açude Bandeira De Melo,51124500,-13.0317,-40.8169,0.0,Ativo
+1045,Itaeté,BA,Açude Bandeira De Melo Jusante,51124600,-13.0403,-40.7772,0.0,Ativo
+1046,Itaeté,BA,Açude Bandeira De Melo Jusante,51124600,-13.0403,-40.7772,0.0,Ativo
+1047,Utinga,BA,Fazenda Terra Grapiuna,51151000,-12.1797,-41.1492,0.0,Ativo
+1048,Andaraí,BA,Br-242 (Utinga),51172000,-12.5047,-41.2072,0.0,Ativo
+1049,Lençóis,BA,Santo Antônio/Porto,51193000,-12.4892,-41.3289,0.0,Ativo
+1050,Itaeté,BA,Fazenda Iguaçu,51230000,-12.9361,-41.0644,300.0,Ativo
+1051,Itaeté,BA,Fazenda Iguaçu,51230001,-12.9361,-41.0644,0.0,Manutenção
+1052,Iaçu,BA,Iaçu,51280000,-12.7622,-40.2136,222.0,Ativo
+1053,Itaberaba,BA,Açude Juracy Magalhães Montante,51282000,-12.5331,-40.3475,0.0,Ativo
+1054,Itaberaba,BA,Açude Juracy Magalhães,51283000,-12.5356,-40.3164,0.0,Ativo
+1055,Itaberaba,BA,Açude Juracy Magalhães Jusante,51285000,-12.5633,-40.2231,0.0,Ativo
+1056,Morro Do Chapéu,BA,Morro Do Chapéu,51397000,-11.5853,-40.8794,0.0,Ativo
+1057,Mairi (Ex-Monte Alegre Da Ba),BA,Açude São José Do Jacuípe Montante,51417900,-11.6083,-40.2978,0.0,Ativo
+1058,São José Do Jacuipe,BA,Açude São José Do Jacuípe,51418000,-11.5208,-40.0447,0.0,Ativo
+1059,São José Do Jacuipe,BA,Açude São José Do Jacuípe Jusante,51418100,-11.5089,-40.0242,0.0,Ativo
+1060,Valente,BA,Açude Valente,51432200,-11.4194,-39.4725,0.0,Ativo
+1061,São Domingos,BA,Açude São Domingos,51435000,-11.4667,-39.5219,0.0,Ativo
+1062,Morro Do Chapéu,BA,Açude França  Montante Faz. Caraibas,51460130,-11.5681,-40.7172,0.0,Ativo
+1063,Feira De Santana,BA,Feira De Santana,51460150,-12.2856,-39.0011,0.0,Ativo
+1064,Miguel Calmon,BA,Açude França - Captação Embasa,51460200,-11.5608,-40.6039,0.0,Ativo
+1065,Piritiba,BA,Açude França Jusante,51460550,-11.5581,-40.5872,0.0,Ativo
+1066,Nazaré,BA,Nazaré,51560000,-13.0308,-39.0322,29.0,Ativo
+1067,Santo Antônio De Jesus,BA,Açude Rio Da Dona,51750500,-13.0594,-39.2819,0.0,Ativo
+1068,Santo Antônio De Jesus,BA,Açude Rio Da Dona Jusante,51750600,-13.0589,-39.2628,0.0,Ativo
+1069,Jaguaripe,BA,Açude Tapera,51750800,-12.9872,-38.8231,0.0,Ativo
+1070,Valença,BA,PCH Candengo Rio Piau,51790000,-13.3419,-39.2169,133.0,Ativo
+1071,Valença,BA,PCH Candengo Montante,51793900,-13.3433,-39.1289,94.0,Ativo
+1072,Valença,BA,PCH Candengo Barramento,51794000,-13.3461,-39.1031,60.5,Ativo
+1073,Valença,BA,PCH Candengo Jusante,51794100,-13.3511,-39.0886,12.63,Ativo
+1074,Nilo Peçanha,BA,Nilo Peçanha,51890000,-13.5967,-39.1203,6.0,Ativo
+1075,Brumado,BA,Açude Cristalândia,52059000,-13.9617,-41.4731,0.0,Ativo
+1076,Ituaçu,BA,Açude Cristalândia Montante,52060000,-13.9069,-41.5003,396.0,Ativo
+1077,Ituaçu,BA,Açude Cristalândia Jusante,52060100,-13.9603,-41.4703,0.0,Ativo
+1078,Contendas Do Sincora,BA,UHE Pedra Montante 2,52080120,-14.0306,-40.9817,0.0,Ativo
+1079,Rio De Contas,BA,Açude Luiz Vieira Montante,52120900,-13.4947,-41.8772,0.0,Ativo
+1080,Rio De Contas,BA,Açude Luiz Vieira (Brumado),52130000,-13.5692,-41.8206,0.0,Ativo
+1081,Rio De Contas,BA,Açude Luiz Vieira (Brumado),52130000,-13.56805,-41.82333,0.0,Ativo
+1082,Rio De Contas,BA,Açude Luiz Vieira Jusante,52130100,-13.5736,-41.8233,0.0,Ativo
+1083,Livramento De Nossa Senhora,BA,Açude Riacho Do Paulo Montante,52138000,-13.7617,-41.9017,468.0,Ativo
+1084,Livramento De Nossa Senhora,BA,Açude Riacho Do Paulo,52140000,-13.7586,-41.805,0.0,Ativo
+1085,Livramento De Nossa Senhora,BA,Açude Riacho Do Paulo Jusante,52150000,-13.7603,-41.7992,0.0,Ativo
+1086,Caculé,BA,Açude Truvisco - Jusante 1,52230020,-14.5447,-42.3192,0.0,Ativo
+1087,Aracatú,BA,Açude Aracatu Montante,52249800,-14.4725,-41.5122,0.0,Ativo
+1088,Aracatú,BA,Açude  Aracatu,52255000,-14.4494,-41.53,0.0,Ativo
+1089,Aracatú,BA,Açude Aracatú Jusante,52255100,-14.4417,-41.5411,0.0,Ativo
+1090,Ibiassucê,BA,Açude Jacaré-Ibiassucê Montante,52270150,-14.3175,-42.3603,0.0,Ativo
+1091,Ibiassucê,BA,Açude Jacaré-Ibiassucê,52270200,-14.3033,-42.3292,0.0,Ativo
+1092,Tremedal,BA,Açude Tremendal Montante,52290000,-15.0219,-41.4169,0.0,Ativo
+1093,Tremedal,BA,Açude Tremedal,52300000,-14.9794,-41.4053,0.0,Ativo
+1094,Tremedal,BA,Açude Tremendal,52300000,-14.98027,-41.40388,0.0,Ativo
+1095,Tremedal,BA,Açude Tremendal Jusante,52300100,-14.9686,-41.4053,0.0,Ativo
+1096,Anagé,BA,Açude Anagé,52360000,-14.6281,-41.1928,0.0,Ativo
+1097,Condeúba,BA,Açude Champrão Montante,52364900,-14.9575,-42.0144,0.0,Ativo
+1098,Condeúba,BA,Açude Champrão,52365000,-14.91,-41.9628,0.0,Ativo
+1099,Condeúba,BA,Açude Champrão Jusante,52365100,-14.9044,-41.9603,0.0,Ativo
+1100,Anagé,BA,UHE Pedra Rio Gavião,52370010,-14.6097,-41.1375,0.0,Ativo
+1101,Poções,BA,Açude Morrinhos Montante,52370900,-14.6186,-40.2936,0.0,Ativo
+1102,Poções,BA,Açude Morrinhos,52380000,-14.5714,-40.3017,0.0,Ativo
+1103,Poções,BA,Açude Morrinhos Jusante,52380100,-14.5694,-40.3014,0.0,Ativo
+1104,Tanhaçu,BA,Exu Do Gavião,52391000,-14.1828,-41.0153,0.0,Ativo
+1105,Mirante,BA,Areião,52404000,-14.0314,-40.9825,272.0,Ativo
+1106,Manoel Vitorino,BA,UHE Pedra Montante 1,52405100,-13.8781,-40.8969,251.0,Ativo
+1107,Jequié,BA,UHE Pedra Reservatório,52410100,-13.8481,-40.3439,332.0,Ativo
+1108,Jequié,BA,UHE Pedra Jusante,52570100,-13.8647,-40.0808,0.0,Ativo
+1109,Itagiba,BA,UHE Funil Montante 2,52680010,-14.1444,-39.7317,135.0,Ativo
+1110,Ubaitaba,BA,UHE Funil Reservatório 2,52697060,-14.2308,-39.4697,100.0,Ativo
+1111,Ubaitaba,BA,UHE Funil Reservatório 1,52697070,-14.2289,-39.4642,100.0,Ativo
+1112,Gongogi,BA,UHE Funil Rio Gongogi,52790020,-14.3258,-39.4636,0.0,Ativo
+1113,Ubatã,BA,UHE Funil Montante 1,52811100,-14.2086,-39.5461,0.0,Ativo
+1114,Itaju Do Colônia,BA,Itajú Do Colônia,53130000,-15.1444,-39.7225,165.0,Ativo
+1115,Itapé,BA,Estiva De Baixo,53140000,-14.9339,-39.4675,101.0,Ativo
+1116,Itabuna,BA,Ferradas,53170000,-14.8439,-39.3311,52.0,Manutenção
+1117,Una,BA,Fazenda Valmonte,53320200,-15.2831,-39.1125,0.0,Ativo
+1118,Indaiabira,MG,PCH Machado Mineiro Rio São João Do Paraíso,53500001,-15.5581,-41.9778,0.0,Ativo
+1119,Águas Vermelhas,MG,PCH Machado Mineiro Reservatório,53510000,-15.5064,-41.7047,0.0,Ativo
+1120,São João Do Paraíso,MG,PCH Machado Mineiro Jusante,53510100,-15.4928,-41.4519,0.0,Ativo
+1121,Águas Vermelhas,MG,Açude Samambaia,53541000,-15.7714,-41.4878,0.0,Ativo
+1122,Vitória Da Conquista,BA,Inhobim,53630000,-15.3397,-40.9328,482.0,Ativo
+1123,Vitória Da Conquista,BA,Inhobim,53630000,-15.3397,-40.9328,482.0,Ativo
+1124,Itambé,BA,Itambé,53650000,-15.2483,-40.6311,342.0,Ativo
+1125,Maiquinique,BA,Maiquinique,53700000,-15.6144,-40.2592,0.0,Ativo
+1126,Barra Do Choca,BA,Açude Água Fria I Montante,53700500,-14.9475,-40.6208,0.0,Ativo
+1127,Barra Do Choca,BA,Açude Água Fria I,53701500,-14.9247,-40.5928,0.0,Ativo
+1128,Barra Do Choca,BA,Açude Catolé Montante,53702000,-14.8747,-40.5339,0.0,Ativo
+1129,Barra Do Choca,BA,Açude Água Fria II Montante,53710900,-14.9361,-40.5653,0.0,Ativo
+1130,Barra Do Choca,BA,Açude Serra Preta Montante,53712000,-14.8075,-40.5033,0.0,Ativo
+1131,Barra Do Choca,BA,Açude De Serra Preta,53713000,-14.8436,-40.4753,0.0,Ativo
+1132,Barra Do Choca,BA,Açude Serra Preta Jusante,53713500,-14.845,-40.4747,0.0,Ativo
+1133,Barra Do Choca,BA,Açude Água Fria II Jusante,53720100,-14.9108,-40.5719,0.0,Ativo
+1134,Itapetinga,BA,Itapetinga,53780000,-15.2414,-40.2333,240.0,Ativo
+1135,Itapetinga,BA,Itapetinga,53780000,-15.2414,-40.2333,240.0,Ativo
+1136,Mascote,BA,Mascote,53950000,-15.5686,-39.3044,4.0,Ativo
+1137,Mascote,BA,Mascote,53950000,-15.5686,-39.3044,4.0,Ativo
+1138,Grão Mogol,MG,PCH Santa Marta Jusante,54095100,-16.6308,-43.3011,793.0,Ativo
+1139,Salinas,MG,Açude Bananal,54166900,-16.0878,-42.0572,600.0,Ativo
+1140,Salinas,MG,Açude Bananal,54166900,-16.0878,-42.0572,600.0,Ativo
+1141,Salinas,MG,Açude Rio Salinas,54185000,-16.1144,-42.2822,0.0,Ativo
+1142,Pedra Azul,MG,Açude Soberbo,54860000,-15.8539,-41.2808,0.0,Ativo
+1143,Carlos Chagas,MG,Francisco Sá,55610000,-17.7386,-41.1222,245.0,Ativo
+1144,Umburatiba,MG,São Pedro Do Pampã,55660000,-17.3203,-40.6764,192.0,Ativo
+1145,Mucuri,BA,IND Suzano Mucuri QA,55741050,-18.0983,-39.8933,0.0,Ativo
+1146,Mucuri,BA,IND Suzano Mucuri Montante,55741100,-18.0194,-39.9697,30.0,Ativo
+1147,São Mateus,ES,Cotaxé,55810000,-18.6275,-40.1117,0.0,Ativo
+1148,São Mateus,ES,Cricaré,55885100,-18.6508,-40.1217,0.0,Ativo
+1149,Viçosa,MG,Viçosa Hidro,56083000,-20.7772,-42.8806,674.0,Ativo
+1150,Mariana,MG,Mariana,56156700,-20.2667,-43.2017,0.0,Ativo
+1151,Ouro Preto,MG,CGH Cachoeira Dos Prazeres Barramento,56209080,-20.4678,-43.4703,0.0,Ativo
+1152,Mariana,MG,CGH Cachoeira Dos Prazeres Rio Gualaxo Do Sul,56220900,-20.4636,-43.4039,0.0,Ativo
+1153,Barra Longa,MG,Acaiaca - Carmo 01,56335050,-20.3469,-43.1125,0.0,Ativo
+1154,Tumiritinga,MG,Doce 09 - Tumititinga,56335320,-18.9714,-41.6414,0.0,Ativo
+1155,Barra Longa,MG,Carmo 02 - Barra Longa,56335501,-20.2828,-43.0322,0.0,Ativo
+1156,Mariana,MG,Gualaxo Norte 01 - Mariana,56336100,-20.2764,-43.4317,0.0,Ativo
+1157,Mariana,MG,Gualaxo Norte 06 - Mariana,56336230,-20.3036,-43.2494,0.0,Ativo
+1158,Barra Longa,MG,Gualaxo Norte 08 - Barra Longa,56336240,-20.2858,-43.0658,0.0,Ativo
+1159,Rio Doce,MG,Doce 01 - Rio Doce,56337990,-20.2558,-42.9103,0.0,Ativo
+1160,Rio Doce,MG,Doce 02- Rio Doce,56338100,-20.2086,-42.8508,0.0,Ativo
+1161,São Domingos Do Prata,MG,Doce 03 - São D. Prata,56338200,-20.0142,-42.7444,0.0,Ativo
+1162,Bom Jesus Do Galho,MG,Doce 04 - Bom J. Galho,56338250,-19.5542,-42.5214,0.0,Ativo
+1163,Belo Oriente,MG,Doce 05 - Belo Oriente,56338260,-19.3206,-42.3644,0.0,Ativo
+1164,Governador Valadares,MG,Doce 07 - Periquito,56338300,-18.9706,-42.0881,0.0,Ativo
+1165,Baixo Guandu,ES,Doce 11 - Baixo Gandú,56338360,-19.5058,-41.0139,0.0,Ativo
+1166,Colatina,ES,Doce 12 - Colatina,56338370,-19.4992,-40.7586,0.0,Ativo
+1167,Linhares,ES,Doce 15 - Linhares,56338400,-19.4078,-40.0644,0.0,Manutenção
+1168,Linhares,ES,Doce 16 - Linhares,56338420,-19.6461,-39.8231,0.0,Ativo
+1169,Aimorés,MG,Manhuaçu 01 - Aimorés,56401100,-19.4836,-41.0939,0.0,Ativo
+1170,Urucânia,MG,CGH Nova Ponte Queimada II Montante 2,56415003,-20.4925,-42.6678,439.0,Ativo
+1171,Urucânia,MG,CGH Nova Ponte Queimada II Montante 1,56415004,-20.3233,-42.6717,0.0,Ativo
+1172,Rio Casca,MG,CGH Nova Ponte Queimada II Jusante,56415006,-20.2742,-42.6519,344.0,Ativo
+1173,São José Do Goiabal,MG,Fazenda Cachoeira D'antas,56425000,-19.9944,-42.6744,0.0,Ativo
+1174,Raul Soares,MG,Matipó 01 - Raul Soares,56510100,-20.0997,-42.4489,0.0,Ativo
+1175,Bom Jesus Do Galho,MG,CGH Bom Jesus Do Galho Montante,56565060,-19.8292,-42.3183,0.0,Ativo
+1176,Rio Piracicaba,MG,Rio Piracicaba,56610000,-19.9317,-43.1731,0.0,Ativo
+1177,Santa Bárbara,MG,UHE Peti Reservatório 2,56641100,-19.9389,-43.4169,730.0,Ativo
+1178,São Gonçalo Do Rio Abaixo,MG,UHE Peti Jusante,56650600,-19.8278,-43.3589,0.0,Ativo
+1179,Santa Bárbara,MG,UHE Peti Reservatório 1,56653000,-19.8967,-43.3631,725.0,Ativo
+1180,Itabira,MG,PCH Dona Rita Barramento,56777500,-19.4233,-43.2008,0.0,Ativo
+1181,Ferros,MG,PCH Dona Rita Jusante,56787100,-19.3317,-43.0703,0.0,Ativo
+1182,Dores De Guanhães,MG,UHE Salto Grande Montante,56803000,-19.0567,-42.9253,0.0,Ativo
+1183,Joanésia,MG,UHE Porto Estrela Reservatório 2,56820050,-19.1133,-42.7178,269.0,Ativo
+1184,Governador Valadares,MG,PCH Tronqueiras Suaçuí Pequeno,56846860,-18.7611,-42.1739,0.0,Ativo
+1185,São Pedro Do Suaçuí,MG,São Pedro Do Suaçuí,56860000,-18.3631,-42.6022,420.0,Ativo
+1186,Governador Valadares,MG,Suaçuí 01 - G. Valadares,56896005,-18.8539,-41.7864,0.0,Ativo
+1187,Conselheiro Pena,MG,Caratinga 01 - C. Pena,56933010,-19.0633,-41.5308,0.0,Ativo
+1188,São João Do Manhuaçu,MG,UHE Ponte Do Silva - Ups,56950080,-20.35222,-42.065,811.0,Ativo
+1189,Manhuaçu,MG,PCH Sinceridade Montante,56960003,-20.2358,-42.0108,0.0,Ativo
+1190,Santana Do Manhuaçu,MG,PCH Neblina Montante 2,56960150,-19.9667,-41.8514,0.0,Ativo
+1191,Ipanema,MG,PCH Neblina Barramento,56972000,-19.8322,-41.8003,0.0,Ativo
+1192,Laranja Da Terra,ES,PCH São Luiz Jusante,56991300,-19.9694,-41.0678,230.0,Ativo
+1193,Barra De São Francisco,ES,PCH São Luiz Montante 1,56991350,-19.9689,-41.0964,570.0,Ativo
+1194,Barra De São Francisco,ES,PCH São Luiz Montante 2,56991380,-19.9719,-41.1106,275.0,Ativo
+1195,Santa Teresa,ES,Chg Tabocas,56993700,-19.8667,-40.6856,0.0,Ativo
+1196,Colatina,ES,CGH Santa Maria,56994100,-19.6169,-40.6131,0.0,Ativo
+1197,Colatina,ES,CGH Cachoeira Do Oito,56995600,-19.4697,-40.6131,0.0,Ativo
+1198,São Gabriel Da Palha,ES,CGH Cachoeira Da Onça,56997300,-19.05,-40.5325,0.0,Ativo
+1199,Alegre,ES,Ibitirama,57420000,-20.5406,-41.6656,710.0,Ativo
+1200,Varre-Sai,RJ,Santa Rita Do Prata,57750000,-20.8592,-41.7425,578.0,Ativo
+1201,Bom Jesus De Itabapoana,RJ,PCH Calheiros Barramento,57768000,-20.9847,-41.7119,359.0,Ativo
+1202,São Luís Do Paraitinga,SP,São Luís Do Paraitinga,58040000,-23.2386,-45.3067,730.0,Ativo
+1203,São Luís Do Paraitinga,SP,Ponte Alta 1,58060000,-23.33,-45.1436,888.0,Ativo
+1204,Santa Branca,SP,Santa Branca,58099000,-23.3689,-45.9003,525.0,Ativo
+1205,Guararema,SP,UHE Santa Branca Guararema,58105300,-23.4153,-46.0244,566.0,Ativo
+1206,Jacareí,SP,UHE Santa Branca Jacareí,58110000,-23.3106,-45.9711,560.0,Ativo
+1207,Santa Isabel,SP,SB-CA-EAB-PS Elevatória Paraíba Do Sul,58115900,-23.2392,-46.1747,625.0,Ativo
+1208,Guaratinguetá,SP,Guaratinguetá,58204000,-22.8119,-45.1825,520.0,Ativo
+1209,Guaratinguetá,SP,PCH Lavrinhas Rio Piagui,58212150,-22.7469,-45.1883,537.0,Ativo
+1210,Lorena,SP,PCH Lavrinhas Montante 2,58214250,-22.7072,-45.1278,532.0,Ativo
+1211,Cachoeira Paulista,SP,UHE Funil Montante 2,58218000,-22.6617,-45.0125,512.0,Ativo
+1212,Cruzeiro,SP,PCH Lavrinhas Montante 1,58230150,-22.5833,-44.9556,516.0,Ativo
+1213,Lavrinhas,SP,PCH Lavrinhas Barramento,58234880,-22.5681,-44.8636,492.0,Ativo
+1214,Barra Mansa,RJ,UHE Funil Jusante 2,58300000,-22.5375,-44.1758,374.0,Ativo
+1215,Rio Claro,RJ,UHE Nilo Peçanha Rio Do Braço,58338500,-22.7847,-44.1878,517.0,Ativo
+1216,Miguel Pereira,RJ,Javary,58375000,-22.4683,-43.49,0.0,Ativo
+1217,Miguel Pereira,RJ,Miguel Pereira,58378000,-22.4444,-43.4467,599.0,Ativo
+1218,Três Rios,RJ,UHE Simplício Montante,58385100,-22.1164,-43.2003,0.0,Ativo
+1219,Petrópolis,RJ,Petrópolis,58400020,-22.5192,-43.1872,824.2,Ativo
+1220,Teresópolis,RJ,Teresópolis - Paquequer,58410000,-22.4306,-42.9764,885.0,Ativo
+1221,São José Do Vale Do Rio Preto,RJ,PCH Poço Fundo Barramento,58421000,-22.1892,-42.8914,0.0,Ativo
+1222,São José Do Vale Do Rio Preto,RJ,PCH Poço Fundo Jusante,58421100,-22.1639,-42.8917,0.0,Ativo
+1223,Areal,RJ,PCH Secretário Montante,58433900,-22.2997,-43.1789,509.0,Ativo
+1224,Areal,RJ,PCH Secretário Barramento,58433950,-22.2994,-43.1775,541.0,Ativo
+1225,Três Rios,RJ,UHE Simplício Moura Brasil,58440000,-22.1403,-43.1542,278.0,Ativo
+1226,Juiz De Fora,MG,PCH Marmelos Montante 2,58470800,-21.7189,-43.3947,680.0,Ativo
+1227,Juiz De Fora,MG,PCH Joasal Barramento,58489000,-21.7964,-43.2972,0.0,Ativo
+1228,Juiz De Fora,MG,PCH Joasal Jusante,58489010,-21.8056,-43.3114,529.0,Ativo
+1229,Matias Barbosa,MG,PCH Paciência Jusante,58490100,-21.8578,-43.3339,0.0,Ativo
+1230,Rio Preto,MG,Rio Preto,58550001,-22.0861,-43.82,426.0,Ativo
+1231,Santa Bárbara Do Monte Verde,MG,CGH Serra Negra Montante,58550200,-22.0217,-43.7497,567.0,Ativo
+1232,Rio Das Flores,RJ,Rio Das Flores,58583000,-22.1683,-43.5869,503.6,Ativo
+1233,Santana Do Deserto,MG,CGH Santana Do Deserto I Montante,58594090,-21.9633,-43.1558,364.0,Ativo
+1234,Chiador,MG,UHE Simplício Rio Paraibuna,58612000,-22.0914,-43.1453,268.0,Ativo
+1235,Sapucaia,RJ,UHE Simplício Reservatório Anta,58630010,-22.0325,-43.0025,0.0,Ativo
+1236,Sapucaia,RJ,UHE Simplício Anta Jusante,58630030,-22.0344,-42.9903,0.0,Ativo
+1237,Além Paraíba,MG,UHE Simplício Barramento,58632000,-21.9203,-42.7933,0.0,Ativo
+1238,Carmo,RJ,UHE Ilha Dos Pombos Jusante,58653500,-21.8353,-42.5817,110.0,Ativo
+1239,Guarani,MG,Guarani,58730001,-21.3556,-43.0503,398.0,Ativo
+1240,Astolfo Dutra,MG,Astolfo Dutra,58735000,-21.3094,-42.8619,165.0,Ativo
+1241,Astolfo Dutra,MG,Barra Do Xopotó,58736000,-21.2983,-42.8194,230.0,Ativo
+1242,Ervália,MG,PCH Ervália Montante,58737050,-20.9011,-42.6547,761.0,Ativo
+1243,Piau,MG,PCH Piau Jusante,58746000,-21.5067,-43.3669,0.0,Ativo
+1244,Itamarati De Minas,MG,Usina Maurício - Jusante,58765010,-21.4503,-42.7992,0.0,Ativo
+1245,Santo Antônio De Pádua,RJ,Santo Antônio De Pádua II,58790002,-21.5422,-42.1806,0.0,Ativo
+1246,Nova Friburgo,RJ,Ypu,58826035,-22.29556,-42.52667,0.0,Ativo
+1247,Nova Friburgo,RJ,Olaria,58826060,-22.30861,-42.54222,7.09,Ativo
+1248,Nova Friburgo,RJ,Nova Friburgo,58826065,-22.27861,-42.53361,830.0,Ativo
+1249,Nova Friburgo,RJ,Sítio Santa Paula,58826075,-22.2681,-42.5725,0.0,Manutenção
+1250,São Fidélis,RJ,Pimentel,58850000,-21.77,-41.9383,80.0,Ativo
+1251,Eugenópolis,MG,CGH Antônio Prado Jusante,58921100,-21.0314,-42.1964,260.0,Ativo
+1252,Campo Dos Goytacazes,RJ,Campelo,58986350,-21.6792,-41.2042,0.0,Ativo
+1253,Campo Dos Goytacazes,RJ,Yacht Club Lagoa De Cima,59001550,-21.7775,-41.5206,0.0,Ativo
+1254,Campo Dos Goytacazes,RJ,Lagoa Feia - Fazenda Modelo Carães,59017980,-21.9722,-41.2747,0.0,Ativo
+1255,Macaé,RJ,PCH Glicério Barramento,59139700,-22.2389,-42.0758,251.0,Ativo
+1256,Macaé,RJ,PCH Glicério Jusante,59139800,-22.2381,-42.0631,120.0,Ativo
+1257,Silva Jardim,RJ,Portal Silva Jardim (Pc-02),59192502,-22.6422,-42.4011,0.0,Ativo
+1258,Maricá,RJ,Barra De Maricá,59222000,-22.955,-42.8089,1.0,Ativo
+1259,Maricá,RJ,Mumbuca,59222100,-22.9067,-42.8144,0.0,Ativo
+1260,São Gonçalo,RJ,Colubandê-Alcântara,59228050,-22.8492,-43.0089,0.0,Ativo
+1261,Cachoeiras De Macacu,RJ,Cachoeiras De Macacu,59235002,-22.4786,-42.6575,33.0,Ativo
+1262,Tanguá,RJ,Ponte De Tanguá,59240900,-22.7275,-42.7264,28.48,Ativo
+1263,Duas Barras,RJ,Duas Barras,59242000,-22.4383,-42.7611,35.0,Ativo
+1264,Magé,RJ,Iconha (Orindi),59245200,-22.5478,-42.8981,12.0,Ativo
+1265,São Pedro Da Aldeia,RJ,Ponte RJ-10,59250100,-22.8672,-42.0469,5.17,Ativo
+1266,Duque De Caxias,RJ,Santa Cruz Da Serra,59270000,-22.6369,-43.2883,7.0,Ativo
+1267,Belford Roxo,RJ,Ciep 100,59284200,-22.77944,-43.39944,18.63,Ativo
+1268,Rio De Janeiro,RJ,Av. Automóvel Clube,59305028,-22.8219,-43.3511,6.0,Ativo
+1269,Rio De Janeiro,RJ,Estrada Velha Da Pavuna,59305035,-22.8731,-43.2681,6.37,Ativo
+1270,Piraí,RJ,UHE Pereira Passos Jusante,59310000,-22.6861,-43.8222,47.0,Ativo
+1271,Angra Dos Reis,RJ,Vila Perequê,59373000,-23.0025,-44.54333,7.09,Ativo
+1272,Patos De Minas,MG,Santana De Patos,60010000,-18.8411,-46.5508,851.0,Ativo
+1273,Cristalina,GO,Samambaia Trecho Final,60018100,-16.5006,-47.4786,0.0,Ativo
+1274,Cristalina,GO,Fazenda Ipê,60018200,-16.2086,-47.5681,0.0,Ativo
+1275,Cristalina,GO,UHE Batalha Montante 2,60018500,-16.5114,-47.4528,830.0,Ativo
+1276,Cristalina,GO,Sítio Nossa Senhora Da Conceição,60018740,-16.6344,-47.4261,0.0,Ativo
+1277,Paracatu,MG,UHE Batalha Montante 1,60018800,-16.7578,-47.2342,800.0,Ativo
+1278,Cristalina,GO,Fazenda Flamboiandia,60018820,-16.8367,-47.2042,0.0,Ativo
+1279,Unaí,MG,Fazenda São Carlos,60018900,-16.6075,-47.3258,0.0,Ativo
+1280,Unaí,MG,Agropecuária Vale Verde,60018920,-16.6853,-47.1992,0.0,Ativo
+1281,Cristalina,GO,UHE Batalha Reservatório 2,60020200,-17.3444,-47.4414,0.0,Ativo
+1282,Cristalina,GO,UHE Batalha Reservatório 1,60020300,-17.3444,-47.4858,0.0,Ativo
+1283,Cristalina,GO,UHE Batalha Barramento,60020400,-17.3461,-47.4914,0.0,Ativo
+1284,Ipameri,GO,Lago Azul,60023100,-17.3022,-47.5686,0.0,Ativo
+1285,Cristalina,GO,Castelhano Montante PCH Lago Azul,60026100,-17.1822,-47.5908,0.0,Ativo
+1286,Campo Alegre De Goiás,GO,UHE Serra Do Facão Ponte Alta,60029900,-17.4778,-47.6244,744.81,Ativo
+1287,Catalão,GO,CGH São Bento Montante,60045000,-17.7731,-47.5361,876.0,Ativo
+1288,Davinópolis,GO,Fazenda Lemes,60051000,-18.1608,-47.6472,0.0,Ativo
+1289,Araguari,MG,UHE Itumbiara Rio Jordão,60179000,-18.5883,-48.1272,630.0,Ativo
+1290,Brasília,DF,Rio Paranoá,60180054,-15.8056,-47.7069,875.0,Ativo
+1291,Araguari,MG,CGH Pissarrão Montante,60180060,-18.6919,-48.0933,0.0,Ativo
+1292,Araguari,MG,CGH Pissarrão Barramento,60180070,-18.6875,-48.0969,0.0,Ativo
+1293,Unaí,MG,Fazenda Palmeira,60182000,-16.6658,-47.2314,0.0,Ativo
+1294,Paracatu,MG,Fazenda Lageado,60183000,-16.8611,-47.1306,0.0,Ativo
+1295,Ipameri,GO,UHE Itumbiara Rio Veríssimo,60199000,-17.9525,-48.1539,610.0,Ativo
+1296,Santa Juliana,MG,PCH Pai Joaquim Montante,60229800,-19.5164,-47.4983,843.0,Ativo
+1297,Anápolis,GO,Piancó I - Montante Captação,60300900,-19.1558,-48.9353,976.0,Ativo
+1298,Anápolis,GO,Piancó II - Jusante Captação,60310050,-16.1572,-48.9358,914.0,Ativo
+1299,Goiânia,GO,Captação Meia Ponte Goiânia,60310100,-16.5689,-49.3283,698.0,Ativo
+1300,Abadiania,GO,Capivari - Mmontante Captação,60310200,-16.1003,-48.8681,901.0,Ativo
+1301,Santa Cruz De Goiás,GO,Fazenda Muquém,60321800,-17.2944,-48.7119,778.0,Ativo
+1302,Uberlândia,MG,PCH Martins Jusante,60390500,-18.7694,-48.4403,641.0,Ativo
+1303,Brasília,DF,Descoberto - Chacara 89,60435000,-15.7089,-48.2339,1034.0,Ativo
+1304,Brasília,DF,Rodeador - Df 435,60435200,-15.725,-48.1683,1035.0,Ativo
+1305,Brasília,DF,Ribeirão Das Pedras,60435405,-15.7622,-48.1594,0.0,Ativo
+1306,Brasília,DF,Melchior,60436185,-15.9267,-48.2589,0.0,Ativo
+1307,Brasília,DF,Rio Descoberto,60436186,-15.9311,-48.2575,0.0,Ativo
+1308,Santo Antônio Do Descoberto,GO,Baixo Rio Descoberto,60436300,-16.0081,-48.2719,0.0,Ativo
+1309,Santo Antônio Do Descoberto,GO,Engenho Das Lajes,60436400,-16.0528,-48.2444,0.0,Ativo
+1310,Brasília,DF,Ponte Alta,60443830,-16.0372,-48.1361,0.0,Ativo
+1311,Brasília,DF,Alagado,60444035,-16.0467,-48.0822,0.0,Ativo
+1312,Brasília,DF,Pipiripau,60472235,-15.6144,-47.5456,1008.0,Ativo
+1313,Brasília,DF,Ribeirão Sobradinho,60474300,-15.7272,-47.6967,0.0,Ativo
+1314,Brasília,DF,Bartolomeu - Montante Paranoá,60476155,-15.8094,-47.7006,0.0,Ativo
+1315,Brasília,DF,UHE Paranoá Córrego Bananal,60477607,-15.7283,-47.91,1003.0,Ativo
+1316,Brasília,DF,Riacho Fundo Vila Cauhy,60478185,-15.8753,-47.9661,1019.0,Ativo
+1317,Brasília,DF,Estação Teste,60478250,-15.8167,-47.95,0.0,Ativo
+1318,Brasília,DF,Estação Teste,60478250,-15.8167,-47.95,0.0,Ativo
+1319,Brasília,DF,Estação Teste 1,60478251,-15.8194,-47.9556,0.0,Ativo
+1320,Brasília,DF,Estação Teste 1,60478251,-15.8194,-47.9556,0.0,Ativo
+1321,Brasília,DF,Ribeirão Maria Pereira,60478477,-16.0422,-47.8486,0.0,Ativo
+1322,Valparaíso De Goiás,GO,Captação Da Saneago,60478480,-16.0647,-47.9425,0.0,Ativo
+1323,Valparaíso De Goiás,GO,Captação Da Saneago,60478480,-16.0647,-47.9425,0.0,Ativo
+1324,Brasília,DF,Córrego Saia Velha,60478481,-16.0497,-47.9378,0.0,Ativo
+1325,Brasília,DF,Ribeirão Do Gama,60478520,-15.8583,-47.8739,0.0,Ativo
+1326,Brasília,DF,UHE Paranoá Córrego Cabeça De Veado,60478610,-15.8558,-47.8575,1003.96,Ativo
+1327,Brasília,DF,UHE Paranoá Barramento,60479270,-15.7975,-47.7839,1000.0,Ativo
+1328,Brasília,DF,UHE Paranoá Jusante,60479280,-15.7911,-47.7622,895.0,Ativo
+1329,Brasília,DF,Fazenda Encontro Das Águas,60480052,-15.8056,-47.7069,875.0,Ativo
+1330,Brasília,DF,Taboca,60480310,-15.8753,-47.7228,0.0,Ativo
+1331,Brasília,DF,Papuda,60480550,-15.8925,-47.7228,0.0,Ativo
+1332,Brasília,DF,Cachoeirinha,60491000,-16.0356,-47.6853,0.0,Ativo
+1333,Brasília,DF,Santana,60492000,-16.0508,-47.7442,0.0,Ativo
+1334,Luziânia,GO,PCH São Bartolomeu Jusante,60492240,-16.4836,-47.7772,777.0,Ativo
+1335,Cristalina,GO,Rio Pamplona,60495000,-16.4317,-47.6914,0.0,Ativo
+1336,Luziânia,GO,PCH Gameleira Rio Pamplona,60495100,-16.5358,-47.7792,779.0,Ativo
+1337,Luziânia,GO,PCH Gameleira Jusante,60500040,-16.6472,-47.8356,756.0,Ativo
+1338,Luziânia,GO,PCH Tamboril Barramento,60500100,-16.7856,-47.8844,745.0,Ativo
+1339,Luziânia,GO,PCH Tamboril Jusante,60500200,-16.7875,-47.8856,744.0,Ativo
+1340,Orizona,GO,UHE Corumbá I Montante 2,60510100,-17.0169,-47.9275,0.0,Ativo
+1341,Orizona,GO,UHE Corumbá I Rio Piracanjuba,60540000,-17.1314,-48.1372,690.0,Ativo
+1342,Coromandel,MG,CGH Lages Montante,60550900,-18.4889,-46.9275,0.0,Ativo
+1343,Coromandel,MG,CGH Lages Barramento,60551000,-18.4903,-46.9281,0.0,Ativo
+1344,Caldas Novas,GO,UHE Corumbá I Reservatório,60570078,-17.9861,-48.5228,0.0,Ativo
+1345,Araporã,MG,UHE Itumbiara Reservatório 2,60590900,-18.3431,-48.8628,0.0,Ativo
+1346,Itaguarí,GO,Captação - Montante,60601000,-15.9292,-49.5989,648.0,Ativo
+1347,Araporã,MG,UHE Itumbiara Reservatório 1,60610050,-18.4097,-49.0594,0.0,Ativo
+1348,Tupaciguara,MG,Fazenda Cachoeira,60615000,-18.6983,-48.7806,793.0,Ativo
+1349,Monte Alegre De Minas,MG,PCH Piedade Barramento,60617000,-18.6892,-49.0094,653.0,Ativo
+1350,Monte Alegre De Minas,MG,PCH Piedade Jusante,60618000,-18.6664,-49.0636,518.0,Ativo
+1351,Santa Cruz De Goiás,GO,Fazenda Lambari,60620550,-17.4231,-48.7217,693.0,Ativo
+1352,Centralina,MG,CGH Santa Luzia Montante,60621900,-18.5297,-49.2053,0.0,Ativo
+1353,Terezópolis De Goiás,GO,Montante Barragem Rib. João Leite - Reresópolis,60630400,-16.4731,-49.1122,759.0,Ativo
+1354,Inhumas,GO,Montante Captação Inhumas,60634940,-16.3503,-49.4992,740.0,Ativo
+1355,Inhumas,GO,Captação Meia Ponte - Inhumas,60635050,-16.3292,-49.4958,749.0,Ativo
+1356,Itauçu,GO,Captação Meia Ponte - Itauçu,60635070,-16.5703,-49.3186,983.0,Ativo
+1357,Goiânia,GO,Montante Captação Goiânia,60635200,-16.5694,-49.3292,705.0,Ativo
+1358,Acreuna,GO,PCH Verde 8 Rio Fernando,60641100,-17.4208,-50.5269,533.0,Ativo
+1359,Goiânia,GO,Barragem Ribeirão João Leite - Goiânia,60642100,-16.5672,-49.2119,750.0,Ativo
+1360,Bela Vista De Goiás,GO,Fazenda Sucuri,60654000,-16.9136,-49.1047,0.0,Ativo
+1361,Itumbiara,GO,Ponte Meia Ponte,60680000,-18.3489,-49.6017,468.0,Ativo
+1362,Edéia,GO,Barra Do Monjolo,60765000,-17.7322,-50.1808,0.0,Ativo
+1363,Paraúna,GO,Fazenda Santa Maria,60772000,-17.9808,-50.2469,0.0,Ativo
+1364,Paraúna,GO,PCH Verde 8 Montante 2,60783000,-17.3661,-50.6419,548.0,Ativo
+1365,Acreuna,GO,PCH Verde 8 Montante 1,60787000,-17.4736,-50.5331,533.0,Ativo
+1366,Acreuna,GO,PCH Verde 8 Barramento,60791800,-17.6539,-50.4767,494.0,Ativo
+1367,Santa Helena De Goiás,GO,PCH Ypê Barramento,60793000,-17.7289,-50.4522,499.0,Ativo
+1368,Rio Verde,GO,Captação Abóbora,60794650,-17.8297,-50.9842,699.0,Ativo
+1369,Maurilândia,GO,Maurilândia,60798000,-17.9678,-50.3325,0.0,Ativo
+1370,Maurilândia,GO,Maurilândia,60798000,-17.9678,-50.3325,0.0,Ativo
+1371,Bom Jesus De Goiás,GO,Captação Jusante - Bom Jesus,60810950,-18.2019,-49.74,600.0,Ativo
+1372,Bom Jesus De Goiás,GO,Bom Jesus De Goiás,60811000,-18.2128,-49.7533,0.0,Ativo
+1373,Monte Alegre De Minas,MG,PCH Salto Morais Rio Babilônia,60842200,-18.9458,-49.025,0.0,Ativo
+1374,Ituiutaba,MG,PCH Salto Morais Montante,60842600,-18.9411,-49.355,0.0,Ativo
+1375,Ituiutaba,MG,PCH Salto Morais Barramento,60842800,-18.9489,-49.3828,0.0,Ativo
+1376,Prata,MG,Fazenda Buriti Do Prata,60850000,-19.3597,-49.1803,517.0,Ativo
+1377,São Simão,GO,UHE São Simão Reservatório,60854800,-18.9975,-50.5022,332.0,Ativo
+1378,Caçu,GO,UHE Eng. José Luiz Muller Montante 2,60905900,-18.8386,-50.9403,407.0,Ativo
+1379,Alagoa,MG,CGH Alagoa III Montante,61014920,-22.2317,-44.6675,1223.0,Ativo
+1380,Alagoa,MG,CGH Alagoa III Barramento,61014950,-22.23,-44.6661,1225.0,Ativo
+1381,Andrelândia,MG,Fazenda Laranjeiras,61060000,-21.6889,-44.3508,905.0,Ativo
+1382,Ibituruna,MG,Ibituruna,61135000,-21.1425,-44.7397,799.0,Ativo
+1383,Piranguçu,MG,PCH São Bernardo Barramento,61255300,-22.6011,-45.5483,0.0,Ativo
+1384,Itajubá,MG,PCH Luiz Dias Montante,61284000,-22.3692,-45.3344,916.0,Ativo
+1385,Itajubá,MG,PCH Luiz Dias Barramento,61284500,-22.3717,-45.3472,894.0,Ativo
+1386,Campanha,MG,PCH Xicão Montante,61342000,-21.9214,-45.4236,0.0,Ativo
+1387,Careaçu,MG,UHE Marechal Mascarenhas De Moraes Rio Sapucaí,61410000,-22.0536,-45.6992,770.0,Ativo
+1388,Campestre,MG,CGH João Franco Barramento,61448100,-21.8344,-46.0922,1179.0,Ativo
+1389,Três Corações,MG,UHE Luiz Carlos Barreto De Carvalho Rio Verde,61511000,-21.7031,-45.2481,847.0,Ativo
+1390,Três Corações,MG,PCH Boa Vista II Montante 2,61528000,-21.6667,-45.3089,834.0,Ativo
+1391,Três Corações,MG,PCH Boa Vista II Rio Palmela,61534000,-21.6414,-45.4,834.0,Ativo
+1392,Varginha,MG,PCH Boa Vista II Montante 1,61536000,-21.5931,-45.4272,825.0,Ativo
+1393,Varginha,MG,PCH Boa Vista II Barramento,61536100,-21.5256,-45.4606,0.0,Ativo
+1394,Varginha,MG,PCH Boa Vista II Jusante,61538000,-21.6069,-45.5086,782.0,Ativo
+1395,Itaú De Minas,MG,UHE Marechal Mascarenhas De Moraes Rio São João,61696000,-20.6689,-46.8014,694.0,Ativo
+1396,Itaú De Minas,MG,UHE Marechal Mascarenhas De Moraes Rio Santana,61712000,-20.6764,-46.8411,675.0,Ativo
+1397,Ibiraci,MG,UHE Marechal Mascarenhas De Moraes Reservatório,61730050,-20.2892,-47.0586,0.0,Ativo
+1398,Pedregulho,SP,UHE Luiz Carlos Barreto De Carvalho Rio Das Canoas,61731000,-20.2617,-47.2506,634.0,Ativo
+1399,Pedregulho,SP,UHE Luiz Carlos Barreto De Carvalho Reservatório,61731050,-20.1539,-47.2681,0.0,Ativo
+1400,Miguelópolis,SP,UHE Volta Grande Reservatório 2,61757500,-20.0411,-47.8694,493.0,Ativo
+1401,Aramina,SP,UHE Volta Grande Montante,61758000,-20.1631,-47.8811,498.0,Ativo
+1402,Miguelópolis,SP,UHE Volta Grande Reservatório 3,61758300,-20.1158,-47.9178,492.0,Ativo
+1403,Miguelópolis,SP,UHE Volta Grande Reservatório 4,61758800,-20.1514,-48.0525,492.0,Ativo
+1404,Miguelópolis,SP,UHE Volta Grande Reservatório 1,61759000,-20.1292,-48.145,492.0,Ativo
+1405,Miguelópolis,SP,UHE Volta Grande Reservatório 5,61760090,-20.0347,-48.2242,475.0,Ativo
+1406,Uberaba,MG,Uberaba,61794000,-19.7281,-47.9786,0.0,Ativo
+1407,Mococa,SP,Ponte Do Canoas,61826000,-21.4203,-46.9622,577.0,Ativo
+1408,Inconfidentes,MG,Inconfidentes,61861000,-22.3183,-46.3219,875.0,Ativo
+1409,Inconfidentes,MG,CGH Jacutinga Montante,61861010,-22.3183,-46.3219,0.0,Ativo
+1410,Jacutinga,MG,CGH Jacutinga Jusante,61873700,-22.2656,-46.6922,0.0,Ativo
+1411,São João Da Boa Vista,SP,São João Da Boa Vista,61895000,-21.9783,-46.8069,742.0,Ativo
+1412,Guatapará,SP,Ponte Guatapara,61912000,-21.5025,-48.0406,519.0,Ativo
+1413,Pitangueiras,SP,Passagem,61915000,-21.0167,-48.1772,473.0,Ativo
+1414,Moji Das Cruzes,SP,Mogi Das Cruzes,62108000,-23.5458,-46.1344,742.0,Ativo
+1415,Moji Das Cruzes,SP,Aços Anhanguera,62110000,-23.5264,-46.1597,735.0,Ativo
+1416,Suzano,SP,Taiacupeba,62126220,-23.5764,-46.2889,750.0,Ativo
+1417,Guarulhos,SP,Rio Tietê (Barragem Da Penha),62155150,-23.5014,-46.5419,0.0,Manutenção
+1418,São Paulo,SP,Taqacetuba,62222500,-23.8406,-46.6586,745.0,Manutenção
+1419,São Bernardo Do Campo,SP,Riacho Grande,62266000,-23.7692,-46.5331,760.0,Ativo
+1420,Durandé,MG,CGH Inga Mirim Jusante,62271000,-20.1144,-41.7856,525.0,Ativo
+1421,Ribeirão Pires,SP,Ribeirão Pires,62284900,-23.7086,-46.4192,738.0,Ativo
+1422,São Paulo,SP,Guarapiranga,62290120,-23.6714,-46.7264,740.0,Ativo
+1423,São Paulo,SP,USP,62300600,-23.5586,-46.7108,719.0,Ativo
+1424,São Paulo,SP,Pedreira,62300610,-23.7028,-46.6792,725.0,Manutenção
+1425,São Paulo,SP,Retiro,62300700,-23.5322,-46.7492,720.0,Ativo
+1426,Carapicuiba,SP,Cotia,62321500,-23.5403,-46.8625,731.0,Ativo
+1427,Itu,SP,Itu,62331900,-23.4544,-46.9097,716.0,Ativo
+1428,Mairiporã,SP,PCH Cascata Desemboque T5,62344000,-23.2647,-46.4808,0.0,Ativo
+1429,Mairiporã,SP,SB-CA-DBT5 Desemboque Túnel 5,62344010,-23.2647,-46.4808,760.0,Ativo
+1430,Mairiporã,SP,SB-CA-F37 Canal Juqueri,62345500,-23.3097,-46.5767,750.0,Ativo
+1431,Mairiporã,SP,PCH Cascata Paiva Castro,62346500,-23.3292,-46.6783,0.0,Ativo
+1432,Mairiporã,SP,SB-CA-EMA Elevatória Mairiporã,62348060,-23.3189,-46.5914,750.0,Ativo
+1433,Franco Da Rocha,SP,SB-CA-BRJ Barragem Paiva Castro,62350050,-23.3289,-46.6783,750.0,Ativo
+1434,Mairiporã,SP,Águas Claras,62350600,-23.3978,-46.6586,870.0,Ativo
+1435,Mairiporã,SP,PCH Guaraú Águas Claras,62350700,-23.395,-46.6586,0.0,Ativo
+1436,Caieiras,SP,SB-CA-F36 Rio Juqueri,62358010,-23.3336,-46.7278,740.0,Ativo
+1437,Franco Da Rocha,SP,SB-CA-F38 Rio Juqueri,62358020,-23.3336,-46.7278,740.0,Ativo
+1438,Caieiras,SP,PCH Pirapora Rio Juqueri,62360060,-23.3678,-46.7547,725.24,Ativo
+1439,Caieiras,SP,SB-CA-BRJ-ESI Paiva Castro – Captação Esi,62360080,-23.3697,-46.6689,750.0,Ativo
+1440,São Paulo,SP,SB-CA-BAC Barragem Águas Claras,62365160,-23.3981,-46.6583,860.0,Ativo
+1441,Pirapora Do Bom Jesus,SP,PCH Pirapora Jusante,62370100,-23.3914,-47.0039,667.08,Ativo
+1442,Pirapora Do Bom Jesus,SP,Res. De Rasgão (Próx. As Comportas),62373100,-23.3819,-47.0297,663.0,Ativo
+1443,Sorocaba,SP,Sorocaba,62512200,-23.4139,-47.4622,540.0,Ativo
+1444,Tatuí,SP,CGH Santa Adélia Montante,62539200,-23.3328,-47.7419,0.0,Ativo
+1445,São Manuel,SP,São Miguel Paulista,62540300,-23.48,-46.4375,435.0,Ativo
+1446,Laranjal Paulista,SP,Laranjal Paulista,62541000,-22.9572,-47.8206,462.0,Ativo
+1447,Extrema,MG,SB-CA-F25b Rio Jaguari,62580600,-22.8667,-46.3589,850.0,Ativo
+1448,Vargem,SP,SB-CA-BJC Barragem Jacareí,62596240,-22.9481,-46.44,847.0,Ativo
+1449,Piracaia,SP,Cantareira,62596250,-22.9669,-46.3942,817.0,Ativo
+1450,Joanópolis,SP,SB-CA-BJC-T7 Emboque Túnel 7,62596270,-22.9722,-46.33,850.0,Ativo
+1451,Bragança Paulista,SP,Rio Abaixo (Faz. Cachoeira),62600000,-22.8831,-46.6319,783.0,Ativo
+1452,Pedreira,SP,CGH Eng. Bernardo Figueiredo,62612000,-22.7392,-46.9075,570.0,Ativo
+1453,Jaguariuna,SP,Jaguariúna,62615000,-22.7086,-46.9869,568.0,Ativo
+1454,Anhumas,SP,PCH Feixos Barramento,62625900,-22.6978,-46.8517,668.0,Ativo
+1455,Vargem,SP,SB-CA-BJA Barragem Jaguari,62635305,-22.9222,-46.4222,844.0,Ativo
+1456,Nazaré Paulista,SP,SB-CA-BRA Barragem Atibainha,62653510,-23.1739,-46.39,792.0,Ativo
+1457,Nazaré Paulista,SP,SB-CA-DBT6 Desemboque Do Túnel 6,62654600,-23.1083,-46.2872,790.0,Ativo
+1458,Piracaia,SP,SB-CA-BRC Barragem Cachoeira,62666010,-23.0508,-46.3192,828.0,Ativo
+1459,Piracicaba,SP,PCH Piracicapa Montante,62697240,-22.6983,-47.6211,498.0,Ativo
+1460,Piracicaba,SP,Piracicaba,62697300,-22.7003,-47.7117,465.0,Ativo
+1461,Piracicaba,SP,PCH Luiz Queiroz Barramento,62707300,-22.7161,-47.6511,490.0,Ativo
+1462,Macatuba,SP,PCH Lençóis Montante 1,62726900,-22.5758,-48.6789,491.0,Ativo
+1463,Penápolis,SP,UHE Nova Avanhandava Ribeirão Dos Ferreiros,62835100,-21.0697,-49.8997,377.0,Ativo
+1464,Birigui,SP,Birigui Urbano,62848000,-21.2878,-50.3331,0.0,Ativo
+1465,Costa Rica,MS,Porto De Pedras,63001200,-19.0567,-53.0189,454.0,Ativo
+1466,Chapadão Do Sul,MS,PCH Buriti Córrego Fazendinha,63001263,-19.3044,-52.6719,438.0,Ativo
+1467,Chapadão Do Sul,MS,PCH Bandeirante Jusante,63001580,-19.5328,-52.5203,350.0,Ativo
+1468,Chapadão Do Sul,MS,PCH Lajeado Barramento,63001602,-19.0578,-52.5317,553.0,Ativo
+1469,Chapadão Do Sul,MS,PCH Lajeado Jusante,63001603,-19.0606,-52.5286,517.0,Ativo
+1470,Chapadão Do Sul,MS,PCH Areado Montante,63001680,-19.4375,-52.4639,384.0,Ativo
+1471,Inocência,MS,PCH Areado Jusante,63001740,-19.5481,-52.505,352.0,Ativo
+1472,Chapadão Do Sul,MS,PCH Areado Barramento,63001745,-19.5453,-52.5053,360.0,Ativo
+1473,Água Clara,MS,PCH Bandeirante Barramento,63001760,-19.5297,-52.5192,360.0,Ativo
+1474,Três Lagoas,MS,UHE Jupiá Rio Sucuriú,63001850,-19.8083,-52.2753,339.0,Ativo
+1475,Camapuã,MS,PCH Verde 4a Montante 2,63250700,-19.6106,-53.4783,0.0,Ativo
+1476,Camapuã,MS,PCH Verde 4a Montante 1,63250800,-19.7394,-53.4519,0.0,Ativo
+1477,Camapuã,MS,PCH Verde 4a Ribeirão Salgado,63250850,-19.7936,-53.4861,0.0,Ativo
+1478,Água Clara,MS,PCH Verde 4a Barramento,63250880,-19.8758,-53.3675,385.0,Ativo
+1479,Água Clara,MS,PCH Verde 4a Jusante,63250900,-19.8789,-53.3636,0.0,Ativo
+1480,Água Clara,MS,PCH Verde 4 Barramento,63250910,-19.8744,-53.3686,363.45,Ativo
+1481,Água Clara,MS,PCH Verde 4 Jusante,63250950,-19.9794,-53.2694,0.0,Ativo
+1482,Ribas Do Rio Pardo,MS,Ribas Do Rio Pardo,63900001,-20.4414,-53.7181,343.0,Ativo
+1483,Sidrolândia,MS,Vau Do Balsamo,63950010,-20.9942,-54.5072,384.0,Ativo
+1484,Pilar Do Sul,SP,PCH Batista Barramento,64006500,-23.8403,-47.6531,431.0,Ativo
+1485,Pilar Do Sul,SP,PCH Jorda Flor Barramento,64006900,-23.8142,-47.6728,695.0,Ativo
+1486,Piraju,SP,UHE Chavantes Reservatório 3,64221600,-23.1306,-49.4489,468.0,Ativo
+1487,Ipauçu,SP,UHE Chavantes Reservatório 1,64225100,-23.1292,-49.6325,477.0,Ativo
+1488,Jaguariaiva,PR,PCH Macacos Barramento,64241520,-24.0717,-49.6222,548.0,Ativo
+1489,Jaguariaiva,PR,PCH Macacos Jusante,64241530,-24.0611,-49.6228,523.0,Ativo
+1490,Fartura,SP,UHE Chavantes Reservatório 5,64248020,-23.5219,-49.4922,544.0,Ativo
+1491,Carlópolis,PR,UHE Chavantes Reservatório 4,64248040,-23.3733,-49.6211,471.0,Ativo
+1492,Ribeirão Claro,PR,UHE Chavantes Reservatório 2,64248100,-23.235,-49.6586,467.0,Ativo
+1493,Águas De Santa Barbara,SP,PCH Ponte Branca Montante,64314700,-22.8453,-49.1622,560.0,Ativo
+1494,Águas De Santa Barbara,SP,PCH Ponte Branca Barramento,64314900,-22.875,-49.2142,565.0,Ativo
+1495,Águas De Santa Barbara,SP,PCH Ponte Branca Rio Novo,64314950,-22.8886,-49.2011,564.0,Ativo
+1496,Ourinhos,SP,UHE Salto Grande Reservatório 4,64324600,-22.9917,-49.9111,383.0,Ativo
+1497,Ourinhos,SP,UHE Salto Grande Reservatório 3,64324800,-22.9439,-49.9647,383.0,Ativo
+1498,Salto Grande,SP,UHE Salto Grande Reservatório 2,64324900,-22.9111,-49.9625,389.0,Ativo
+1499,Salto Grande,SP,UHE Salto Grande Reservatório 1,64334080,-22.8836,-49.99,385.0,Ativo
+1500,Rancharia,SP,CGH Pari Barramento,64345010,-22.8831,-50.3292,370.0,Ativo
+1501,Alvorada Do Sul,PR,UHE Capivara Reservatório 5,64450100,-22.9692,-50.6006,329.0,Ativo
+1502,Alvorada Do Sul,PR,UHE Capivara Reservatório 4,64450200,-22.9122,-50.6869,326.0,Ativo
+1503,Alvorada Do Sul,PR,UHE Capivara Reservatório 3,64450300,-22.8986,-50.7914,322.0,Ativo
+1504,Alvorada Do Sul,PR,UHE Capivara Reservatório 2,64450700,-22.8528,-50.9956,335.0,Ativo
+1505,Ponta Grossa,PR,PCH São Jorge Jusante,64452190,-25.0356,-50.1025,850.0,Ativo
+1506,Tibagi,PR,UHE Tibagi Montante Rio Capivari,64461000,-24.69,-50.4922,741.0,Ativo
+1507,Tibagi,PR,UHE Tibagi Montante Reservatório 2,64464800,-24.6072,-50.4253,728.0,Ativo
+1508,Tibagi,PR,UHE Tibagi Montante Reservatório 1,64469840,-24.5469,-50.4006,722.0,Ativo
+1509,Tibagi,PR,UHE Tibagi Montante Barramento,64469845,-24.5344,-50.4089,722.0,Ativo
+1510,Tibagi,PR,UHE Tibagi Montante Jusante,64469850,-24.5275,-50.4072,710.0,Ativo
+1511,Castro,PR,PCH Castro Montante 2,64474800,-24.7822,-50.0175,980.0,Ativo
+1512,Castro,PR,PCH Castro Montante 1,64477000,-24.7506,-50.0881,979.0,Ativo
+1513,Castro,PR,PCH Castro Barramento,64478100,-24.7364,-50.1189,974.0,Ativo
+1514,Castro,PR,PCH Castro Jusante,64478150,-24.7278,-50.1211,968.0,Ativo
+1515,Castro,PR,PCH Pulo Barramento,64478200,-24.7211,-50.1347,970.0,Ativo
+1516,Castro,PR,PCH Pulo Jusante,64480030,-24.7142,-50.1419,945.0,Ativo
+1517,Alvorada Do Sul,PR,UHE Capivara Reservatório 1,64514600,-22.7539,-51.2178,332.0,Ativo
+1518,Lupionópolis,PR,UHE Taquaruçu Reservatório 3,64535020,-22.6575,-51.6294,277.0,Ativo
+1519,Santo Inácio,PR,UHE Taquaruçu Reservatório 2,64535040,-22.6306,-51.7372,273.0,Ativo
+1520,Santa Inês,PR,UHE Taquaruçu Reservatório 1,64535060,-22.6272,-54.8775,273.0,Ativo
+1521,Santa Fé,PR,PCH Salto Bandeirantes Montante 2,64545840,-23.1239,-51.5917,428.0,Ativo
+1522,Santa Fé,PR,PCH Salto Bandeirantes Montante 1,64545860,-23.0981,-51.6378,420.0,Ativo
+1523,Santa Fé,PR,PCH Salto Bandeirantes Barramento,64547500,-22.9864,-51.8222,371.0,Ativo
+1524,Santa Fé,PR,PCH Salto Bandeirantes Jusante,64547600,-22.9781,-51.8328,358.0,Ativo
+1525,São Pedro Do Paraná,PR,UHE Itaipu Porto São José,64575000,-22.7181,-53.1767,232.0,Ativo
+1526,Querência Do Norte,PR,Porto Querência,64580010,-22.9667,-53.6028,0.0,Ativo
+1527,Rio Brilhante,MS,Brilhante,64604900,-21.8983,-54.02,0.0,Ativo
+1528,Dourados,MS,Dourados,64609000,-22.3981,-54.7919,348.0,Ativo
+1529,Deodápolis,MS,Porto Wilma,64610000,-22.0686,-54.2292,283.0,Ativo
+1530,Ivinhema,MS,UHE Itaipu Ivinhema,64617000,-22.3825,-53.5286,243.0,Ativo
+1531,Prudentópolis,PR,PCH Dois Saltos Montante,64618700,-25.345,-50.9689,754.0,Ativo
+1532,Prudentópolis,PR,PCH Dois Saltos Barramento,64620005,-25.1761,-50.9408,706.0,Ativo
+1533,Prudentópolis,PR,PCH Dois Saltos Jusante,64620500,-25.1567,-50.9494,638.0,Ativo
+1534,Turvo,PR,PCH Boa Vista II,64630000,-24.9167,-51.4167,590.0,Ativo
+1535,Campo Mourão,PR,PCH Mourão I Montante,64670005,-24.2067,-52.3825,612.53,Ativo
+1536,Peabiru,PR,PCH Ouro Branco Montante,64672050,-24.0139,-52.2492,394.0,Ativo
+1537,Peabiru,PR,PCH Ouro Branco Barramento,64672100,-23.9947,-52.2317,382.0,Ativo
+1538,Rondon,PR,Novo Porto Paraíso Do Norte,64675100,-23.3211,-52.5797,0.0,Ativo
+1539,Caarapó,MS,UHE Itaipu Florida,64715001,-22.9719,-54.5633,270.0,Ativo
+1540,Paranhos,MS,Porto São Domingos,64723000,-23.6486,-55.3894,319.0,Ativo
+1541,Altamira Do Paraná,PR,Pequeno Mundo,64771100,-24.8389,-52.7961,0.0,Ativo
+1542,Mato Rico,PR,PCH Cantu 2 Montante,64773500,-24.7247,-52.3931,435.0,Ativo
+1543,Laranjal,PR,PCH Cantu 2 Rio Branco,64773750,-24.7644,-52.4308,421.0,Ativo
+1544,Nova Cantu,PR,PCH Cantu 2 Barramento,64773880,-24.7478,-52.4681,415.0,Ativo
+1545,Nova Cantu,PR,PCH Cantu 2 Jusante,64773890,-24.7436,-52.4753,373.0,Ativo
+1546,Anahy,PR,PCH Zeca Golim Montante,64790300,-24.6369,-53.1025,385.0,Ativo
+1547,Anahy,PR,PCH Zeca Golim Barramento,64790400,-24.7158,-53.1461,346.0,Ativo
+1548,Mariluz,PR,Balsa Do Goio - Ere,64810000,-23.91667,-53.13306,320.0,Manutenção
+1549,Mercedes,PR,Arroio Guaçu,64849010,-24.3911,-54.1492,0.0,Ativo
+1550,Marechal Cândido Rondon,PR,PCH Moinho Montante,64850050,-24.4717,-53.9986,314.0,Ativo
+1551,Marechal Cândido Rondon,PR,PCH Moinho Barramento,64850100,-24.4192,-54.0286,290.0,Ativo
+1552,Marechal Cândido Rondon,PR,PCH Moinho Jusante,64850150,-24.4203,-54.0367,282.0,Ativo
+1553,Entre Rios Do Oeste,PR,São Francisco Verdadeiro,64875600,-24.7439,-54.0967,0.0,Ativo
+1554,Piraquara,PR,Barragem Iraí,65001500,-25.4178,-49.1067,891.02,Ativo
+1555,São José Dos Pinhais,PR,Comporta Canal Água Limpa,65006090,-25.4864,-49.1811,876.0,Ativo
+1556,Curitiba,PR,Jusante Parque São Lourenço,65011030,-25.3867,-49.2661,919.46,Ativo
+1557,Curitiba,PR,ETE - Sanepar,65013005,-25.5281,-49.2189,875.0,Ativo
+1558,São José Dos Pinhais,PR,Ponte Do Umbarazinho,65017006,-25.5986,-49.2608,879.0,Ativo
+1559,Curitiba,PR,Santa Quitéria,65019675,-25.4633,-49.3197,889.09,Ativo
+1560,Lapa,PR,PCH Lúcia Cherobim Montante 2,65031300,-25.6014,-49.6314,862.0,Ativo
+1561,Lapa,PR,PCH Lúcia Cherobim Montante 1,65031400,-25.5711,-49.7908,835.0,Ativo
+1562,Porto Amazonas,PR,PCH Lúcia Cherobim Jusante,65031500,-2.8897,-49.8747,790.0,Ativo
+1563,Mangueirinha,PR,PCH Canhadão Barramento,65140000,-25.9783,-52.2133,890.0,Ativo
+1564,Mangueirinha,PR,PCH Canhadão Jusante,65141000,-25.9736,-52.1683,657.0,Ativo
+1565,Antônio Olinto,PR,Fazenda Mello,65155500,-25.9867,-50.0928,840.0,Ativo
+1566,Coronel Domingos Soares,PR,PCH Foz Do Estrela Montante,65775800,-26.1239,-51.8739,230.0,Ativo
+1567,Coronel Domingos Soares,PR,PCH Foz Do Estrela Barramento,65775905,-26.0925,-51.8778,225.0,Ativo
+1568,Guarapuava,PR,CGH Enxadrista Montante,65808900,-25.3847,-51.3853,1013.0,Ativo
+1569,Guarapuava,PR,UHE Santa Clara Montante,65813100,-25.4878,-51.7378,0.0,Ativo
+1570,Guarapuava,PR,UHE Salto Curucaca Barramento,65815040,-25.5353,-51.8158,0.0,Ativo
+1571,Candói,PR,PCH Taguá,65815060,-25.5044,-51.7864,887.0,Ativo
+1572,Pinhão,PR,UHE Santa Clara Rio Pinhão,65819300,-25.6119,-51.6531,0.0,Ativo
+1573,Mangueirinha,PR,PCH Tigre Barramento,65831000,-26.0528,-52.1783,901.0,Ativo
+1574,Mangueirinha,PR,PCH Tigre Jusante,65831020,-26.0411,-52.175,828.0,Ativo
+1575,Mangueirinha,PR,PCH Covó Montante,65831900,-25.9797,-52.1614,661.0,Ativo
+1576,Mangueirinha,PR,PCH Covó Barramento,65832000,-25.9722,-52.1514,661.0,Ativo
+1577,Virmond,PR,PCH Cavernoso II Barramento,65855080,-25.4878,-52.2156,560.0,Ativo
+1578,Virmond,PR,PCH Cavernoso II Jusante,65855110,-25.5089,-52.2292,514.0,Ativo
+1579,Renascença,PR,PCH Bedim Montante,65954150,-26.0864,-52.9394,560.0,Ativo
+1580,Renascença,PR,PCH Bedim Barramento,65954175,-26.0911,-52.9558,565.0,Ativo
+1581,Bom Sucesso Do Sul,PR,PCH Vila Galupo Montante,65954200,-26.0864,-52.9394,550.0,Ativo
+1582,Bom Sucesso Do Sul,PR,PCH Vila Galupo Barramento,65954400,-26.0617,-52.9222,536.0,Ativo
+1583,Francisco Beltrão,PR,PCH Jacaré Barramento,65954900,-26.0389,-52.9331,509.0,Ativo
+1584,Francisco Beltrão,PR,PCH Jacaré Jusante,65954950,-26.0347,-52.9236,496.0,Ativo
+1585,Verê,PR,PCH Arturo Andreoli Rio Santana,65956000,-25.8831,-52.8631,0.0,Ativo
+1586,Verê,PR,PCH Bela Vista Reservatório,65957000,-25.8181,-52.9014,430.0,Ativo
+1587,Capitão Leônidas Marques,PR,UHE Baixo Iguaçu Barramento,65983100,-25.5042,-53.6722,263.0,Ativo
+1588,Foz Do Iguaçu,PR,Hotel Cataratas - Copel,65992502,-25.6833,-54.4289,180.1,Ativo
+1589,Indiavaí,MT,Água Suja,66071400,-15.4997,-58.5997,200.0,Ativo
+1590,Cáceres,MT,Porto Limão,66077000,-16.1469,-58.0092,100.0,Ativo
+1591,Cáceres,MT,Porto Conceição,66120000,-17.1433,-57.3594,107.0,Ativo
+1592,Juscimeira,MT,PCH Beleza Montante,66222100,-16.1956,-55.0361,450.0,Ativo
+1593,Juscimeira,MT,PCH Beleza Barramento,66222400,-16.1836,-55.0144,432.0,Ativo
+1594,Alto Taquari,MT,PCH Lajari Barramento Ribeirão Da Laje,66313000,-17.9214,-53.4014,767.0,Ativo
+1595,São Pedro Da Cipa,MT,São Pedro Da Cipa,66380000,-15.9981,-54.9217,239.0,Ativo
+1596,Juscimeira,MT,CGH Água Clara Montante,66400040,-16.0917,-55.0925,552.0,Ativo
+1597,Juscimeira,MT,PCH Água Prata Jusante,66400050,-16.0964,-55.0425,395.0,Ativo
+1598,Juscimeira,MT,PCH Água Brava Jusante,66400060,-16.1039,-54.9908,300.0,Ativo
+1599,Tangará Da Serra,MT,PCH Recanto Barramento,66425000,-14.4194,-57.8183,445.0,Ativo
+1600,Tangará Da Serra,MT,PCH Recanto Jusante,66425050,-14.4283,-57.8128,294.0,Ativo
+1601,Rondonópolis,MT,PCH Eng. José Gelásio Da Rocha Montante,66452500,-16.7483,-54.7217,370.0,Ativo
+1602,Rondonópolis,MT,PCH Eng. José Gelásio Da Rocha Barramento,66453000,-16.7128,-54.7478,370.0,Ativo
+1603,Barão De Melgaço,MT,São José Do Boriréu,66470000,-16.9253,-56.2236,160.0,Ativo
+1604,Itiquira,MT,Itiquira,66520000,-17.2078,-54.1511,484.0,Ativo
+1605,Corumbá,MS,Amolar,66800000,-18.0386,-57.4886,85.0,Ativo
+1606,Alto Taquari,MT,PCH Lajari Montante,66830000,-17.9319,-53.3753,774.3,Ativo
+1607,Alto Taquari,MT,PCH Lajari Barramento,66830050,-17.9319,-53.3808,773.0,Ativo
+1608,Coxim,MS,Garimpagem,66855000,-18.7136,-54.5672,238.0,Ativo
+1609,Corumbá,MS,Porto Da Manga,66895000,-19.2583,-57.2353,79.0,Ativo
+1610,Corumbá,MS,Forte Coimbra,66970000,-19.9203,-57.7917,79.0,Ativo
+1611,Anita Garibaldi,SC,CGH Willy Faller Montante,70371000,-27.7769,-50.9481,926.0,Ativo
+1612,Palmeira,SC,Mato Escuro,71335000,-27.5778,-50.0717,855.0,Ativo
+1613,Campos Novos,SC,PCH Tupitinga Montante,71380450,-27.5214,-51.4131,688.0,Ativo
+1614,Campos Novos,SC,PCH Tupitinga Barramento,71380500,-27.5322,-51.4233,681.0,Ativo
+1615,Curitibanos,SC,PCH Ado Popinhak Ponte Alta Do Sul,71385400,-27.4858,-50.3917,0.0,Ativo
+1616,Curitibanos,SC,PCH Ado Popinhak Barramento,71386000,-27.4597,-50.52,0.0,Ativo
+1617,Curitibanos,SC,PCH Ado Popinhak Jusante,71386500,-27.4881,-50.5225,0.0,Ativo
+1618,Curitibanos,SC,PCH Pery Jusante,71388600,-27.4528,-50.6714,775.0,Ativo
+1619,Curitibanos,SC,CGH Marombas I Montante 2,71491100,-27.2008,-50.5625,867.0,Ativo
+1620,Curitibanos,SC,CGH Marombas I Montante 1,71491800,-27.1922,-50.6175,860.0,Ativo
+1621,Curitibanos,SC,CGH Marombas I Barramento,71491900,-27.1961,-50.6175,857.0,Ativo
+1622,Curitibanos,SC,CGH Marombas II Barramento,71492100,-27.2044,-50.635,838.0,Ativo
+1623,Curitibanos,SC,CGH Marombas II Jusante,71492150,-27.2053,-50.6339,838.0,Ativo
+1624,Lages,SC,DCSC Rio Caveiras,71620200,-27.8436,-50.3297,884.0,Ativo
+1625,Paim Filho,RS,PCH Forquilha IV Montante,72450500,-27.7125,-51.7519,566.0,Ativo
+1626,Maximiliano De Almeida,RS,PCH Forquilha IV Barramento,72451000,-27.6147,-51.7508,510.0,Ativo
+1627,Carlos Gomes,RS,Passo Santa Tereza,72630900,-27.7075,-51.8858,0.0,Ativo
+1628,Piratuba,SC,UHE Machadinho Jusante,72700000,-27.5206,-51.8108,372.0,Ativo
+1629,Ibicaré,SC,PCH Linha Rica Montante,72816000,-27.0939,-51.3658,557.0,Ativo
+1630,Ibicaré,SC,PCH Linha Rica Barramento,72816100,-27.1194,-51.4069,747.0,Ativo
+1631,Erval Velho,SC,CGH Salto Do Leão Barramento,72860080,-27.3147,-51.475,630.0,Ativo
+1632,Campos Novos,SC,PCH Barra Do Leão Montante,72870100,-27.3003,-51.5236,507.37,Ativo
+1633,Campos Novos,SC,PCH Barra Do Leão Barramento,72870200,-27.2975,-51.5522,505.24,Ativo
+1634,Ouro,SC,Doze Passos,72920000,-27.3431,-51.6483,449.0,Ativo
+1635,São Domingos,SC,PCH Santa Luzia Alto Rio Bonito,73100000,-26.5492,-52.5311,627.0,Ativo
+1636,Aratiba,RS,Pinguela Dourado Aratiba,73100300,-27.4161,-52.2361,0.0,Ativo
+1637,Irati,SC,PCH Barrinha Montante,73203000,-26.6556,-52.9108,420.0,Ativo
+1638,Irati,SC,PCH Barrinha Barramento,73203200,-26.6931,-52.9003,415.0,Ativo
+1639,Jardinópolis,SC,PCH Lambari Montante,73204000,-26.7169,-52.8914,983.0,Ativo
+1640,Faxinal Dos Guedes,SC,PCH Barra Das Águas Montante,73290100,-26.9319,-52.1447,666.0,Ativo
+1641,Faxinal Dos Guedes,SC,PCH Barra Das Águas Barramento,73317000,-26.9547,-52.3008,540.0,Ativo
+1642,São Valentim,RS,UHE Monjolinho Rio Erechim,73448000,-27.5703,-52.6781,466.0,Ativo
+1643,Água Doce,SC,PCH Das Pedras Barramento,73571000,-26.6803,-51.7808,1100.0,Ativo
+1644,Água Doce,SC,PCH Das Pedras Jusante,73571500,-26.6808,-51.8094,1085.0,Ativo
+1645,Abelardo Luz,SC,PCH Ludesa Montante,73582900,-26.6264,-52.2267,783.0,Ativo
+1646,Passos Maia,SC,PCH Ponte Serrada Montante,73680800,-26.7808,-51.9478,0.0,Ativo
+1647,Passos Maia,SC,PCH Ponte Serrada Barramento,73680900,-26.7711,-52.0331,0.0,Ativo
+1648,Passos Maia,SC,PCH Celso Ramos Montante,73690030,-26.7758,-52.0422,805.0,Ativo
+1649,Coronel Freitas,SC,Porto Fae Novo,73770000,-26.8175,-52.7344,360.0,Ativo
+1650,Jardinópolis,SC,PCH Lambari Barramento,73790000,-26.7567,-52.9081,353.0,Ativo
+1651,Águas Frias,SC,PCH Coração Montante,73800000,-26.7844,-52.9289,336.0,Ativo
+1652,Águas Frias,SC,PCH Coração Barramento,73819000,-26.8544,-52.9006,320.0,Ativo
+1653,Águas Frias,SC,Tarumãzinho,73825000,-26.8578,-52.8736,0.0,Ativo
+1654,Saudades,SC,Saudades,73900000,-26.9244,-53.0089,263.0,Ativo
+1655,Iraí,RS,Rio Do Mel Iraí,74100010,-27.2139,-53.2467,0.0,Ativo
+1656,Carazinho,RS,CGH Mata Cobra Montante 1,74120750,-28.2653,-52.8969,492.0,Ativo
+1657,Anchieta,SC,PCH Garça Branca Montante,74200500,-26.5406,-53.4375,362.0,Ativo
+1658,Anchieta,SC,PCH Garça Branca Barramento,74200900,-26.5769,-53.4344,337.0,Ativo
+1659,Anchieta,SC,PCH Roncador Montante,74200980,-26.4692,-53.3094,580.0,Ativo
+1660,Anchieta,SC,PCH Roncador Barramento,74201000,-26.4628,-53.3164,577.0,Ativo
+1661,Iraí,RS,Passo Rio Da Várzea,74270010,-27.2775,-53.32,0.0,Ativo
+1662,Anchieta,SC,PCH Garça Branca Jusante,74300200,-26.5869,-53.4281,332.0,Ativo
+1663,Romelândia,SC,PCH Âmbar Barramento,74322100,-26.7228,-53.3431,308.0,Ativo
+1664,Romelândia,SC,PCH Âmbar Jusante,74322200,-26.7511,-53.3522,284.0,Ativo
+1665,Itapiranga,SC,Itapiranga,74329000,-27.1717,-53.7097,162.0,Ativo
+1666,Itapiranga,SC,Itapiranga,74329000,-27.1717,-53.7097,162.0,Ativo
+1667,Guarani Das Missões,RS,Ponte Comandaí Guarani Das Missões,74360010,-28.1397,-54.5603,0.0,Ativo
+1668,Taquaruçu Do Sul,RS,CGH Granja Velha Montante,74361000,-27.4233,-53.5406,276.0,Ativo
+1669,Tenente Portela,RS,CPRM - Rio Guarita Palmitinho,74370010,-27.3328,-53.6444,0.0,Ativo
+1670,Bandeirante,SC,PCH Belmonte Barramento,74423080,-26.8347,-53.6658,259.0,Ativo
+1671,Bandeirante,SC,CGH Belmonte Jusante,74423100,-26.8375,-53.6628,252.0,Ativo
+1672,Santo Augusto,RS,Ponte Do Rio Turvo,74460000,-27.8247,-53.7303,400.0,Ativo
+1673,Três Passos,RS,Três Passos,74470000,-27.3922,-53.8808,240.0,Ativo
+1674,Tiradentes Do Sul,RS,Alto Uruguai,74500000,-27.3019,-54.1397,119.9,Ativo
+1675,Horizontina,RS,Cascata Buricá Nova,74600900,-27.5222,-54.2333,0.0,Ativo
+1676,Porto Maua,RS,Porto Mauá,74720000,-27.5781,-54.6831,120.0,Ativo
+1677,Tuparendi,RS,Cerro Alto Tuparendi,74761000,-27.7661,-54.6236,0.0,Ativo
+1678,Bozano,RS,PCH Passo Do Ajuricaba Montante,75155010,-28.2869,-53.7803,299.0,Ativo
+1679,Ijuí,RS,PCH Sede II Montante,75175100,-28.4008,-53.8283,0.0,Ativo
+1680,Ijuí,RS,PCH Sede II Barramento,75185200,-28.3711,-53.8792,0.0,Ativo
+1681,Coronel Barros,RS,Prop. Ponte Rio Conceição,75205010,-28.3839,-54.0325,0.0,Ativo
+1682,Santo Angelo,RS,Assoc. Esportiva Entre-Ijuís,75230010,-28.3553,-54.2683,0.0,Ativo
+1683,São Miguel Das Missões,RS,Passo Do Dias,75400010,-28.6567,-54.4594,0.0,Ativo
+1684,Garruchos,RS,Garruchos,75550000,-28.1822,-55.6433,54.0,Ativo
+1685,Itacurubi,RS,Prop. Rural Itacurubi (CPRM),75650010,-28.7425,-55.1625,0.0,Ativo
+1686,São Borja,RS,Passo Do Novo Sto. Ant. Missões,75650900,-28.6825,-55.5794,0.0,Ativo
+1687,São Borja,RS,Passo Butuí Br 472 S. Borja,75831000,-28.8531,-56.0861,0.0,Ativo
+1688,Entre-Ijuis,RS,PCH Rincão Barramento,75881800,-28.4208,-54.2978,216.0,Ativo
+1689,Entre-Ijuis,RS,PCH Rincão Jusante,75881900,-28.4228,-54.3006,216.0,Ativo
+1690,Quevedos,RS,PCH Quebra Dentes Montante 2,76069450,-29.2586,-53.9442,335.0,Ativo
+1691,Quevedos,RS,PCH Quebra Dentes Montante 1,76069500,-29.2661,-53.9483,333.0,Ativo
+1692,Quevedos,RS,PCH Quebra Dentes Barramento,76069900,-29.3642,-54.0117,314.0,Ativo
+1693,Quevedos,RS,PCH Quebra Dentes Jusante,76070500,-29.3878,-54.0222,220.0,Ativo
+1694,Quevedos,RS,PCH Cachoeira Cinco Veados Barramento,76084000,-29.4192,-54.05,195.0,Ativo
+1695,Quevedos,RS,PCH Cachoeira Cinco Veados Jusante,76084040,-29.4208,-54.0528,178.0,Ativo
+1696,Cacequi,RS,Passo Santa Vitória,76111010,-29.8372,-54.7981,0.0,Ativo
+1697,Quevedos,RS,PCH Salto Do Guassupi Arroio Socavão,76112000,-29.4578,-54.1278,140.0,Ativo
+1698,Quevedos,RS,PCH Saldo Do Guassupi Montante,76115400,-29.4017,-53.9408,302.0,Ativo
+1699,Quevedos,RS,PCH Salto Do Guassupi Barramento,76115600,-29.4092,-53.9975,292.0,Ativo
+1700,Quevedos,RS,PCH Salto Do Guassupi Rio Toropi Mirim,76115800,-29.4611,-54.1942,565.0,Ativo
+1701,Alegrete,RS,Ponte Ibirocaí,76150050,-29.4683,-56.4756,0.0,Ativo
+1702,Dom Pedrito,RS,Passo Da Ferraria,76220900,-31.1417,-54.3806,0.0,Ativo
+1703,Rosário Do Sul,RS,Ponte Ibicui Da Armada,76300000,-30.2808,-54.9031,80.0,Ativo
+1704,Cacequi,RS,Ponte São Simão Cacequi,76378900,-29.9433,-54.9317,0.0,Ativo
+1705,Cacequi,RS,Ponte RS-640 / Rio Cacequi,76380050,-29.895,-54.8531,0.0,Ativo
+1706,Jaguari,RS,Ponte Rio Jaguari,76431995,-29.4997,-54.6889,0.0,Ativo
+1707,Alegrete,RS,Jacaquá,76500040,-29.6869,-55.1964,0.0,Ativo
+1708,Alegrete,RS,Fundação Maronna Alegrete,76660900,-30.0681,-55.6594,0.0,Ativo
+1709,Alegrete,RS,Passo Do Osório Alegrete,76741900,-29.9514,-55.5992,0.0,Ativo
+1710,Bagé,RS,Fazenda São Jorge / Bagé,79200010,-31.4533,-54.13,0.0,Ativo
+1711,Aceguá,RS,Estância Da Lagoa - Rio Negro / Bagé,79400400,-31.6122,-54.3908,0.0,Ativo
+1712,Bertioga,SP,PCH Itatinga Montante,80245600,-23.7439,-46.1294,705.0,Ativo
+1713,Bertioga,SP,PCH Itatinga Barramento,80245700,-23.745,-46.1275,700.0,Ativo
+1714,Cubatão,SP,Cubatão,80360600,-23.8775,-46.4197,15.0,Ativo
+1715,Cerro Azul,PR,Balsa Do Cerro Azul,81135000,-24.7964,-49.2725,270.0,Ativo
+1716,Sete Barras,SP,Sete Barras,81420000,-24.3925,-47.925,35.0,Ativo
+1717,Juquiá,SP,Porto Da Goiaba,81545000,-24.2886,-47.6172,0.0,Ativo
+1718,Registro,SP,Registro,81683000,-24.49,-47.8367,10.0,Ativo
+1719,Cajati,SP,Barra Do Azeite – PCD,81699000,-24.8003,-48.1736,0.0,Ativo
+1720,Cajati,SP,Jacupiranguinha – PCD,81709050,-24.7597,-48.1711,0.0,Ativo
+1721,Guaraqueçaba,PR,Colônia Rio Verde,82002000,-25.16,-48.2425,45.0,Ativo
+1722,Antonina,PR,Pinguela,82065000,-25.2431,-48.7481,10.0,Ativo
+1723,Schroeder,SC,PCH Itapocuzinho IIa Montante,82410000,-26.2944,-49.1567,653.0,Ativo
+1724,Schroeder,SC,PCH Itapoucuzinho IIa Barramento,82410050,-26.3022,-49.1536,650.0,Ativo
+1725,Schroeder,SC,PCH Bracinho Jusante,82430100,-26.3239,-49.0922,121.0,Ativo
+1726,Taió,SC,DCSC Barragem Oeste Taió,83029940,-27.0967,-50.0383,362.0,Ativo
+1727,Taió,SC,Barragem Oeste,83030000,-27.0972,-50.0386,340.0,Ativo
+1728,Salete,SC,Ponte Moratelli,83035000,-26.9689,-50.0017,0.0,Ativo
+1729,Ituporanga,SC,DCSC Barragem Sul Ituporanga,83145100,-27.5036,-49.5533,412.0,Ativo
+1730,Ituporanga,SC,DCSC Barragemsul Ituporanga Jusante,83145140,-27.4819,-49.5828,373.0,Ativo
+1731,Ibirama,SC,Ibirama,83440000,-27.0539,-49.5167,151.0,Ativo
+1732,Benedito Novo,SC,PCH Alto Benedito II Barramento,83610400,-26.7836,-49.4169,333.0,Ativo
+1733,Benedito Novo,SC,PCH Alto Benedito II Jusante,83610500,-26.7758,-49.3719,148.0,Ativo
+1734,Rio Dos Cedros,SC,PCH Palmeiras Jusante,83674100,-26.6708,-49.325,227.0,Ativo
+1735,Camboriu,SC,Captação,83910100,-27.0208,-48.6628,0.0,Ativo
+1736,Águas Mornas,SC,Alto Cubatão,84098000,-27.7481,-48.9306,243.0,Ativo
+1737,Camboriu,SC,Braço,84110000,-27.0239,-48.7044,0.0,Ativo
+1738,Torres,RS,Rio Do Forno Mampituba,84420000,-29.2933,-49.8231,0.0,Ativo
+1739,Camboriu,SC,Canoas,84422100,-27.0892,-48.6931,0.0,Ativo
+1740,Anitápolis,SC,PCH Santa Rosa Montante,84520002,-28.0017,-49.1139,313.79,Ativo
+1741,Santa Rosa De Lima,SC,PCH Santa Rosa Barramento,84520008,-28.0131,-49.1225,301.0,Ativo
+1742,São Martinho,SC,PCH Capivari Barramento,84597250,-28.1086,-48.9594,190.0,Ativo
+1743,Sombrio,SC,Maracanã,84955000,-29.0558,-49.6856,16.0,Ativo
+1744,São João Do Sul,SC,Mampituba,84990000,-29.1547,-49.8264,23.0,Ativo
+1745,Arambaré,RS,Pista De Pouso Arambaré,85101000,-30.7569,-51.6242,0.0,Ativo
+1746,Paraíso Do Sul,RS,Arroio Barriga,85203000,-29.6936,-53.0492,0.0,Ativo
+1747,Restinga Seca,RS,Ponte Vacacaí Mirim CPRM,85438510,-29.8011,-53.3681,0.0,Ativo
+1748,São Gabriel,RS,Ponte BR-290 Cacacaí São Gabriel,85470010,-30.3603,-54.3122,0.0,Ativo
+1749,São Gabriel,RS,Passo Do Rocha,85480010,-30.2319,-53.9856,0.0,Ativo
+1750,Formigueiro,RS,Passo Das Tunas,85590900,-29.9258,-53.4164,0.0,Ativo
+1751,São Sepé,RS,Camping São Sepé,85623010,-30.1942,-53.5633,0.0,Ativo
+1752,Cachoeira Do Sul,RS,Passo São Lourenço,85642000,-30.0078,-53.0156,15.73,Ativo
+1753,Cachoeira Do Sul,RS,Passo São Lourenço Cach. Do Sul,85642005,-30.0078,-53.0164,0.0,Ativo
+1754,Candelária,RS,Prop. Candelária CPRM,85734900,-29.6569,-52.7864,0.0,Ativo
+1755,Sinimbu,RS,Sinimbú-Centro,85800000,-29.5014,-52.5519,0.0,Ativo
+1756,Rio Pardo,RS,Rio Pardo,85900000,-29.995,-52.3756,2.0,Ativo
+1757,Rio Pardo,RS,Rio Pardo,85900000,-29.995,-52.3756,2.0,Ativo
+1758,Cambará Do Sul,RS,CGH Cambará Barramento,86060010,-28.9489,-50.0556,592.0,Ativo
+1759,Monte Alegre Dos Campos,RS,PCH Serra Dos Cavalinhos I Barramento,86118000,-28.7964,-50.7294,489.0,Ativo
+1760,Muitos Capões,RS,PCH Morro Grande Montante,86125050,-28.5486,-51.3017,641.0,Ativo
+1761,Muitos Capões,RS,PCH Morro Grande Barramento,86125100,-28.5589,-51.3111,631.0,Ativo
+1762,Muitos Capões,RS,PCH Morro Grande Jusante 1,86125120,-28.5719,-51.3111,578.0,Ativo
+1763,Muitos Capões,RS,PCH Morro Grande Jusante 2,86125130,-28.5919,-51.3247,551.0,Ativo
+1764,Jaquirana,RS,Passo Tainhas,86160000,-28.8681,-50.4561,600.0,Ativo
+1765,Jaquirana,RS,Passo Tainhas Jaquirana,86160010,-28.8681,-50.4561,0.0,Ativo
+1766,São Francisco De Paula,RS,PCH Cazuza Ferreira Montante,86194900,-29.0231,-50.7156,786.0,Ativo
+1767,São Francisco De Paula,RS,PCH Cazuza Ferreira Alça,86195100,-29.0197,-50.7339,709.0,Ativo
+1768,Caxias Do Sul,RS,PCH Criúva Barramento,86200900,-28.9653,-50.7989,0.0,Ativo
+1769,Muitos Capões,RS,PCH Chimarrão Rio Santa Rita,86350000,-28.4725,-51.36,0.0,Ativo
+1770,André Da Rocha,RS,PCH Jardim Montante,86390900,-28.5328,-51.4094,595.0,Ativo
+1771,André Da Rocha,RS,PCH Jardim Barramento,86402000,-28.56,-51.4081,590.0,Ativo
+1772,André Da Rocha,RS,PCH Jardim Jusante,86403000,-28.5692,-51.4064,556.0,Ativo
+1773,Muitos Capões,RS,PCH Chimarrão Jusante,86404100,-28.6017,-51.6686,0.0,Ativo
+1774,Santa Tereza,RS,Santa Tereza,86472600,-29.1781,-51.7322,0.0,Ativo
+1775,Guaporé,RS,PCH Autódromo Barramento,86497400,-28.8283,-51.8419,0.0,Ativo
+1776,Muçum,RS,Muçum,86510000,-29.1672,-51.8686,240.0,Ativo
+1777,Doutor Ricardo,RS,Santa Lúcia,86580000,-29.1197,-51.9119,46.0,Ativo
+1778,Putinga,RS,PCH Salto Forqueta Alça,86743950,-29.0833,-52.2106,797.0,Ativo
+1779,Forquetinha,RS,Ponte Rio Forquetinha,86746900,-29.3922,-52.0758,0.0,Ativo
+1780,Bom Retiro Do Sul,RS,Bom Retiro Do Sul - Montante,86881000,-29.6081,-51.9511,1.0,Ativo
+1781,Taquari,RS,Taquari,86950000,-29.8069,-51.8758,-2.0,Ativo
+1782,São Jerônimo,RS,São Jerônimo,87020000,-29.9533,-51.7239,-1.39,Ativo
+1783,Imbé,RS,Propriedade Imbé,87111000,-29.9689,-50.1381,0.0,Ativo
+1784,Caxias Do Sul,RS,Nova Palmira,87160000,-29.3356,-51.1889,52.97,Ativo
+1785,São Vendelino,RS,São Vendelino,87168000,-29.3828,-51.3689,64.91,Ativo
+1786,São Sebastião Do Caí,RS,Barca Do Caí,87170000,-29.59,-51.3833,-1.0,Ativo
+1787,Cidreira,RS,Corsan Cidreira,87228450,-30.1569,-50.2353,0.0,Ativo
+1788,São Sebastião Do Caí,RS,Costa Do Rio Cadeia - Montante,87230000,-29.5906,-51.3136,2.58,Ativo
+1789,Rolante,RS,Mata Olho Rolante,87231100,-29.5803,-50.5561,0.0,Ativo
+1790,Pelotas,RS,Ponte Arroio Turuçu,87237000,-31.3678,-52.2928,0.0,Ativo
+1791,Viamão,RS,Lagoa Negra Pq. Itapuã Viamão,87241000,-30.38,-51.0061,0.0,Ativo
+1792,Guaíba,RS,Terminal Catsul Guaíba,87242000,-30.1075,-51.3111,0.0,Ativo
+1793,Barra Do Ribeiro,RS,Camping Barra Do Ribeiro,87242010,-30.3017,-51.2961,0.0,Ativo
+1794,Viamão,RS,Praia Da Pedreira - Trapiche,87242020,-30.3592,-51.0464,0.0,Ativo
+1795,Três Forquilhas,RS,Itati,87309010,-29.5097,-50.0911,0.0,Ativo
+1796,Arroio Do Sal,RS,Lagoa De Itapeva,87313000,-29.5192,-49.9147,0.0,Ativo
+1797,Maquiné,RS,Maquiné,87317020,-29.6522,-50.2092,0.0,Ativo
+1798,Maquiné,RS,Maquiné,87317030,-29.6519,-50.2092,13.0,Ativo
+1799,Caraá,RS,Fofonka Caraá,87318510,-29.7633,-50.4133,0.0,Ativo
+1800,Santo Antônio Da Patrulha,RS,STIL Lagoa Dos Barros,87333000,-29.9094,-50.4253,7.0,Ativo
+1801,Rolante,RS,Alto Rolante,87350000,-29.645,-50.5106,46.0,Ativo
+1802,São Leopoldo,RS,São Leopoldo,87382000,-29.7589,-51.1483,-0.42,Ativo
+1803,São Leopoldo,RS,São Leopoldo,87382000,-29.7589,-51.1483,-0.42,Ativo
+1804,Arroio Dos Ratos,RS,Camping Arroio Dos Ratos,87390070,-30.13,-51.7331,0.0,Ativo
+1805,Glorinha,RS,4 Irmãos Canal Gravataí,87398750,-29.9803,-50.7439,0.2,Ativo
+1806,Glorinha,RS,4 Irmãos Canal Gravataí,87398750,-29.9803,-50.7439,0.2,Ativo
+1807,Gravataí,RS,Passo Das Canoas - Auxiliar,87399000,-29.9644,-50.9778,0.0,Ativo
+1808,Alvorada,RS,Corsan Alvorada,87401750,-29.9683,-51.0367,12.0,Ativo
+1809,Dom Pedrito,RS,Ponte Ponche Verde / Dom Pedrito,87409000,-31.1475,-54.7594,0.0,Ativo
+1810,Tavares,RS,Lagoa Do Peixe,87420360,-31.2608,-50.9683,0.0,Ativo
+1811,Capivari Do Sul,RS,Parque P.M. Capivari Do Sul,87510015,-30.1544,-50.5528,0.0,Ativo
+1812,Palmares Do Sul,RS,Palmares Do Sul,87510020,-30.2658,-50.5164,0.0,Ativo
+1813,Mostardas,RS,Porto Barquinho,87510040,-31.0542,-50.9942,0.0,Ativo
+1814,Arambaré,RS,Ancoradouro Marina Arambaré,87540010,-30.9108,-51.4964,0.0,Ativo
+1815,Bagé,RS,Ponte Camaquã Chico,87550050,-30.9083,-53.8206,0.0,Ativo
+1816,Santa Vitória Do Palmar,RS,Geribatu,88009000,-33.5022,-53.1478,0.0,Ativo
+1817,Santa Vitória Do Palmar,RS,Darci Zanetti 1º Levante,88050010,-33.485,-53.4092,0.0,Ativo
+1818,Rio Grande,RS,Taim Mangueira,88060200,-32.5408,-52.5394,0.0,Ativo
+1819,Rio Grande,RS,Taim Mirim,88060210,-32.5397,-52.5392,0.0,Ativo
+1820,Santa Vitória Do Palmar,RS,Gastaud Mangueira,88150900,-32.8336,-52.6436,0.0,Ativo
+1821,Cerrito,RS,Cerrito / Pedro Osório,88365010,-31.86,-52.8167,0.0,Ativo
+1822,Arroio Grande,RS,Corsan Arroio Grande,88370150,-32.2394,-53.0897,0.0,Ativo
+1823,Cerrito,RS,Ponte Do Império Piratini,88550010,-31.7192,-52.9008,0.0,Ativo
+1824,Herval,RS,Cerro Chato Herval (CPRM),88575050,-31.865,-53.2689,0.0,Ativo
+1825,Capão Do Leão,RS,Eclusa São Gonçalo,88690050,-31.8111,-52.3892,0.0,Ativo
+1826,Arroio Grande,RS,Santa Isabel CGH (UFPeL),88700010,-32.1189,-52.5936,0.0,Ativo
+1827,União Da Vitória,PR,Estacao Teste Resolucao 99999999,99999999,-26.3936,-51.3936,670.0,Ativo
