@@ -63,7 +63,7 @@ for estacao in lista_estacoes:
     time_range_intervalo = len(pd.date_range(start=(primeiro_dado.replace(hour=0, minute=0)), end=(ultimo_dado.replace(hour=23, minute=59)), freq=f'{intervalo}T'))
     time_range_dia = len(pd.date_range(start=primeiro_dado, end=ultimo_dado, freq='D'))
 
-    reg_em_dias = total_cont*(intervalo*0.000694444)
+    reg_em_dias = round(total_cont*(intervalo*0.000694444), 2)
 
     try:
         porcent_dados = ((total_cont * 100) / time_range_intervalo).round(2)
@@ -118,9 +118,9 @@ for estacao in lista_estacoes:
 
         time_range_chuva_intervalo = len(pd.date_range(start=(primeiro_dado_chuva.replace(hour=0, minute=0)), end=(ultimo_dado_chuva.replace(hour=23, minute=59)), freq=f'{intervalo}T'))
         time_range_chuva_dia = len(pd.date_range(start=primeiro_dado_chuva, end=ultimo_dado_chuva, freq='D'))  
-        reg_em_dias_chuva = chuva_cont*(intervalo*0.000694444)
+        reg_em_dias_chuva = round(chuva_cont*(intervalo*0.000694444), 2)
         
-        porcent_chuva = ((chuva_cont* 100) / time_range_chuva_intervalo).round(2)           
+        porcent_chuva = round(((chuva_cont* 100) / time_range_chuva_intervalo), 2)       
                                                              
         df_temp['Data/Hora do Primeiro Registro de Chuva'] = primeiro_dado_chuva 
         df_temp['Data/Hora do Último Registro de Chuva'] = ultimo_dado_chuva,
@@ -146,3 +146,8 @@ for estacao in lista_estacoes:
 df_final = df_incluir.join(df_dados)
 
 df_final.to_csv('estatisticas_estacoes_ANA.csv')
+
+
+    
+
+    
